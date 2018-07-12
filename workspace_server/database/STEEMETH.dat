@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000034,
+    "prevClosePrice": 0.003509,
+    "lastPrice": 0.003471,
+    "weightedAvgPrice": 0.0034911,
+    "priceChangePercent": -0.97,
+    "lowPrice": 0.003356,
+    "openPrice": 0.003505,
+    "bidQty": 7.24,
+    "bidPrice": 0.003454,
+    "closeTime": 1530663795807,
+    "volume": 91410.56,
+    "highPrice": 0.003629,
+    "quoteVolume": 319.12375097,
+    "symbol": "STEEMETH",
+    "askPrice": 0.003471
+  }
+}

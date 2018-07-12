@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000242,
+    "prevClosePrice": 0.00003231,
+    "lastPrice": 0.00002988,
+    "weightedAvgPrice": 0.00003159,
+    "priceChangePercent": -7.492,
+    "lowPrice": 0.00002972,
+    "openPrice": 0.0000323,
+    "bidQty": 2445,
+    "bidPrice": 0.00002974,
+    "closeTime": 1530663855874,
+    "volume": 35173292,
+    "highPrice": 0.00003378,
+    "quoteVolume": 1111.01394471,
+    "symbol": "NCASHETH",
+    "askPrice": 0.0000299
+  }
+}

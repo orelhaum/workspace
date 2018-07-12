@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0005,
+    "prevClosePrice": 0.01364,
+    "lastPrice": 0.01321,
+    "weightedAvgPrice": 0.01363174,
+    "priceChangePercent": -3.647,
+    "lowPrice": 0.01289,
+    "openPrice": 0.01371,
+    "bidQty": 139.34,
+    "bidPrice": 0.01327,
+    "closeTime": 1530663746061,
+    "volume": 391628.73,
+    "highPrice": 0.01447,
+    "quoteVolume": 5338.5805936,
+    "symbol": "CMTBNB",
+    "askPrice": 0.01348
+  }
+}

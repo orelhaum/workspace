@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000634,
+    "prevClosePrice": 0.017725,
+    "lastPrice": 0.017101,
+    "weightedAvgPrice": 0.01763157,
+    "priceChangePercent": -3.575,
+    "lowPrice": 0.017043,
+    "openPrice": 0.017735,
+    "bidQty": 66.08,
+    "bidPrice": 0.017101,
+    "closeTime": 1530663743219,
+    "volume": 108234.59,
+    "highPrice": 0.018361,
+    "quoteVolume": 1908.34612616,
+    "symbol": "OMGETH",
+    "askPrice": 0.017132
+  }
+}

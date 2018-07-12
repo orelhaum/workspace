@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000075,
+    "prevClosePrice": 0.001126,
+    "lastPrice": 0.001052,
+    "weightedAvgPrice": 0.00112251,
+    "priceChangePercent": -6.655,
+    "lowPrice": 0.001045,
+    "openPrice": 0.001127,
+    "bidQty": 247.99,
+    "bidPrice": 0.001053,
+    "closeTime": 1530663747402,
+    "volume": 106062.13,
+    "highPrice": 0.001185,
+    "quoteVolume": 119.05559671,
+    "symbol": "NAVETH",
+    "askPrice": 0.001064
+  }
+}

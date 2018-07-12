@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.389,
+    "prevClosePrice": 9.147,
+    "lastPrice": 8.758,
+    "weightedAvgPrice": 9.08218984,
+    "priceChangePercent": -4.253,
+    "lowPrice": 8.719,
+    "openPrice": 9.147,
+    "bidQty": 10.214,
+    "bidPrice": 8.751,
+    "closeTime": 1530663745881,
+    "volume": 160152.764,
+    "highPrice": 9.491,
+    "quoteVolume": 1454537.806108,
+    "symbol": "QTUMUSDT",
+    "askPrice": 8.788
+  }
+}

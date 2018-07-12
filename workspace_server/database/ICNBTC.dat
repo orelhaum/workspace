@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000047,
+    "prevClosePrice": 0.00010463,
+    "lastPrice": 0.00009987,
+    "weightedAvgPrice": 0.00010302,
+    "priceChangePercent": -4.495,
+    "lowPrice": 0.0000983,
+    "openPrice": 0.00010457,
+    "bidQty": 377,
+    "bidPrice": 0.0000998,
+    "closeTime": 1530663720962,
+    "volume": 353521,
+    "highPrice": 0.000111,
+    "quoteVolume": 36.41961842,
+    "symbol": "ICNBTC",
+    "askPrice": 0.00009987
+  }
+}

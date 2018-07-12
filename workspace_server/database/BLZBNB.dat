@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.0006,
+    "prevClosePrice": 0.02321,
+    "lastPrice": 0.02421,
+    "weightedAvgPrice": 0.02426232,
+    "priceChangePercent": 2.541,
+    "lowPrice": 0.02295,
+    "openPrice": 0.02361,
+    "bidQty": 6793,
+    "bidPrice": 0.02407,
+    "closeTime": 1530663838798,
+    "volume": 216599.47,
+    "highPrice": 0.02612,
+    "quoteVolume": 5255.2057052,
+    "symbol": "BLZBNB",
+    "askPrice": 0.02448
+  }
+}

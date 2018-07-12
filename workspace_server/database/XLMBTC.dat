@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -9.3e-7,
+    "prevClosePrice": 0.00003239,
+    "lastPrice": 0.00003145,
+    "weightedAvgPrice": 0.00003224,
+    "priceChangePercent": -2.872,
+    "lowPrice": 0.00003132,
+    "openPrice": 0.00003238,
+    "bidQty": 9676,
+    "bidPrice": 0.00003144,
+    "closeTime": 1530663747127,
+    "volume": 73499660,
+    "highPrice": 0.00003333,
+    "quoteVolume": 2369.88250853,
+    "symbol": "XLMBTC",
+    "askPrice": 0.00003149
+  }
+}

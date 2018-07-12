@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000094,
+    "prevClosePrice": 0.0003215,
+    "lastPrice": 0.000312,
+    "weightedAvgPrice": 0.00032477,
+    "priceChangePercent": -2.925,
+    "lowPrice": 0.0003043,
+    "openPrice": 0.0003214,
+    "bidQty": 27.19,
+    "bidPrice": 0.0003108,
+    "closeTime": 1530663748035,
+    "volume": 1265432.04,
+    "highPrice": 0.0003456,
+    "quoteVolume": 410.97844334,
+    "symbol": "AEBTC",
+    "askPrice": 0.000312
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00002392,
+    "prevClosePrice": 0.00008066,
+    "lastPrice": 0.0001046,
+    "weightedAvgPrice": 0.00009223,
+    "priceChangePercent": 29.648,
+    "lowPrice": 0.00007752,
+    "openPrice": 0.00008068,
+    "bidQty": 7195,
+    "bidPrice": 0.00010502,
+    "closeTime": 1530663884055,
+    "volume": 4034744,
+    "highPrice": 0.00011,
+    "quoteVolume": 372.1382182,
+    "symbol": "DNTETH",
+    "askPrice": 0.00010932
+  }
+}

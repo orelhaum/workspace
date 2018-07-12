@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00003091,
+    "prevClosePrice": 0.00057894,
+    "lastPrice": 0.00054803,
+    "weightedAvgPrice": 0.00056247,
+    "priceChangePercent": -5.339,
+    "lowPrice": 0.00053213,
+    "openPrice": 0.00057894,
+    "bidQty": 213,
+    "bidPrice": 0.0005485,
+    "closeTime": 1530663795812,
+    "volume": 853731,
+    "highPrice": 0.00058798,
+    "quoteVolume": 480.19570455,
+    "symbol": "BATETH",
+    "askPrice": 0.00055158
+  }
+}

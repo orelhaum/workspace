@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00265,
+    "prevClosePrice": 0.0686,
+    "lastPrice": 0.07124,
+    "weightedAvgPrice": 0.0697198,
+    "priceChangePercent": 3.864,
+    "lowPrice": 0.06746,
+    "openPrice": 0.06859,
+    "bidQty": 0.81,
+    "bidPrice": 0.07124,
+    "closeTime": 1530663741634,
+    "volume": 376811.57,
+    "highPrice": 0.07182,
+    "quoteVolume": 26271.2274071,
+    "symbol": "TUSDBNB",
+    "askPrice": 0.07157
+  }
+}

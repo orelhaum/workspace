@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00243,
+    "prevClosePrice": 0.02926,
+    "lastPrice": 0.0267,
+    "weightedAvgPrice": 0.02786881,
+    "priceChangePercent": -8.342,
+    "lowPrice": 0.026,
+    "openPrice": 0.02913,
+    "bidQty": 50,
+    "bidPrice": 0.02683,
+    "closeTime": 1530663744428,
+    "volume": 82418.71,
+    "highPrice": 0.02983,
+    "quoteVolume": 2296.9111298,
+    "symbol": "TRIGBNB",
+    "askPrice": 0.02742
+  }
+}

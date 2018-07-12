@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -4e-8,
+    "prevClosePrice": 0.00000416,
+    "lastPrice": 0.00000412,
+    "weightedAvgPrice": 0.00000418,
+    "priceChangePercent": -0.962,
+    "lowPrice": 0.00000405,
+    "openPrice": 0.00000416,
+    "bidQty": 44231,
+    "bidPrice": 0.00000411,
+    "closeTime": 1530663811290,
+    "volume": 117067180,
+    "highPrice": 0.00000432,
+    "quoteVolume": 489.74401776,
+    "symbol": "IOSTBTC",
+    "askPrice": 0.00000412
+  }
+}

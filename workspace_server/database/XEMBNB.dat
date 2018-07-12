@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00017,
+    "prevClosePrice": 0.01323,
+    "lastPrice": 0.0134,
+    "weightedAvgPrice": 0.01356302,
+    "priceChangePercent": 1.285,
+    "lowPrice": 0.01286,
+    "openPrice": 0.01323,
+    "bidQty": 548.76,
+    "bidPrice": 0.01328,
+    "closeTime": 1530663885471,
+    "volume": 1136532.72,
+    "highPrice": 0.01444,
+    "quoteVolume": 15414.8196118,
+    "symbol": "XEMBNB",
+    "askPrice": 0.01346
+  }
+}

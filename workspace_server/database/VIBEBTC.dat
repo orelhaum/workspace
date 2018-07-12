@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -8.3e-7,
+    "prevClosePrice": 0.00001292,
+    "lastPrice": 0.0000121,
+    "weightedAvgPrice": 0.00001275,
+    "priceChangePercent": -6.419,
+    "lowPrice": 0.00001199,
+    "openPrice": 0.00001293,
+    "bidQty": 1637,
+    "bidPrice": 0.0000121,
+    "closeTime": 1530663748154,
+    "volume": 6417914,
+    "highPrice": 0.00001385,
+    "quoteVolume": 81.85765751,
+    "symbol": "VIBEBTC",
+    "askPrice": 0.00001213
+  }
+}

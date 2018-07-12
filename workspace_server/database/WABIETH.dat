@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00004294,
+    "prevClosePrice": 0.00089134,
+    "lastPrice": 0.00084795,
+    "weightedAvgPrice": 0.00089287,
+    "priceChangePercent": -4.82,
+    "lowPrice": 0.000832,
+    "openPrice": 0.00089089,
+    "bidQty": 586,
+    "bidPrice": 0.00084819,
+    "closeTime": 1530663747398,
+    "volume": 125064,
+    "highPrice": 0.00093948,
+    "quoteVolume": 111.66630252,
+    "symbol": "WABIETH",
+    "askPrice": 0.0008564
+  }
+}

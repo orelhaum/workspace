@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0303,
+    "prevClosePrice": 0.5029,
+    "lastPrice": 0.4725,
+    "weightedAvgPrice": 0.48730215,
+    "priceChangePercent": -6.026,
+    "lowPrice": 0.4669,
+    "openPrice": 0.5028,
+    "bidQty": 28.49,
+    "bidPrice": 0.4689,
+    "closeTime": 1530663745137,
+    "volume": 10056.89,
+    "highPrice": 0.5169,
+    "quoteVolume": 4900.744142,
+    "symbol": "WTCBNB",
+    "askPrice": 0.4739
+  }
+}

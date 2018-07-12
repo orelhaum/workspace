@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000518,
+    "prevClosePrice": 0.00016329,
+    "lastPrice": 0.00016856,
+    "weightedAvgPrice": 0.000167,
+    "priceChangePercent": 3.171,
+    "lowPrice": 0.00016091,
+    "openPrice": 0.00016338,
+    "bidQty": 249,
+    "bidPrice": 0.0001685,
+    "closeTime": 1530663868168,
+    "volume": 35745936,
+    "highPrice": 0.00017644,
+    "quoteVolume": 5969.68383189,
+    "symbol": "ZILETH",
+    "askPrice": 0.00016857
+  }
+}

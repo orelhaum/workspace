@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 4.2e-7,
+    "prevClosePrice": 0.00002477,
+    "lastPrice": 0.00002517,
+    "weightedAvgPrice": 0.00002568,
+    "priceChangePercent": 1.697,
+    "lowPrice": 0.00002446,
+    "openPrice": 0.00002475,
+    "bidQty": 5044,
+    "bidPrice": 0.00002517,
+    "closeTime": 1530663818184,
+    "volume": 28865587,
+    "highPrice": 0.000027,
+    "quoteVolume": 741.12578006,
+    "symbol": "GTOBTC",
+    "askPrice": 0.00002518
+  }
+}

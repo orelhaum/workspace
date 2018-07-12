@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0032,
+    "prevClosePrice": 1.1457,
+    "lastPrice": 1.1425,
+    "weightedAvgPrice": 1.15281361,
+    "priceChangePercent": -0.279,
+    "lowPrice": 1.139,
+    "openPrice": 1.1457,
+    "bidQty": 0.88,
+    "bidPrice": 1.1415,
+    "closeTime": 1530663885688,
+    "volume": 21213.86,
+    "highPrice": 1.1797,
+    "quoteVolume": 24455.626454,
+    "symbol": "ETCBNB",
+    "askPrice": 1.1442
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000769,
+    "prevClosePrice": 0.0014158,
+    "lastPrice": 0.0013388,
+    "weightedAvgPrice": 0.00143227,
+    "priceChangePercent": -5.432,
+    "lowPrice": 0.0013137,
+    "openPrice": 0.0014157,
+    "bidQty": 8.04,
+    "bidPrice": 0.0013383,
+    "closeTime": 1530663746542,
+    "volume": 262133.42,
+    "highPrice": 0.0015392,
+    "quoteVolume": 375.44598605,
+    "symbol": "GVTBTC",
+    "askPrice": 0.0013388
+  }
+}

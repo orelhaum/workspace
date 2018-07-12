@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 3.7e-7,
+    "prevClosePrice": 0.00000411,
+    "lastPrice": 0.0000045,
+    "weightedAvgPrice": 0.0000043,
+    "priceChangePercent": 8.959,
+    "lowPrice": 0.00000405,
+    "openPrice": 0.00000413,
+    "bidQty": 224129,
+    "bidPrice": 0.00000447,
+    "closeTime": 1530663819581,
+    "volume": 45561750,
+    "highPrice": 0.0000045,
+    "quoteVolume": 196.07830577,
+    "symbol": "TNBBTC",
+    "askPrice": 0.0000045
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.001,
+    "prevClosePrice": 0.9986,
+    "lastPrice": 0.9997,
+    "weightedAvgPrice": 0.99807865,
+    "priceChangePercent": 0.1,
+    "lowPrice": 0.9941,
+    "openPrice": 0.9987,
+    "bidQty": 57.55,
+    "bidPrice": 0.9982,
+    "closeTime": 1530663821199,
+    "volume": 7344880.22,
+    "highPrice": 1,
+    "quoteVolume": 7330768.105231,
+    "symbol": "TUSDUSDT",
+    "askPrice": 0.9996
+  }
+}

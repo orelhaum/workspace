@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000203,
+    "prevClosePrice": 0.005926,
+    "lastPrice": 0.005696,
+    "weightedAvgPrice": 0.00594238,
+    "priceChangePercent": -3.441,
+    "lowPrice": 0.00568,
+    "openPrice": 0.005899,
+    "bidQty": 32.4,
+    "bidPrice": 0.0057,
+    "closeTime": 1530663744958,
+    "volume": 38004.07,
+    "highPrice": 0.006147,
+    "quoteVolume": 225.83478246,
+    "symbol": "STRATETH",
+    "askPrice": 0.00573
+  }
+}

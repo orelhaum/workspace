@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000064,
+    "prevClosePrice": 0.0001586,
+    "lastPrice": 0.0001524,
+    "weightedAvgPrice": 0.00015694,
+    "priceChangePercent": -4.03,
+    "lowPrice": 0.0001501,
+    "openPrice": 0.0001588,
+    "bidQty": 50.42,
+    "bidPrice": 0.0001514,
+    "closeTime": 1530663746879,
+    "volume": 1394178.49,
+    "highPrice": 0.0001623,
+    "quoteVolume": 218.8080935,
+    "symbol": "EDOBTC",
+    "askPrice": 0.0001524
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000206,
+    "prevClosePrice": 0.000426,
+    "lastPrice": 0.0004053,
+    "weightedAvgPrice": 0.00042477,
+    "priceChangePercent": -4.837,
+    "lowPrice": 0.000405,
+    "openPrice": 0.0004259,
+    "bidQty": 18.76,
+    "bidPrice": 0.0004055,
+    "closeTime": 1530663808021,
+    "volume": 805975.83,
+    "highPrice": 0.0004462,
+    "quoteVolume": 342.35362478,
+    "symbol": "STRATBTC",
+    "askPrice": 0.0004074
+  }
+}

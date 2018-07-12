@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.303,
+    "prevClosePrice": 5.288,
+    "lastPrice": 4.986,
+    "weightedAvgPrice": 5.19159417,
+    "priceChangePercent": -5.729,
+    "lowPrice": 4.912,
+    "openPrice": 5.289,
+    "bidQty": 142.73,
+    "bidPrice": 4.962,
+    "closeTime": 1530663886216,
+    "volume": 3814466.624,
+    "highPrice": 5.49,
+    "quoteVolume": 19803162.70485,
+    "symbol": "ONTUSDT",
+    "askPrice": 4.988
+  }
+}

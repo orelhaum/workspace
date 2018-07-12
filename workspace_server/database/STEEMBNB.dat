@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00246,
+    "prevClosePrice": 0.11454,
+    "lastPrice": 0.11207,
+    "weightedAvgPrice": 0.11457801,
+    "priceChangePercent": -2.148,
+    "lowPrice": 0.10903,
+    "openPrice": 0.11453,
+    "bidQty": 59.56,
+    "bidPrice": 0.1122,
+    "closeTime": 1530663747881,
+    "volume": 43574.71,
+    "highPrice": 0.11983,
+    "quoteVolume": 4992.703374,
+    "symbol": "STEEMBNB",
+    "askPrice": 0.11443
+  }
+}

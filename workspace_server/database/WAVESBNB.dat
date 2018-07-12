@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.002,
+    "prevClosePrice": 0.2134,
+    "lastPrice": 0.2148,
+    "weightedAvgPrice": 0.21538554,
+    "priceChangePercent": -0.923,
+    "lowPrice": 0.2088,
+    "openPrice": 0.2168,
+    "bidQty": 15.61,
+    "bidPrice": 0.2127,
+    "closeTime": 1530663747218,
+    "volume": 8880.98,
+    "highPrice": 0.2233,
+    "quoteVolume": 1912.83468,
+    "symbol": "WAVESBNB",
+    "askPrice": 0.2142
+  }
+}

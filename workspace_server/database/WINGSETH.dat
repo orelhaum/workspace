@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000257,
+    "prevClosePrice": 0.0004938,
+    "lastPrice": 0.000473,
+    "weightedAvgPrice": 0.00049269,
+    "priceChangePercent": -5.153,
+    "lowPrice": 0.0004673,
+    "openPrice": 0.0004987,
+    "bidQty": 331,
+    "bidPrice": 0.0004755,
+    "closeTime": 1530663747631,
+    "volume": 134046,
+    "highPrice": 0.0005142,
+    "quoteVolume": 66.0432288,
+    "symbol": "WINGSETH",
+    "askPrice": 0.0004779
+  }
+}

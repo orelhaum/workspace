@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00132,
+    "prevClosePrice": 0.22447,
+    "lastPrice": 0.22309,
+    "weightedAvgPrice": 0.22392877,
+    "priceChangePercent": -0.588,
+    "lowPrice": 0.21939,
+    "openPrice": 0.22441,
+    "bidQty": 2.244,
+    "bidPrice": 0.22284,
+    "closeTime": 1530663886013,
+    "volume": 827.344,
+    "highPrice": 0.2303,
+    "quoteVolume": 185.26612496,
+    "symbol": "DGDETH",
+    "askPrice": 0.22369
+  }
+}

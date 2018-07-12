@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -2e-7,
+    "prevClosePrice": 0.00000233,
+    "lastPrice": 0.00000212,
+    "weightedAvgPrice": 0.00000226,
+    "priceChangePercent": -8.621,
+    "lowPrice": 0.0000021,
+    "openPrice": 0.00000232,
+    "bidQty": 270801,
+    "bidPrice": 0.00000211,
+    "closeTime": 1530663869544,
+    "volume": 396188239,
+    "highPrice": 0.00000245,
+    "quoteVolume": 894.31070916,
+    "symbol": "NCASHBTC",
+    "askPrice": 0.00000212
+  }
+}

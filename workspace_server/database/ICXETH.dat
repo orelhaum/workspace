@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000166,
+    "prevClosePrice": 0.003712,
+    "lastPrice": 0.003546,
+    "weightedAvgPrice": 0.00368334,
+    "priceChangePercent": -4.472,
+    "lowPrice": 0.003526,
+    "openPrice": 0.003712,
+    "bidQty": 38.22,
+    "bidPrice": 0.003535,
+    "closeTime": 1530663802625,
+    "volume": 499888.67,
+    "highPrice": 0.003872,
+    "quoteVolume": 1841.26152317,
+    "symbol": "ICXETH",
+    "askPrice": 0.003546
+  }
+}

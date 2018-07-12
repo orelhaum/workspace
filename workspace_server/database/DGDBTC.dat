@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000283,
+    "prevClosePrice": 0.016144,
+    "lastPrice": 0.015861,
+    "weightedAvgPrice": 0.01605655,
+    "priceChangePercent": -1.753,
+    "lowPrice": 0.01568,
+    "openPrice": 0.016144,
+    "bidQty": 5.991,
+    "bidPrice": 0.015861,
+    "closeTime": 1530663766173,
+    "volume": 3714.816,
+    "highPrice": 0.016599,
+    "quoteVolume": 59.64712753,
+    "symbol": "DGDBTC",
+    "askPrice": 0.015928
+  }
+}

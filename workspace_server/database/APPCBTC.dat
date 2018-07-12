@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000342,
+    "prevClosePrice": 0.00002988,
+    "lastPrice": 0.0000333,
+    "weightedAvgPrice": 0.00003821,
+    "priceChangePercent": 11.446,
+    "lowPrice": 0.00002881,
+    "openPrice": 0.00002988,
+    "bidQty": 1136,
+    "bidPrice": 0.00003329,
+    "closeTime": 1530663874878,
+    "volume": 20833239,
+    "highPrice": 0.0000545,
+    "quoteVolume": 796.02635254,
+    "symbol": "APPCBTC",
+    "askPrice": 0.0000333
+  }
+}

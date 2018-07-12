@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -1.8e-7,
+    "prevClosePrice": 0.00000411,
+    "lastPrice": 0.00000394,
+    "weightedAvgPrice": 0.00000404,
+    "priceChangePercent": -4.369,
+    "lowPrice": 0.00000391,
+    "openPrice": 0.00000412,
+    "bidQty": 967,
+    "bidPrice": 0.00000393,
+    "closeTime": 1530663828234,
+    "volume": 215047309,
+    "highPrice": 0.00000424,
+    "quoteVolume": 869.44793131,
+    "symbol": "XVGBTC",
+    "askPrice": 0.00000394
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 2e-8,
+    "prevClosePrice": 0.00002402,
+    "lastPrice": 0.00002387,
+    "weightedAvgPrice": 0.00002402,
+    "priceChangePercent": 0.084,
+    "lowPrice": 0.0000234,
+    "openPrice": 0.00002385,
+    "bidQty": 2964,
+    "bidPrice": 0.00002364,
+    "closeTime": 1530663743229,
+    "volume": 13024153,
+    "highPrice": 0.00002475,
+    "quoteVolume": 312.86196595,
+    "symbol": "SCETH",
+    "askPrice": 0.00002387
+  }
+}

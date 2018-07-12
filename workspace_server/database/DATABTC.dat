@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -2.8e-7,
+    "prevClosePrice": 0.00001231,
+    "lastPrice": 0.00001203,
+    "weightedAvgPrice": 0.00001207,
+    "priceChangePercent": -2.275,
+    "lowPrice": 0.0000114,
+    "openPrice": 0.00001231,
+    "bidQty": 1188,
+    "bidPrice": 0.00001203,
+    "closeTime": 1530663872255,
+    "volume": 15333379,
+    "highPrice": 0.00001285,
+    "quoteVolume": 185.03488772,
+    "symbol": "DATABTC",
+    "askPrice": 0.00001205
+  }
+}

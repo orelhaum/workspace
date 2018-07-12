@@ -1,0 +1,8 @@
+html
+  head
+    title= title
+  body
+    - let x;
+    - for ( x = 0; x < longitudMonedas; x++) {
+      li(name=`${monedas[x]}`) #{monedas[x]} 
+    - }

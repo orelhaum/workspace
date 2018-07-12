@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00202,
+    "prevClosePrice": 0.01346,
+    "lastPrice": 0.01573,
+    "weightedAvgPrice": 0.01705875,
+    "priceChangePercent": 14.734,
+    "lowPrice": 0.01325,
+    "openPrice": 0.01371,
+    "bidQty": 123.08,
+    "bidPrice": 0.01534,
+    "closeTime": 1530663804033,
+    "volume": 749997.31,
+    "highPrice": 0.0257,
+    "quoteVolume": 12794.0184576,
+    "symbol": "APPCBNB",
+    "askPrice": 0.01559
+  }
+}

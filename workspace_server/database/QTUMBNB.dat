@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00289,
+    "prevClosePrice": 0.62929,
+    "lastPrice": 0.63209,
+    "weightedAvgPrice": 0.63286656,
+    "priceChangePercent": 0.459,
+    "lowPrice": 0.61963,
+    "openPrice": 0.6292,
+    "bidQty": 47.84,
+    "bidPrice": 0.62659,
+    "closeTime": 1530663746911,
+    "volume": 3730.75,
+    "highPrice": 0.64733,
+    "quoteVolume": 2361.0669171,
+    "symbol": "QTUMBNB",
+    "askPrice": 0.6316
+  }
+}

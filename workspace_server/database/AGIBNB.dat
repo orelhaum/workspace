@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00038,
+    "prevClosePrice": 0.00858,
+    "lastPrice": 0.00819,
+    "weightedAvgPrice": 0.00837746,
+    "priceChangePercent": -4.434,
+    "lowPrice": 0.00791,
+    "openPrice": 0.00857,
+    "bidQty": 3115,
+    "bidPrice": 0.00804,
+    "closeTime": 1530663858587,
+    "volume": 244975.86,
+    "highPrice": 0.00885,
+    "quoteVolume": 2052.2748034,
+    "symbol": "AGIBNB",
+    "askPrice": 0.0082
+  }
+}

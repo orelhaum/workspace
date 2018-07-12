@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00013509,
+    "prevClosePrice": 0.00578,
+    "lastPrice": 0.00566021,
+    "weightedAvgPrice": 0.00577904,
+    "priceChangePercent": -2.331,
+    "lowPrice": 0.00565,
+    "openPrice": 0.0057953,
+    "bidQty": 17,
+    "bidPrice": 0.00567043,
+    "closeTime": 1530663746108,
+    "volume": 382888,
+    "highPrice": 0.00600694,
+    "quoteVolume": 2212.72355942,
+    "symbol": "VENETH",
+    "askPrice": 0.00568522
+  }
+}

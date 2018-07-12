@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000104,
+    "prevClosePrice": 0.061168,
+    "lastPrice": 0.061603,
+    "weightedAvgPrice": 0.06291871,
+    "priceChangePercent": 0.169,
+    "lowPrice": 0.060413,
+    "openPrice": 0.061499,
+    "bidQty": 4.2,
+    "bidPrice": 0.061521,
+    "closeTime": 1530663885754,
+    "volume": 4405.41,
+    "highPrice": 0.064988,
+    "quoteVolume": 277.18271353,
+    "symbol": "BTGETH",
+    "askPrice": 0.06191
+  }
+}

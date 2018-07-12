@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0012,
+    "prevClosePrice": 0.02881,
+    "lastPrice": 0.02787,
+    "weightedAvgPrice": 0.02949144,
+    "priceChangePercent": -4.128,
+    "lowPrice": 0.02718,
+    "openPrice": 0.02907,
+    "bidQty": 85.93,
+    "bidPrice": 0.02778,
+    "closeTime": 1530663744552,
+    "volume": 28322.69,
+    "highPrice": 0.0308,
+    "quoteVolume": 835.2770038,
+    "symbol": "WABIBNB",
+    "askPrice": 0.02855
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000192,
+    "prevClosePrice": 0.00032012,
+    "lastPrice": 0.00032262,
+    "weightedAvgPrice": 0.00032752,
+    "priceChangePercent": 0.599,
+    "lowPrice": 0.00031869,
+    "openPrice": 0.0003207,
+    "bidQty": 344,
+    "bidPrice": 0.00032218,
+    "closeTime": 1530663807526,
+    "volume": 13378321,
+    "highPrice": 0.00033303,
+    "quoteVolume": 4381.72761556,
+    "symbol": "ADAETH",
+    "askPrice": 0.00032269
+  }
+}

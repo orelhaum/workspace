@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000338,
+    "prevClosePrice": 0.00004628,
+    "lastPrice": 0.0000429,
+    "weightedAvgPrice": 0.00004529,
+    "priceChangePercent": -7.303,
+    "lowPrice": 0.00004177,
+    "openPrice": 0.00004628,
+    "bidQty": 234,
+    "bidPrice": 0.00004266,
+    "closeTime": 1530663775992,
+    "volume": 7647896,
+    "highPrice": 0.00004752,
+    "quoteVolume": 346.35218821,
+    "symbol": "POWRBTC",
+    "askPrice": 0.0000429
+  }
+}

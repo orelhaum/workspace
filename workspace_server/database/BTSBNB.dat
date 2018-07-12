@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00013,
+    "prevClosePrice": 0.01109,
+    "lastPrice": 0.01095,
+    "weightedAvgPrice": 0.01118902,
+    "priceChangePercent": -1.173,
+    "lowPrice": 0.01081,
+    "openPrice": 0.01108,
+    "bidQty": 150,
+    "bidPrice": 0.01107,
+    "closeTime": 1530663813705,
+    "volume": 254514.06,
+    "highPrice": 0.01186,
+    "quoteVolume": 2847.7621423,
+    "symbol": "BTSBNB",
+    "askPrice": 0.01131
+  }
+}

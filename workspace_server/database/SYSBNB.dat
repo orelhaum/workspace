@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00724,
+    "prevClosePrice": 0.01285,
+    "lastPrice": 0.02021,
+    "weightedAvgPrice": 0.03909089,
+    "priceChangePercent": 55.821,
+    "lowPrice": 0.0128,
+    "openPrice": 0.01297,
+    "bidQty": 6986.02,
+    "bidPrice": 0.02004,
+    "closeTime": 1530663885064,
+    "volume": 7854648.05,
+    "highPrice": 0.09705,
+    "quoteVolume": 307045.1717377,
+    "symbol": "SYSBNB",
+    "askPrice": 0.02092
+  }
+}

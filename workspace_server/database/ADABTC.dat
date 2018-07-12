@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -1.4e-7,
+    "prevClosePrice": 0.00002302,
+    "lastPrice": 0.00002292,
+    "weightedAvgPrice": 0.00002342,
+    "priceChangePercent": -0.607,
+    "lowPrice": 0.0000228,
+    "openPrice": 0.00002306,
+    "bidQty": 8940,
+    "bidPrice": 0.00002289,
+    "closeTime": 1530663880905,
+    "volume": 139367850,
+    "highPrice": 0.00002409,
+    "quoteVolume": 3263.45792924,
+    "symbol": "ADABTC",
+    "askPrice": 0.00002292
+  }
+}

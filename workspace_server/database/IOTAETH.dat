@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000669,
+    "prevClosePrice": 0.0024424,
+    "lastPrice": 0.00244933,
+    "weightedAvgPrice": 0.00248151,
+    "priceChangePercent": 0.274,
+    "lowPrice": 0.002422,
+    "openPrice": 0.00244264,
+    "bidQty": 310,
+    "bidPrice": 0.00244377,
+    "closeTime": 1530663885622,
+    "volume": 723245,
+    "highPrice": 0.00253435,
+    "quoteVolume": 1794.73760822,
+    "symbol": "IOTAETH",
+    "askPrice": 0.00245162
+  }
+}

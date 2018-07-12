@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0338,
+    "prevClosePrice": 1.1617,
+    "lastPrice": 1.1276,
+    "weightedAvgPrice": 1.17081293,
+    "priceChangePercent": -2.91,
+    "lowPrice": 1.1176,
+    "openPrice": 1.1614,
+    "bidQty": 218.83,
+    "bidPrice": 1.1265,
+    "closeTime": 1530663885441,
+    "volume": 9701854.53,
+    "highPrice": 1.23,
+    "quoteVolume": 11359056.761934,
+    "symbol": "IOTAUSDT",
+    "askPrice": 1.1288
+  }
+}

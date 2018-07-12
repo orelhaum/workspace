@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -8.3e-7,
+    "prevClosePrice": 0.00001296,
+    "lastPrice": 0.00001213,
+    "weightedAvgPrice": 0.00001253,
+    "priceChangePercent": -6.404,
+    "lowPrice": 0.00001197,
+    "openPrice": 0.00001296,
+    "bidQty": 720,
+    "bidPrice": 0.00001208,
+    "closeTime": 1530663745830,
+    "volume": 5055521,
+    "highPrice": 0.0000135,
+    "quoteVolume": 63.33365486,
+    "symbol": "REQBTC",
+    "askPrice": 0.00001213
+  }
+}

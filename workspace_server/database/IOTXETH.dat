@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000511,
+    "prevClosePrice": 0.00006638,
+    "lastPrice": 0.00006139,
+    "weightedAvgPrice": 0.00006574,
+    "priceChangePercent": -7.684,
+    "lowPrice": 0.000061,
+    "openPrice": 0.0000665,
+    "bidQty": 842,
+    "bidPrice": 0.00006133,
+    "closeTime": 1530663796335,
+    "volume": 14435270,
+    "highPrice": 0.00007191,
+    "quoteVolume": 948.93572106,
+    "symbol": "IOTXETH",
+    "askPrice": 0.00006168
+  }
+}

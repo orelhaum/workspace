@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000002,
+    "prevClosePrice": 0.0003268,
+    "lastPrice": 0.0003246,
+    "weightedAvgPrice": 0.00032798,
+    "priceChangePercent": -0.612,
+    "lowPrice": 0.0003186,
+    "openPrice": 0.0003266,
+    "bidQty": 169.34,
+    "bidPrice": 0.0003247,
+    "closeTime": 1530663747725,
+    "volume": 198543.09,
+    "highPrice": 0.0003386,
+    "quoteVolume": 65.1174842,
+    "symbol": "PIVXBTC",
+    "askPrice": 0.0003273
+  }
+}

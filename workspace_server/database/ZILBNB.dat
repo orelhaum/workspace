@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000191,
+    "prevClosePrice": 0.005332,
+    "lastPrice": 0.005523,
+    "weightedAvgPrice": 0.00549987,
+    "priceChangePercent": 3.582,
+    "lowPrice": 0.005257,
+    "openPrice": 0.005332,
+    "bidQty": 143314,
+    "bidPrice": 0.005522,
+    "closeTime": 1530663866929,
+    "volume": 5307078,
+    "highPrice": 0.005784,
+    "quoteVolume": 29188.255504,
+    "symbol": "ZILBNB",
+    "askPrice": 0.005548
+  }
+}

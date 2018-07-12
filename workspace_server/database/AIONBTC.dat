@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000012,
+    "prevClosePrice": 0.000171,
+    "lastPrice": 0.000159,
+    "weightedAvgPrice": 0.00016926,
+    "priceChangePercent": -7.018,
+    "lowPrice": 0.0001571,
+    "openPrice": 0.000171,
+    "bidQty": 60.98,
+    "bidPrice": 0.0001591,
+    "closeTime": 1530663847577,
+    "volume": 1761448.95,
+    "highPrice": 0.0001825,
+    "quoteVolume": 298.13541161,
+    "symbol": "AIONBTC",
+    "askPrice": 0.0001597
+  }
+}

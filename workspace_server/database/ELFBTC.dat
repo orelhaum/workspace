@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000374,
+    "prevClosePrice": 0.0001114,
+    "lastPrice": 0.00011514,
+    "weightedAvgPrice": 0.00011617,
+    "priceChangePercent": 3.357,
+    "lowPrice": 0.00010649,
+    "openPrice": 0.0001114,
+    "bidQty": 517,
+    "bidPrice": 0.00011505,
+    "closeTime": 1530663747567,
+    "volume": 6863284,
+    "highPrice": 0.00012699,
+    "quoteVolume": 797.31768141,
+    "symbol": "ELFBTC",
+    "askPrice": 0.00011595
+  }
+}

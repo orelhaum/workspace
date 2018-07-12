@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -8.6e-7,
+    "prevClosePrice": 0.0000111,
+    "lastPrice": 0.00001025,
+    "weightedAvgPrice": 0.00001083,
+    "priceChangePercent": -7.741,
+    "lowPrice": 0.0000101,
+    "openPrice": 0.00001111,
+    "bidQty": 506,
+    "bidPrice": 0.00001024,
+    "closeTime": 1530663877245,
+    "volume": 32679960,
+    "highPrice": 0.00001145,
+    "quoteVolume": 353.90636736,
+    "symbol": "QLCBTC",
+    "askPrice": 0.00001026
+  }
+}

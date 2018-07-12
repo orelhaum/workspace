@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000951,
+    "prevClosePrice": 0.00004369,
+    "lastPrice": 0.0000534,
+    "weightedAvgPrice": 0.00006029,
+    "priceChangePercent": 21.668,
+    "lowPrice": 0.00004019,
+    "openPrice": 0.00004389,
+    "bidQty": 1167,
+    "bidPrice": 0.0000534,
+    "closeTime": 1530663881840,
+    "volume": 582660342,
+    "highPrice": 0.000084,
+    "quoteVolume": 35125.99600603,
+    "symbol": "KEYETH",
+    "askPrice": 0.0000537
+  }
+}

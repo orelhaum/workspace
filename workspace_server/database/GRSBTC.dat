@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000428,
+    "prevClosePrice": 0.00010493,
+    "lastPrice": 0.00010065,
+    "weightedAvgPrice": 0.00010278,
+    "priceChangePercent": -4.079,
+    "lowPrice": 0.00009812,
+    "openPrice": 0.00010493,
+    "bidQty": 480,
+    "bidPrice": 0.0001,
+    "closeTime": 1530663880891,
+    "volume": 790620,
+    "highPrice": 0.00010846,
+    "quoteVolume": 81.25608309,
+    "symbol": "GRSBTC",
+    "askPrice": 0.00010064
+  }
+}

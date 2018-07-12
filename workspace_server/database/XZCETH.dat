@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000308,
+    "prevClosePrice": 0.035339,
+    "lastPrice": 0.036,
+    "weightedAvgPrice": 0.03580211,
+    "priceChangePercent": 0.863,
+    "lowPrice": 0.034538,
+    "openPrice": 0.035692,
+    "bidQty": 7.55,
+    "bidPrice": 0.035719,
+    "closeTime": 1530663885392,
+    "volume": 2153.73,
+    "highPrice": 0.038,
+    "quoteVolume": 77.10808371,
+    "symbol": "XZCETH",
+    "askPrice": 0.035994
+  }
+}

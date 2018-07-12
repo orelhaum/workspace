@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00001327,
+    "prevClosePrice": 0.0001401,
+    "lastPrice": 0.00012597,
+    "weightedAvgPrice": 0.00013487,
+    "priceChangePercent": -9.53,
+    "lowPrice": 0.00012441,
+    "openPrice": 0.00013924,
+    "bidQty": 8,
+    "bidPrice": 0.00012573,
+    "closeTime": 1530663745836,
+    "volume": 342986,
+    "highPrice": 0.00014578,
+    "quoteVolume": 46.25720235,
+    "symbol": "RDNBTC",
+    "askPrice": 0.00012596
+  }
+}

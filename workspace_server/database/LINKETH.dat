@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00002492,
+    "prevClosePrice": 0.00053293,
+    "lastPrice": 0.00050801,
+    "weightedAvgPrice": 0.00053188,
+    "priceChangePercent": -4.676,
+    "lowPrice": 0.00050302,
+    "openPrice": 0.00053293,
+    "bidQty": 1556,
+    "bidPrice": 0.000505,
+    "closeTime": 1530663738123,
+    "volume": 575795,
+    "highPrice": 0.000549,
+    "quoteVolume": 306.25568081,
+    "symbol": "LINKETH",
+    "askPrice": 0.00051035
+  }
+}

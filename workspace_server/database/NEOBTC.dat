@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000079,
+    "prevClosePrice": 0.005444,
+    "lastPrice": 0.005528,
+    "weightedAvgPrice": 0.00562688,
+    "priceChangePercent": 1.45,
+    "lowPrice": 0.0054,
+    "openPrice": 0.005449,
+    "bidQty": 37.57,
+    "bidPrice": 0.005528,
+    "closeTime": 1530663885877,
+    "volume": 603128.03,
+    "highPrice": 0.005835,
+    "quoteVolume": 3393.72931501,
+    "symbol": "NEOBTC",
+    "askPrice": 0.005532
+  }
+}

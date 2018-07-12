@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 6.4e-7,
+    "prevClosePrice": 0.00000315,
+    "lastPrice": 0.00000379,
+    "weightedAvgPrice": 0.00000431,
+    "priceChangePercent": 20.317,
+    "lowPrice": 0.00000288,
+    "openPrice": 0.00000315,
+    "bidQty": 612383,
+    "bidPrice": 0.00000378,
+    "closeTime": 1530663885426,
+    "volume": 8195184772,
+    "highPrice": 0.00000595,
+    "quoteVolume": 35288.42383767,
+    "symbol": "KEYBTC",
+    "askPrice": 0.00000379
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00036,
+    "prevClosePrice": 0.027841,
+    "lastPrice": 0.027481,
+    "weightedAvgPrice": 0.02845183,
+    "priceChangePercent": -1.293,
+    "lowPrice": 0.027471,
+    "openPrice": 0.027841,
+    "bidQty": 1.217,
+    "bidPrice": 0.027481,
+    "closeTime": 1530663745817,
+    "volume": 7408.094,
+    "highPrice": 0.029447,
+    "quoteVolume": 210.77382392,
+    "symbol": "ZECBTC",
+    "askPrice": 0.027541
+  }
+}

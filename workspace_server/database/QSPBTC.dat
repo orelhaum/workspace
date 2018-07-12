@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -6e-7,
+    "prevClosePrice": 0.00001244,
+    "lastPrice": 0.00001189,
+    "weightedAvgPrice": 0.00001244,
+    "priceChangePercent": -4.804,
+    "lowPrice": 0.00001167,
+    "openPrice": 0.00001249,
+    "bidQty": 15654,
+    "bidPrice": 0.00001188,
+    "closeTime": 1530663792427,
+    "volume": 12848718,
+    "highPrice": 0.00001345,
+    "quoteVolume": 159.82326972,
+    "symbol": "QSPBTC",
+    "askPrice": 0.00001193
+  }
+}

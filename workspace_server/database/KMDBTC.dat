@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000087,
+    "prevClosePrice": 0.0002573,
+    "lastPrice": 0.0002477,
+    "weightedAvgPrice": 0.00025336,
+    "priceChangePercent": -3.393,
+    "lowPrice": 0.0002432,
+    "openPrice": 0.0002564,
+    "bidQty": 35.23,
+    "bidPrice": 0.0002468,
+    "closeTime": 1530663877574,
+    "volume": 281561.98,
+    "highPrice": 0.000266,
+    "quoteVolume": 71.33629383,
+    "symbol": "KMDBTC",
+    "askPrice": 0.0002479
+  }
+}

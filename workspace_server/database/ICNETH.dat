@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000282,
+    "prevClosePrice": 0.001441,
+    "lastPrice": 0.0014101,
+    "weightedAvgPrice": 0.0014323,
+    "priceChangePercent": -1.961,
+    "lowPrice": 0.0013746,
+    "openPrice": 0.0014383,
+    "bidQty": 330,
+    "bidPrice": 0.001403,
+    "closeTime": 1530663745239,
+    "volume": 76396,
+    "highPrice": 0.0015,
+    "quoteVolume": 109.4221079,
+    "symbol": "ICNETH",
+    "askPrice": 0.0014242
+  }
+}

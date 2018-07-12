@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000187,
+    "prevClosePrice": 0.003658,
+    "lastPrice": 0.003493,
+    "weightedAvgPrice": 0.00361885,
+    "priceChangePercent": -5.082,
+    "lowPrice": 0.0034,
+    "openPrice": 0.00368,
+    "bidQty": 7974,
+    "bidPrice": 0.003437,
+    "closeTime": 1530663739461,
+    "volume": 421213,
+    "highPrice": 0.003997,
+    "quoteVolume": 1524.308213,
+    "symbol": "RCNBNB",
+    "askPrice": 0.003493
+  }
+}

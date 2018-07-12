@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000043,
+    "prevClosePrice": 0.00654,
+    "lastPrice": 0.0066,
+    "weightedAvgPrice": 0.00666227,
+    "priceChangePercent": 0.656,
+    "lowPrice": 0.00651,
+    "openPrice": 0.006557,
+    "bidQty": 420.64,
+    "bidPrice": 0.0066,
+    "closeTime": 1530663727403,
+    "volume": 82619.88,
+    "highPrice": 0.00697,
+    "quoteVolume": 550.43599625,
+    "symbol": "BNTETH",
+    "askPrice": 0.006611
+  }
+}

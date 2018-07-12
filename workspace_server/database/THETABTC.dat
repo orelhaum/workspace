@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 2.8e-7,
+    "prevClosePrice": 0.00002477,
+    "lastPrice": 0.00002506,
+    "weightedAvgPrice": 0.00002548,
+    "priceChangePercent": 1.13,
+    "lowPrice": 0.00002441,
+    "openPrice": 0.00002478,
+    "bidQty": 460,
+    "bidPrice": 0.00002503,
+    "closeTime": 1530663826834,
+    "volume": 38120325,
+    "highPrice": 0.000027,
+    "quoteVolume": 971.18835325,
+    "symbol": "THETABTC",
+    "askPrice": 0.00002516
+  }
+}

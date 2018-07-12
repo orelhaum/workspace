@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000134,
+    "prevClosePrice": 0.00001888,
+    "lastPrice": 0.00001754,
+    "weightedAvgPrice": 0.00001841,
+    "priceChangePercent": -7.097,
+    "lowPrice": 0.00001734,
+    "openPrice": 0.00001888,
+    "bidQty": 15862,
+    "bidPrice": 0.00001754,
+    "closeTime": 1530663740461,
+    "volume": 10702334,
+    "highPrice": 0.0000194,
+    "quoteVolume": 197.06904444,
+    "symbol": "AGIBTC",
+    "askPrice": 0.00001755
+  }
+}

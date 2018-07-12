@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000713,
+    "prevClosePrice": 0.00045048,
+    "lastPrice": 0.00044335,
+    "weightedAvgPrice": 0.00045015,
+    "priceChangePercent": -1.583,
+    "lowPrice": 0.00043995,
+    "openPrice": 0.00045048,
+    "bidQty": 1200,
+    "bidPrice": 0.00044335,
+    "closeTime": 1530663745620,
+    "volume": 1659760,
+    "highPrice": 0.0004595,
+    "quoteVolume": 747.14280449,
+    "symbol": "XLMETH",
+    "askPrice": 0.00044407
+  }
+}

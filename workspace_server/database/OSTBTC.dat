@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000106,
+    "prevClosePrice": 0.00001212,
+    "lastPrice": 0.00001106,
+    "weightedAvgPrice": 0.00001181,
+    "priceChangePercent": -8.746,
+    "lowPrice": 0.00001103,
+    "openPrice": 0.00001212,
+    "bidQty": 780,
+    "bidPrice": 0.00001115,
+    "closeTime": 1530663807360,
+    "volume": 8166663,
+    "highPrice": 0.00001289,
+    "quoteVolume": 96.48472146,
+    "symbol": "OSTBTC",
+    "askPrice": 0.00001123
+  }
+}

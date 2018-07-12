@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000062,
+    "prevClosePrice": 0.0004304,
+    "lastPrice": 0.0004242,
+    "weightedAvgPrice": 0.00045292,
+    "priceChangePercent": -1.441,
+    "lowPrice": 0.00041801,
+    "openPrice": 0.0004304,
+    "bidQty": 7816,
+    "bidPrice": 0.0004242,
+    "closeTime": 1530663867640,
+    "volume": 6888155,
+    "highPrice": 0.0005,
+    "quoteVolume": 3119.79051687,
+    "symbol": "LOOMETH",
+    "askPrice": 0.00042421
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00638,
+    "prevClosePrice": 0.48853,
+    "lastPrice": 0.48214,
+    "weightedAvgPrice": 0.49760376,
+    "priceChangePercent": -1.306,
+    "lowPrice": 0.47801,
+    "openPrice": 0.48852,
+    "bidQty": 484,
+    "bidPrice": 0.48133,
+    "closeTime": 1530663807051,
+    "volume": 44271264.3,
+    "highPrice": 0.52,
+    "quoteVolume": 22029547.61534,
+    "symbol": "XRPUSDT",
+    "askPrice": 0.48214
+  }
+}

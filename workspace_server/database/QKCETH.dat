@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000199,
+    "prevClosePrice": 0.00016419,
+    "lastPrice": 0.00014504,
+    "weightedAvgPrice": 0.0001607,
+    "priceChangePercent": -12.065,
+    "lowPrice": 0.00014429,
+    "openPrice": 0.00016494,
+    "bidQty": 1034,
+    "bidPrice": 0.00014487,
+    "closeTime": 1530663867649,
+    "volume": 34256720,
+    "highPrice": 0.00017991,
+    "quoteVolume": 5504.9696342,
+    "symbol": "QKCETH",
+    "askPrice": 0.00014505
+  }
+}

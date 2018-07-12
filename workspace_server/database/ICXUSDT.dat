@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.1331,
+    "prevClosePrice": 1.7567,
+    "lastPrice": 1.6289,
+    "weightedAvgPrice": 1.74111132,
+    "priceChangePercent": -7.554,
+    "lowPrice": 1.6252,
+    "openPrice": 1.762,
+    "bidQty": 160.87,
+    "bidPrice": 1.6261,
+    "closeTime": 1530663746944,
+    "volume": 5559177.74,
+    "highPrice": 1.82,
+    "quoteVolume": 9679147.265461,
+    "symbol": "ICXUSDT",
+    "askPrice": 1.6289
+  }
+}

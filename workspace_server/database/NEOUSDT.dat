@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.084,
+    "prevClosePrice": 35.92,
+    "lastPrice": 35.836,
+    "weightedAvgPrice": 36.99505214,
+    "priceChangePercent": -0.234,
+    "lowPrice": 35.32,
+    "openPrice": 35.92,
+    "bidQty": 0.675,
+    "bidPrice": 35.85,
+    "closeTime": 1530663886262,
+    "volume": 814310.835,
+    "highPrice": 38.569,
+    "quoteVolume": 30125471.798944,
+    "symbol": "NEOUSDT",
+    "askPrice": 35.919
+  }
+}

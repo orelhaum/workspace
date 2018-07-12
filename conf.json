@@ -1,0 +1,56 @@
+{
+"site_port": 8080,
+"site_host": "192.168.1.97",
+"site_https":false,
+
+"database_mongo_host": "127.0.0.1",
+"database_mongo_port": 27017,
+"database_mongo_user": null,
+"database_mongo_password": null,
+"database_mongo_name": "exchange",
+
+"database_redis_host": "127.0.0.1",
+"database_redis_port": 6379,
+"database_redis_password": null,
+
+"email_account":"cuentaquequeramos@gmail.com",
+"email_password": "",
+"email_server": "smtp.gmail.com",
+"email_port": 587,
+"email_server_tls": true,
+
+"servicio_remoto_token": "75d8bb9dbf12be694bcb71e85960c313c28f61d896c9dbd4db729e9c4edbef91713ba24c4aa4bdfb",
+"servicio_remoto_username": "ramiro",
+
+"servicio_web_remoto_host": "192.168.1.87",
+"servicio_web_remoto_port": "8085",
+
+"servicio_websocket_remoto_host": "192.168.1.87",
+"servicio_websocket_remoto_port": "8086",
+
+"servicio_web_local_host":"192.168.1.97",
+"servicio_web_local_port":"8081",
+
+"servicio_websocket_local_host":"192.168.1.97",
+"servicio_websocket_local_port":"8081",
+
+
+"logging_level": "info",
+"loggin_file" : "log.txt",
+"loggin_size_new_file":4098,
+
+"sesiones_password": "3AFSzM}U3dw>$hsH",
+
+"i18n_file_english":"messages/english.properties",
+"i18n_file_spanish":"messages/spanish.properties",
+
+"options_path_public":"./public",
+"options_path_templates":"./templates",
+"options_pagina_404": "./404.html",
+"options_pagina_500": "./500.html",
+"options_pagina_mantenimiento": "/mantenimiento.html",
+
+"options_language":"es",
+"options_timezone":"Europe/Madrid",
+"options_country": "es-ES"
+}

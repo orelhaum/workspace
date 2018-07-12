@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000883,
+    "prevClosePrice": 0.019665,
+    "lastPrice": 0.018856,
+    "weightedAvgPrice": 0.0199156,
+    "priceChangePercent": -4.473,
+    "lowPrice": 0.018422,
+    "openPrice": 0.019739,
+    "bidQty": 26.79,
+    "bidPrice": 0.018797,
+    "closeTime": 1530663746685,
+    "volume": 12628.44,
+    "highPrice": 0.021199,
+    "quoteVolume": 251.50301198,
+    "symbol": "GVTETH",
+    "askPrice": 0.01906
+  }
+}

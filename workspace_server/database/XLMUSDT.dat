@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.01084,
+    "prevClosePrice": 0.2135,
+    "lastPrice": 0.20399,
+    "weightedAvgPrice": 0.21255247,
+    "priceChangePercent": -5.046,
+    "lowPrice": 0.2032,
+    "openPrice": 0.21483,
+    "bidQty": 11622,
+    "bidPrice": 0.20373,
+    "closeTime": 1530663743036,
+    "volume": 26504096.96,
+    "highPrice": 0.22289,
+    "quoteVolume": 5633511.3215225,
+    "symbol": "XLMUSDT",
+    "askPrice": 0.20399
+  }
+}

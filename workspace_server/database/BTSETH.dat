@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.0000079,
+    "prevClosePrice": 0.0003351,
+    "lastPrice": 0.00034285,
+    "weightedAvgPrice": 0.00034392,
+    "priceChangePercent": 2.359,
+    "lowPrice": 0.0003325,
+    "openPrice": 0.00033495,
+    "bidQty": 155,
+    "bidPrice": 0.00034106,
+    "closeTime": 1530663803306,
+    "volume": 989032,
+    "highPrice": 0.00035534,
+    "quoteVolume": 340.14971832,
+    "symbol": "BTSETH",
+    "askPrice": 0.00034284
+  }
+}

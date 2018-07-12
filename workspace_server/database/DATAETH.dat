@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000302,
+    "prevClosePrice": 0.00017085,
+    "lastPrice": 0.00017246,
+    "weightedAvgPrice": 0.00016863,
+    "priceChangePercent": 1.782,
+    "lowPrice": 0.0001591,
+    "openPrice": 0.00016944,
+    "bidQty": 2582,
+    "bidPrice": 0.00016887,
+    "closeTime": 1530663743973,
+    "volume": 1606472,
+    "highPrice": 0.00017976,
+    "quoteVolume": 270.90535464,
+    "symbol": "DATAETH",
+    "askPrice": 0.00017165
+  }
+}

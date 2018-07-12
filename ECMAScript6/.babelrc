@@ -1,0 +1,3 @@
+{
+  "presets": ["es2015"]  // Indica que el lenguaje desde que el que va a realizarse la transcompilación es ES6
+}

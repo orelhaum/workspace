@@ -1,0 +1,19 @@
+<script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
+
+<script>
+
+let client  = mqtt.connect('ws://192.168.1.165:1884');
+
+client.on('connect', function () {
+  client.subscribe('chats')
+  let i=0;
+setInterval(()=>{
+  client.publish('chats', `Ramiro por web ${i++}`);
+},1000)
+})
+
+client.on('message', function (topic, message) {
+  console.log(message.toString());
+})
+
+</script>

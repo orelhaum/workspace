@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000163,
+    "prevClosePrice": 0.01287,
+    "lastPrice": 0.013033,
+    "weightedAvgPrice": 0.01315929,
+    "priceChangePercent": 1.267,
+    "lowPrice": 0.012851,
+    "openPrice": 0.01287,
+    "bidQty": 0.92,
+    "bidPrice": 0.013012,
+    "closeTime": 1530663886321,
+    "volume": 175982.82,
+    "highPrice": 0.01352,
+    "quoteVolume": 2315.80864825,
+    "symbol": "LTCBTC",
+    "askPrice": 0.013034
+  }
+}

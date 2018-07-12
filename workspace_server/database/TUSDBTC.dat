@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000298,
+    "prevClosePrice": 0.00015115,
+    "lastPrice": 0.00015417,
+    "weightedAvgPrice": 0.00015167,
+    "priceChangePercent": 1.971,
+    "lowPrice": 0.000149,
+    "openPrice": 0.00015119,
+    "bidQty": 46,
+    "bidPrice": 0.00015416,
+    "closeTime": 1530663795816,
+    "volume": 4689370,
+    "highPrice": 0.00015485,
+    "quoteVolume": 711.24932418,
+    "symbol": "TUSDBTC",
+    "askPrice": 0.00015417
+  }
+}

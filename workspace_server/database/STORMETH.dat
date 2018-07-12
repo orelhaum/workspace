@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 8.3e-7,
+    "prevClosePrice": 0.00004102,
+    "lastPrice": 0.00004189,
+    "weightedAvgPrice": 0.00004213,
+    "priceChangePercent": 2.021,
+    "lowPrice": 0.00004074,
+    "openPrice": 0.00004106,
+    "bidQty": 15768,
+    "bidPrice": 0.00004188,
+    "closeTime": 1530663867645,
+    "volume": 56850477,
+    "highPrice": 0.000051,
+    "quoteVolume": 2395.02295405,
+    "symbol": "STORMETH",
+    "askPrice": 0.00004208
+  }
+}

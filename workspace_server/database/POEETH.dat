@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -6.7e-7,
+    "prevClosePrice": 0.00004333,
+    "lastPrice": 0.00004279,
+    "weightedAvgPrice": 0.00004848,
+    "priceChangePercent": -1.542,
+    "lowPrice": 0.00004048,
+    "openPrice": 0.00004346,
+    "bidQty": 61764,
+    "bidPrice": 0.00004279,
+    "closeTime": 1530663885223,
+    "volume": 113513922,
+    "highPrice": 0.00005829,
+    "quoteVolume": 5503.5572834,
+    "symbol": "POEETH",
+    "askPrice": 0.00004294
+  }
+}

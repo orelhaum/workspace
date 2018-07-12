@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00003306,
+    "prevClosePrice": 0.00077057,
+    "lastPrice": 0.00074035,
+    "weightedAvgPrice": 0.00076358,
+    "priceChangePercent": -4.275,
+    "lowPrice": 0.00072112,
+    "openPrice": 0.00077341,
+    "bidQty": 651,
+    "bidPrice": 0.0007398,
+    "closeTime": 1530663796339,
+    "volume": 723747,
+    "highPrice": 0.0008,
+    "quoteVolume": 552.63840956,
+    "symbol": "GNTETH",
+    "askPrice": 0.00074485
+  }
+}

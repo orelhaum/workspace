@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.015,
+    "prevClosePrice": 1.236,
+    "lastPrice": 1.271,
+    "weightedAvgPrice": 1.25503629,
+    "priceChangePercent": 1.194,
+    "lowPrice": 1.221,
+    "openPrice": 1.256,
+    "bidQty": 1.5,
+    "bidPrice": 1.261,
+    "closeTime": 1530663733138,
+    "volume": 1749.147,
+    "highPrice": 1.31,
+    "quoteVolume": 2195.242954,
+    "symbol": "ZENBNB",
+    "askPrice": 1.295
+  }
+}

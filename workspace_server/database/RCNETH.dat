@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000652,
+    "prevClosePrice": 0.000111,
+    "lastPrice": 0.00010561,
+    "weightedAvgPrice": 0.00011031,
+    "priceChangePercent": -5.815,
+    "lowPrice": 0.00010351,
+    "openPrice": 0.00011213,
+    "bidQty": 1652,
+    "bidPrice": 0.00010535,
+    "closeTime": 1530663745642,
+    "volume": 4852016,
+    "highPrice": 0.00011968,
+    "quoteVolume": 535.24112031,
+    "symbol": "RCNETH",
+    "askPrice": 0.00010643
+  }
+}

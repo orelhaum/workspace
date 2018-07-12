@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.17,
+    "prevClosePrice": 5.83,
+    "lastPrice": 6.02,
+    "weightedAvgPrice": 6.04255574,
+    "priceChangePercent": 2.906,
+    "lowPrice": 5.81,
+    "openPrice": 5.85,
+    "bidQty": 0.64945,
+    "bidPrice": 6.01,
+    "closeTime": 1530663886293,
+    "volume": 5028.60558,
+    "highPrice": 6.22,
+    "quoteVolume": 30385.6295032,
+    "symbol": "LTCBNB",
+    "askPrice": 6.03
+  }
+}

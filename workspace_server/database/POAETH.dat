@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000525,
+    "prevClosePrice": 0.00045207,
+    "lastPrice": 0.00045732,
+    "weightedAvgPrice": 0.00050037,
+    "priceChangePercent": 1.161,
+    "lowPrice": 0.00042,
+    "openPrice": 0.00045207,
+    "bidQty": 5679,
+    "bidPrice": 0.00045863,
+    "closeTime": 1530663867718,
+    "volume": 6398007,
+    "highPrice": 0.000625,
+    "quoteVolume": 3201.34091452,
+    "symbol": "POAETH",
+    "askPrice": 0.00046149
+  }
+}

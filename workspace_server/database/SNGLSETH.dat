@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000651,
+    "prevClosePrice": 0.00008552,
+    "lastPrice": 0.00009203,
+    "weightedAvgPrice": 0.0000872,
+    "priceChangePercent": 7.612,
+    "lowPrice": 0.00008426,
+    "openPrice": 0.00008552,
+    "bidQty": 1810,
+    "bidPrice": 0.00009123,
+    "closeTime": 1530663885086,
+    "volume": 983650,
+    "highPrice": 0.00009498,
+    "quoteVolume": 85.77837825,
+    "symbol": "SNGLSETH",
+    "askPrice": 0.00009497
+  }
+}

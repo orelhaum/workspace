@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000951,
+    "prevClosePrice": 0.0012873,
+    "lastPrice": 0.001192,
+    "weightedAvgPrice": 0.00124883,
+    "priceChangePercent": -7.389,
+    "lowPrice": 0.0011703,
+    "openPrice": 0.0012871,
+    "bidQty": 28.15,
+    "bidPrice": 0.0011892,
+    "closeTime": 1530663874957,
+    "volume": 440273.38,
+    "highPrice": 0.00133,
+    "quoteVolume": 549.82610842,
+    "symbol": "LUNBTC",
+    "askPrice": 0.0011915
+  }
+}

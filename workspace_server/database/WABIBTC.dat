@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000392,
+    "prevClosePrice": 0.00006455,
+    "lastPrice": 0.00006039,
+    "weightedAvgPrice": 0.00006502,
+    "priceChangePercent": -6.095,
+    "lowPrice": 0.00005901,
+    "openPrice": 0.00006431,
+    "bidQty": 391,
+    "bidPrice": 0.00006042,
+    "closeTime": 1530663881195,
+    "volume": 1321208,
+    "highPrice": 0.00006747,
+    "quoteVolume": 85.90128898,
+    "symbol": "WABIBTC",
+    "askPrice": 0.00006061
+  }
+}

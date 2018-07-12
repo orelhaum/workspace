@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000113,
+    "prevClosePrice": 0.0011328,
+    "lastPrice": 0.0011282,
+    "weightedAvgPrice": 0.00113314,
+    "priceChangePercent": -0.992,
+    "lowPrice": 0.0011042,
+    "openPrice": 0.0011395,
+    "bidQty": 44,
+    "bidPrice": 0.0011198,
+    "closeTime": 1530663745639,
+    "volume": 64082,
+    "highPrice": 0.0011794,
+    "quoteVolume": 72.6141949,
+    "symbol": "STORJETH",
+    "askPrice": 0.0011291
+  }
+}

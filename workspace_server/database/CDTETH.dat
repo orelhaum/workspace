@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000167,
+    "prevClosePrice": 0.00005931,
+    "lastPrice": 0.00005761,
+    "weightedAvgPrice": 0.00005888,
+    "priceChangePercent": -2.817,
+    "lowPrice": 0.00005686,
+    "openPrice": 0.00005928,
+    "bidQty": 1228,
+    "bidPrice": 0.00005754,
+    "closeTime": 1530663795814,
+    "volume": 11593124,
+    "highPrice": 0.00006156,
+    "quoteVolume": 682.61044706,
+    "symbol": "CDTETH",
+    "askPrice": 0.00005769
+  }
+}

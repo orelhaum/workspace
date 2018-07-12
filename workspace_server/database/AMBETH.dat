@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00002642,
+    "prevClosePrice": 0.00069201,
+    "lastPrice": 0.00067251,
+    "weightedAvgPrice": 0.00069234,
+    "priceChangePercent": -3.78,
+    "lowPrice": 0.00067025,
+    "openPrice": 0.00069893,
+    "bidQty": 749,
+    "bidPrice": 0.00067182,
+    "closeTime": 1530663885998,
+    "volume": 232776,
+    "highPrice": 0.00071899,
+    "quoteVolume": 161.16109641,
+    "symbol": "AMBETH",
+    "askPrice": 0.00067759
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000085,
+    "prevClosePrice": 0.004543,
+    "lastPrice": 0.004457,
+    "weightedAvgPrice": 0.00448203,
+    "priceChangePercent": -1.871,
+    "lowPrice": 0.0043,
+    "openPrice": 0.004542,
+    "bidQty": 3164,
+    "bidPrice": 0.004361,
+    "closeTime": 1530663745231,
+    "volume": 352212,
+    "highPrice": 0.004747,
+    "quoteVolume": 1578.625985,
+    "symbol": "YOYOBNB",
+    "askPrice": 0.004444
+  }
+}

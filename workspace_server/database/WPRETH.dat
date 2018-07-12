@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000275,
+    "prevClosePrice": 0.00010067,
+    "lastPrice": 0.00009782,
+    "weightedAvgPrice": 0.00010165,
+    "priceChangePercent": -2.734,
+    "lowPrice": 0.00009651,
+    "openPrice": 0.00010057,
+    "bidQty": 9966,
+    "bidPrice": 0.00009782,
+    "closeTime": 1530663819733,
+    "volume": 2336440,
+    "highPrice": 0.00011111,
+    "quoteVolume": 237.5080017,
+    "symbol": "WPRETH",
+    "askPrice": 0.00009877
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000027,
+    "prevClosePrice": 0.002567,
+    "lastPrice": 0.00254,
+    "weightedAvgPrice": 0.00256927,
+    "priceChangePercent": -1.052,
+    "lowPrice": 0.002467,
+    "openPrice": 0.002567,
+    "bidQty": 2.78,
+    "bidPrice": 0.002541,
+    "closeTime": 1530663825633,
+    "volume": 20693.96,
+    "highPrice": 0.0027,
+    "quoteVolume": 53.16835976,
+    "symbol": "XZCBTC",
+    "askPrice": 0.002552
+  }
+}

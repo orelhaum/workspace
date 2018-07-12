@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.028,
+    "prevClosePrice": 0.449,
+    "lastPrice": 0.42,
+    "weightedAvgPrice": 0.43950912,
+    "priceChangePercent": -6.25,
+    "lowPrice": 0.41,
+    "openPrice": 0.448,
+    "bidQty": 149.356,
+    "bidPrice": 0.415,
+    "closeTime": 1530663749563,
+    "volume": 7818.958,
+    "highPrice": 0.467,
+    "quoteVolume": 3436.503323,
+    "symbol": "SKYBNB",
+    "askPrice": 0.423
+  }
+}

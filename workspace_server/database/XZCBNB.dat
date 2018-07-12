@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.003,
+    "prevClosePrice": 1.156,
+    "lastPrice": 1.176,
+    "weightedAvgPrice": 1.17591236,
+    "priceChangePercent": 0.256,
+    "lowPrice": 1.129,
+    "openPrice": 1.173,
+    "bidQty": 82.3,
+    "bidPrice": 1.164,
+    "closeTime": 1530663745450,
+    "volume": 503.492,
+    "highPrice": 1.236,
+    "quoteVolume": 592.062465,
+    "symbol": "XZCBNB",
+    "askPrice": 1.198
+  }
+}

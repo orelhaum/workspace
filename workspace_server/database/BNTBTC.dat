@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000258,
+    "prevClosePrice": 0.00047137,
+    "lastPrice": 0.00046985,
+    "weightedAvgPrice": 0.00048068,
+    "priceChangePercent": -0.546,
+    "lowPrice": 0.00045892,
+    "openPrice": 0.00047243,
+    "bidQty": 56,
+    "bidPrice": 0.00046797,
+    "closeTime": 1530663744953,
+    "volume": 170449,
+    "highPrice": 0.00050555,
+    "quoteVolume": 81.93076167,
+    "symbol": "BNTBTC",
+    "askPrice": 0.00046985
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000462,
+    "prevClosePrice": 0.00017265,
+    "lastPrice": 0.00016793,
+    "weightedAvgPrice": 0.00017434,
+    "priceChangePercent": -2.677,
+    "lowPrice": 0.00016379,
+    "openPrice": 0.00017255,
+    "bidQty": 2121,
+    "bidPrice": 0.00016723,
+    "closeTime": 1530663740523,
+    "volume": 2151362,
+    "highPrice": 0.00018799,
+    "quoteVolume": 375.0731939,
+    "symbol": "QSPETH",
+    "askPrice": 0.00016799
+  }
+}

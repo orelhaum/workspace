@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00351,
+    "prevClosePrice": 0.29731,
+    "lastPrice": 0.29974,
+    "weightedAvgPrice": 0.29754714,
+    "priceChangePercent": 1.185,
+    "lowPrice": 0.29186,
+    "openPrice": 0.29623,
+    "bidQty": 1.335,
+    "bidPrice": 0.29935,
+    "closeTime": 1530663885723,
+    "volume": 2168.333,
+    "highPrice": 0.30405,
+    "quoteVolume": 645.1812732,
+    "symbol": "XMRETH",
+    "askPrice": 0.3001
+  }
+}

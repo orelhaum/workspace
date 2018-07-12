@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00002044,
+    "prevClosePrice": 0.00050647,
+    "lastPrice": 0.00048603,
+    "weightedAvgPrice": 0.00051142,
+    "priceChangePercent": -4.036,
+    "lowPrice": 0.00047282,
+    "openPrice": 0.00050647,
+    "bidQty": 435,
+    "bidPrice": 0.00048603,
+    "closeTime": 1530663745905,
+    "volume": 797494,
+    "highPrice": 0.00054399,
+    "quoteVolume": 407.85145407,
+    "symbol": "SUBETH",
+    "askPrice": 0.00048945
+  }
+}

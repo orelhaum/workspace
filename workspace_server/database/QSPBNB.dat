@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000301,
+    "prevClosePrice": 0.005614,
+    "lastPrice": 0.005395,
+    "weightedAvgPrice": 0.00567564,
+    "priceChangePercent": -5.284,
+    "lowPrice": 0.005394,
+    "openPrice": 0.005696,
+    "bidQty": 250,
+    "bidPrice": 0.005448,
+    "closeTime": 1530663758747,
+    "volume": 428630,
+    "highPrice": 0.006096,
+    "quoteVolume": 2432.751432,
+    "symbol": "QSPBNB",
+    "askPrice": 0.005662
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.1704,
+    "prevClosePrice": 8.9214,
+    "lastPrice": 8.7502,
+    "weightedAvgPrice": 9.03109286,
+    "priceChangePercent": -1.91,
+    "lowPrice": 8.6051,
+    "openPrice": 8.9206,
+    "bidQty": 156.9,
+    "bidPrice": 8.7419,
+    "closeTime": 1530663849617,
+    "volume": 11246898.83,
+    "highPrice": 9.4363,
+    "quoteVolume": 101571787.730915,
+    "symbol": "EOSUSDT",
+    "askPrice": 8.7607
+  }
+}

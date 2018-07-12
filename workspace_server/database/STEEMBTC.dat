@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000066,
+    "prevClosePrice": 0.0002525,
+    "lastPrice": 0.0002458,
+    "weightedAvgPrice": 0.00025047,
+    "priceChangePercent": -2.615,
+    "lowPrice": 0.0002375,
+    "openPrice": 0.0002524,
+    "bidQty": 20,
+    "bidPrice": 0.0002458,
+    "closeTime": 1530663753243,
+    "volume": 722970.5,
+    "highPrice": 0.0002617,
+    "quoteVolume": 181.0851357,
+    "symbol": "STEEMBTC",
+    "askPrice": 0.0002467
+  }
+}

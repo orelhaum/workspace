@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 9.8e-7,
+    "prevClosePrice": 0.00005141,
+    "lastPrice": 0.00005239,
+    "weightedAvgPrice": 0.0000533,
+    "priceChangePercent": 1.906,
+    "lowPrice": 0.00004976,
+    "openPrice": 0.00005141,
+    "bidQty": 350,
+    "bidPrice": 0.00005225,
+    "closeTime": 1530663747286,
+    "volume": 5131226,
+    "highPrice": 0.0000576,
+    "quoteVolume": 273.51994874,
+    "symbol": "BLZBTC",
+    "askPrice": 0.0000524
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000362,
+    "prevClosePrice": 0.010867,
+    "lastPrice": 0.010513,
+    "weightedAvgPrice": 0.01075524,
+    "priceChangePercent": -3.329,
+    "lowPrice": 0.010306,
+    "openPrice": 0.010875,
+    "bidQty": 8.74,
+    "bidPrice": 0.010481,
+    "closeTime": 1530663856026,
+    "volume": 548700.05,
+    "highPrice": 0.011387,
+    "quoteVolume": 5901.40296432,
+    "symbol": "NASETH",
+    "askPrice": 0.010528
+  }
+}

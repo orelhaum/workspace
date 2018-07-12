@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0294,
+    "prevClosePrice": 0.30278,
+    "lastPrice": 0.27687,
+    "weightedAvgPrice": 0.29862908,
+    "priceChangePercent": -9.599,
+    "lowPrice": 0.27687,
+    "openPrice": 0.30627,
+    "bidQty": 166.79,
+    "bidPrice": 0.27688,
+    "closeTime": 1530663745104,
+    "volume": 3695.38,
+    "highPrice": 0.30961,
+    "quoteVolume": 1103.5479466,
+    "symbol": "NEBLBNB",
+    "askPrice": 0.28838
+  }
+}

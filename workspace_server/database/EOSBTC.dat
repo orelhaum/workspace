@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000018,
+    "prevClosePrice": 0.0013491,
+    "lastPrice": 0.0013481,
+    "weightedAvgPrice": 0.00136835,
+    "priceChangePercent": -0.133,
+    "lowPrice": 0.0013439,
+    "openPrice": 0.0013499,
+    "bidQty": 9.14,
+    "bidPrice": 0.0013481,
+    "closeTime": 1530663866661,
+    "volume": 5099779.73,
+    "highPrice": 0.0014153,
+    "quoteVolume": 6978.29548887,
+    "symbol": "EOSBTC",
+    "askPrice": 0.0013493
+  }
+}

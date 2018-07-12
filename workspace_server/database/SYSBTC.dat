@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00001617,
+    "prevClosePrice": 0.00002831,
+    "lastPrice": 0.0000446,
+    "weightedAvgPrice": 0.00015145,
+    "priceChangePercent": 56.877,
+    "lowPrice": 0.00002815,
+    "openPrice": 0.00002843,
+    "bidQty": 288,
+    "bidPrice": 0.00004429,
+    "closeTime": 1530663884270,
+    "volume": 234497961,
+    "highPrice": 96,
+    "quoteVolume": 35515.7280199,
+    "symbol": "SYSBTC",
+    "askPrice": 0.00004487
+  }
+}

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Crypto Coins Bank </title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Style CSS -->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+    <!-- FontAwesome CSS -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- Fontello CSS -->
+    <link rel="stylesheet" type="text/css" href="css/fontello.css">
+    
+    <script src="autenticacion.js"></script>
+    <script src="ajax.js"></script>
+    <script src="websocket.js"></script>
+    <script src="utilidades.js"></script>
+    <script src="pintar.js"></script>
+    
+    <script defer="defer" src="main_chat.js"></script>
+    <script defer="defer" src="main_monedas.js"></script>
+    <script src="actualizar_monedas.js"></script>
+</head>
+
+<body>
+    <!-- header-section-->
+    <div class="header-wrapper fixed-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-2 col-lg-3 col-md-12 col-sm-12 col-12">
+                    <div class="logo"> <a href="index.html"><img src="./images/logo.png" alt=""> </a> </div>
+                </div>
+                <div class="col-xl-7 col-lg-6 col-md-12 col-sm-12 col-12">
+                    <!-- navigations-->
+                    <div class="navigation">
+                        <div id="navigation">
+                            <ul>
+                                <li class="active"><a href="index.html">Home</a></li>
+                                   <li class="active"><a href="bitcoin-widget.html">Bitcoin Widget</a></li>
+                              
+                                <li class="has-sub"><a href="#">Blog</a>
+                                    <ul>
+                                        <li><a href="blog-default.html">Blog Default</a></li>
+                                        <li><a href="blog-single.html">Blog Single</a></li>
+                                    </ul>
+                                </li>
+                                <li class="has-sub"><a href="#">Pages</a>
+                                    <ul>
+                                        <li><a href="about.html">about</a></li>
+                                        <li><a href="faq.html">FAQ</a></li>
+                                        <li><a href="login.html">Login</a></li>
+                                        <li><a href="register.html">Sign up</a></li>
+                                        <li><a href="error-page.html">404 page</a> </li>
+                                        <li><a href="styleguide.html">styleguide</a> </li>
+                                    </ul>
+                                </li>
+                                <li><a href="contact-us.html">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /.navigations-->
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 d-none d-xl-block d-lg-block">
+                    <div class="header-quick-info">
+                        <a href="login.html" class="btn btn-white btn-xs mr-1">Login</a>
+                        <a href="register.html" class="btn btn-default btn-xs">Sign up</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /. header-section-->
+    <!--  hero-section -->
+    <div id="particles-js" class="hero-section">
+    </div>
+    <div class="hero-container">
+        <div class="container">
+            <div class="row ">
+                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 text-center ">
+                    <!--  hero-block-->
+                    <div class="hero-block">
+                        <h1 class="hero-title mb30">Buy And Sell Digital Currency</h1>
+                        <p class="text-white">Praesent sodales ultricies dolorut feugiatnisi tincidunt utestib Aliquam enim nisl, efficitupendisse convallis nisl eu leo commodo tempus. ulumest urnatristi risus sitame.</p>
+                        <a href="#" class="btn btn-default btn-lg">Get Started</a>
+                    </div>
+                    <!--  /.hero-block-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--  /.hero-section -->
+    <!--  bitcoin-price-section -->
+    <div class="bg-light">
+        <div class="container">
+            <div class="row ">
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12 ">
+                    <p id="BTCUSDT" class="text-primary pdt10 pdb10">Bitcoin BTC <strong>$9919.41</strong> </p>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12 ">
+                    <p id="ETHBTC" class="text-primary pdt10 pdb10">Ethereum ETH <strong>$759.41</strong> </p>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12 ">
+                    <p id="LTCBTC" class="text-primary pdt10 pdb10">Litecoin LTC <strong>$184.91</strong> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--  /.bitcoin-price-section -->
+    
+    <!-- footer -->
+    <div class="footer">
+        <div class="container">
+            <div class="row ">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                    <div class="ft-logo"><img src="./images/logo.png" alt=""></div>
+                </div>
+            </div>
+            <hr class="footer-line">
+            <div class="row ">
+                <!-- footer-about -->
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <div class="footer-title">Company</div>
+                        <ul class="list-unstyled">
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Press</a></li>
+                            <li><a href="#">Legal & Privacy</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.footer-about -->
+                <!-- footer-links -->
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <div class="footer-title">Quick Links</div>
+                        <ul class="list-unstyled">
+                            <li><a href="#">News</a></li>
+                            <li><a href="#">Contact us</a></li>
+                            <li><a href="#">FAQ</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.footer-links -->
+                <!-- footer-links -->
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <div class="footer-title">Social</div>
+                        <ul class="list-unstyled">
+                            <li><a href="#">Twitter</a></li>
+                            <li><a href="#">Google +</a></li>
+                            <li><a href="#">Linked In</a></li>
+                            <li><a href="#">Facebook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.footer-links -->
+                <!-- footer-links -->
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <h3 class="footer-title">Subscribe Newsletter</h3>
+                        <form>
+                            <div class="newsletter-form">
+                                <input class="form-control" placeholder="Enter Your Email address" type="text">
+                                <button class="btn btn-default btn-sm" type="submit">Go</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- /.footer-links -->
+                <!-- tiny-footer -->
+            </div>
+            <div class="row ">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center ">
+                    <div class="tiny-footer">
+                        <p>Copyright © All Rights Reserved 2020 | Template Design & Development by <a href="https://easetemplate.com/ " target="_blank" class="copyrightlink">EaseTemplate</a></p>
+                    </div>
+                </div>
+                <!-- /. tiny-footer -->
+            </div>
+        </div>
+    </div>
+    <!-- /.footer -->
+    <a href="javascript:" id="return-to-top"><i class="fa fa-angle-up"></i></a>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/menumaker.js"></script>
+    <script src="js/return-to-top.js"></script>
+    <script src="js/navigation.js"></script>
+    <script src="js/particles.min.js"></script>
+    <script>
+    /* ---- particles.js config ---- */
+    /* -----------------------------------------------
+/* How to use? : Check the GitHub README
+/* ----------------------------------------------- */
+
+    /* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
+    /*
+    particlesJS.load('particles-js', 'particles.json', function() {
+      console.log('particles.js loaded - callback');
+    });
+    */
+
+    /* Otherwise just put the config content (json): */
+
+    particlesJS('particles-js',
+
+        {
+            "particles": {
+                "number": {
+                    "value": 80,
+                    "density": {
+                        "enable": true,
+                        "value_area": 800
+                    }
+                },
+                "color": {
+                    "value": "#feeb01"
+                },
+                "shape": {
+                    "type": "circle",
+                    "stroke": {
+                        "width": 0,
+                        "color": "#000000"
+                    },
+                    "polygon": {
+                        "nb_sides": 5
+                    },
+                    "image": {
+                        "src": "img/github.svg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "opacity": {
+                    "value": 0.5,
+                    "random": false,
+                    "anim": {
+                        "enable": false,
+                        "speed": 1,
+                        "opacity_min": 0.1,
+                        "sync": false
+                    }
+                },
+                "size": {
+                    "value": 5,
+                    "random": true,
+                    "anim": {
+                        "enable": false,
+                        "speed": 40,
+                        "size_min": 0.1,
+                        "sync": false
+                    }
+                },
+                "line_linked": {
+                    "enable": true,
+                    "distance": 150,
+                    "color": "#ff9f2a",
+                    "opacity": 0.4,
+                    "width": 1
+                },
+                "move": {
+                    "enable": true,
+                    "speed": 6,
+                    "direction": "none",
+                    "random": false,
+                    "straight": false,
+                    "out_mode": "out",
+                    "attract": {
+                        "enable": false,
+                        "rotateX": 600,
+                        "rotateY": 1200
+                    }
+                }
+            },
+            "interactivity": {
+                "detect_on": "canvas",
+                "events": {
+                    "onhover": {
+                        "enable": true,
+                        "mode": "repulse"
+                    },
+                    "onclick": {
+                        "enable": true,
+                        "mode": "push"
+                    },
+                    "resize": true
+                },
+                "modes": {
+                    "grab": {
+                        "distance": 400,
+                        "line_linked": {
+                            "opacity": 1
+                        }
+                    },
+                    "bubble": {
+                        "distance": 400,
+                        "size": 40,
+                        "duration": 2,
+                        "opacity": 8,
+                        "speed": 3
+                    },
+                    "repulse": {
+                        "distance": 200
+                    },
+                    "push": {
+                        "particles_nb": 4
+                    },
+                    "remove": {
+                        "particles_nb": 2
+                    }
+                }
+            },
+            "retina_detect": true,
+            "config_demo": {
+                "hide_card": false,
+                "background_color": "#b61924",
+                "background_image": "",
+                "background_position": "50% 50%",
+                "background_repeat": "no-repeat",
+                "background_size": "cover"
+            }
+        }
+
+    );
+    </script>
+</body>
+
+</html>

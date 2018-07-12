@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.0000229,
+    "prevClosePrice": 0.00071538,
+    "lastPrice": 0.0007383,
+    "weightedAvgPrice": 0.00074378,
+    "priceChangePercent": 3.201,
+    "lowPrice": 0.00069308,
+    "openPrice": 0.0007154,
+    "bidQty": 14,
+    "bidPrice": 0.00073523,
+    "closeTime": 1530663796349,
+    "volume": 2979986,
+    "highPrice": 0.00079685,
+    "quoteVolume": 2216.45572314,
+    "symbol": "BLZETH",
+    "askPrice": 0.00073972
+  }
+}

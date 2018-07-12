@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000058,
+    "prevClosePrice": 0.0001044,
+    "lastPrice": 0.0000986,
+    "weightedAvgPrice": 0.00010299,
+    "priceChangePercent": -5.556,
+    "lowPrice": 0.0000975,
+    "openPrice": 0.0001044,
+    "bidQty": 127.02,
+    "bidPrice": 0.0000982,
+    "closeTime": 1530663855382,
+    "volume": 1967751.46,
+    "highPrice": 0.0001098,
+    "quoteVolume": 202.65733975,
+    "symbol": "INSBTC",
+    "askPrice": 0.0000985
+  }
+}

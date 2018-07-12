@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000102,
+    "prevClosePrice": 0.000109,
+    "lastPrice": 0.00010806,
+    "weightedAvgPrice": 0.00011637,
+    "priceChangePercent": -0.935,
+    "lowPrice": 0.0001059,
+    "openPrice": 0.00010908,
+    "bidQty": 6992,
+    "bidPrice": 0.00010777,
+    "closeTime": 1530663885235,
+    "volume": 3814316,
+    "highPrice": 0.000139,
+    "quoteVolume": 443.8902477,
+    "symbol": "CHATETH",
+    "askPrice": 0.00010845
+  }
+}

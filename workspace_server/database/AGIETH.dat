@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00001594,
+    "prevClosePrice": 0.0002632,
+    "lastPrice": 0.00024726,
+    "weightedAvgPrice": 0.00025746,
+    "priceChangePercent": -6.056,
+    "lowPrice": 0.00024355,
+    "openPrice": 0.0002632,
+    "bidQty": 2040,
+    "bidPrice": 0.00024614,
+    "closeTime": 1530663795816,
+    "volume": 1984737,
+    "highPrice": 0.0002697,
+    "quoteVolume": 510.98715557,
+    "symbol": "AGIETH",
+    "askPrice": 0.00024727
+  }
+}

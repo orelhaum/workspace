@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00117,
+    "prevClosePrice": 0.38606,
+    "lastPrice": 0.3882,
+    "weightedAvgPrice": 0.39669644,
+    "priceChangePercent": 0.302,
+    "lowPrice": 0.38555,
+    "openPrice": 0.38703,
+    "bidQty": 3.297,
+    "bidPrice": 0.38675,
+    "closeTime": 1530663744911,
+    "volume": 1327.618,
+    "highPrice": 0.40937,
+    "quoteVolume": 526.66133369,
+    "symbol": "ZECETH",
+    "askPrice": 0.38819
+  }
+}

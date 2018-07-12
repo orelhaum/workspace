@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -1.1e-7,
+    "prevClosePrice": 0.00000951,
+    "lastPrice": 0.00000938,
+    "weightedAvgPrice": 0.00000932,
+    "priceChangePercent": -1.159,
+    "lowPrice": 0.00000893,
+    "openPrice": 0.00000949,
+    "bidQty": 74426,
+    "bidPrice": 0.00000937,
+    "closeTime": 1530663771303,
+    "volume": 13461505,
+    "highPrice": 0.0000097,
+    "quoteVolume": 125.46334985,
+    "symbol": "ENJBTC",
+    "askPrice": 0.00000939
+  }
+}

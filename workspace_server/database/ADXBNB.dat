@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00135,
+    "prevClosePrice": 0.02921,
+    "lastPrice": 0.0306,
+    "weightedAvgPrice": 0.03038694,
+    "priceChangePercent": 4.615,
+    "lowPrice": 0.02865,
+    "openPrice": 0.02925,
+    "bidQty": 6744,
+    "bidPrice": 0.02944,
+    "closeTime": 1530663746059,
+    "volume": 52630.27,
+    "highPrice": 0.03131,
+    "quoteVolume": 1599.2727168,
+    "symbol": "ADXBNB",
+    "askPrice": 0.0306
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000806,
+    "prevClosePrice": 0.0011002,
+    "lastPrice": 0.0010177,
+    "weightedAvgPrice": 0.00108973,
+    "priceChangePercent": -7.339,
+    "lowPrice": 0.0010102,
+    "openPrice": 0.0010983,
+    "bidQty": 11.59,
+    "bidPrice": 0.0010177,
+    "closeTime": 1530663743816,
+    "volume": 220766.8,
+    "highPrice": 0.0011299,
+    "quoteVolume": 240.5764064,
+    "symbol": "WTCBTC",
+    "askPrice": 0.0010196
+  }
+}

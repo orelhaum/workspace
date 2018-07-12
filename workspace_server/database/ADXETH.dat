@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.0000103,
+    "prevClosePrice": 0.0008947,
+    "lastPrice": 0.000905,
+    "weightedAvgPrice": 0.00091151,
+    "priceChangePercent": 1.151,
+    "lowPrice": 0.00088,
+    "openPrice": 0.0008947,
+    "bidQty": 561,
+    "bidPrice": 0.0008967,
+    "closeTime": 1530663747108,
+    "volume": 131713,
+    "highPrice": 0.0009496,
+    "quoteVolume": 120.0572993,
+    "symbol": "ADXETH",
+    "askPrice": 0.0009038
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -2.9e-7,
+    "prevClosePrice": 0.00000724,
+    "lastPrice": 0.00000694,
+    "weightedAvgPrice": 0.00000722,
+    "priceChangePercent": -4.011,
+    "lowPrice": 0.0000069,
+    "openPrice": 0.00000723,
+    "bidQty": 5094,
+    "bidPrice": 0.00000693,
+    "closeTime": 1530663748200,
+    "volume": 13487752,
+    "highPrice": 0.00000756,
+    "quoteVolume": 97.40411044,
+    "symbol": "WPRBTC",
+    "askPrice": 0.00000695
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.079,
+    "prevClosePrice": 2.482,
+    "lastPrice": 2.548,
+    "weightedAvgPrice": 2.58211439,
+    "priceChangePercent": 3.2,
+    "lowPrice": 2.456,
+    "openPrice": 2.469,
+    "bidQty": 0.469,
+    "bidPrice": 2.552,
+    "closeTime": 1530663885532,
+    "volume": 18594.758,
+    "highPrice": 2.672,
+    "quoteVolume": 48013.792123,
+    "symbol": "NEOBNB",
+    "askPrice": 2.561
+  }
+}

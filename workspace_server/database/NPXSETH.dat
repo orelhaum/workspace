@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000112,
+    "prevClosePrice": 0.00001002,
+    "lastPrice": 0.0000089,
+    "weightedAvgPrice": 0.00000945,
+    "priceChangePercent": -11.178,
+    "lowPrice": 0.00000882,
+    "openPrice": 0.00001002,
+    "bidQty": 416683,
+    "bidPrice": 0.00000889,
+    "closeTime": 1530663867647,
+    "volume": 300872108,
+    "highPrice": 0.0000102,
+    "quoteVolume": 2843.20644142,
+    "symbol": "NPXSETH",
+    "askPrice": 0.00000891
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00004,
+    "prevClosePrice": 0.01405,
+    "lastPrice": 0.01409,
+    "weightedAvgPrice": 0.01465417,
+    "priceChangePercent": 0.285,
+    "lowPrice": 0.01364,
+    "openPrice": 0.01405,
+    "bidQty": 543.63,
+    "bidPrice": 0.01383,
+    "closeTime": 1530663779621,
+    "volume": 1287229.66,
+    "highPrice": 0.01599,
+    "quoteVolume": 18863.2791518,
+    "symbol": "LOOMBNB",
+    "askPrice": 0.01394
+  }
+}

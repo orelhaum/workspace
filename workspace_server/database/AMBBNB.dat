@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00103,
+    "prevClosePrice": 0.02269,
+    "lastPrice": 0.022,
+    "weightedAvgPrice": 0.02274819,
+    "priceChangePercent": -4.472,
+    "lowPrice": 0.022,
+    "openPrice": 0.02303,
+    "bidQty": 50.91,
+    "bidPrice": 0.02204,
+    "closeTime": 1530663885977,
+    "volume": 49849.89,
+    "highPrice": 0.02373,
+    "quoteVolume": 1133.9949766,
+    "symbol": "AMBBNB",
+    "askPrice": 0.02242
+  }
+}

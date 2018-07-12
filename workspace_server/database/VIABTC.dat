@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000052,
+    "prevClosePrice": 0.0001795,
+    "lastPrice": 0.0001742,
+    "weightedAvgPrice": 0.00017713,
+    "priceChangePercent": -2.899,
+    "lowPrice": 0.000172,
+    "openPrice": 0.0001794,
+    "bidQty": 162.7,
+    "bidPrice": 0.0001743,
+    "closeTime": 1530663810853,
+    "volume": 187179.2,
+    "highPrice": 0.0001826,
+    "quoteVolume": 33.15509569,
+    "symbol": "VIABTC",
+    "askPrice": 0.0001752
+  }
+}

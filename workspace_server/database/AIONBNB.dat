@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00493,
+    "prevClosePrice": 0.07788,
+    "lastPrice": 0.07361,
+    "weightedAvgPrice": 0.07763793,
+    "priceChangePercent": -6.277,
+    "lowPrice": 0.07317,
+    "openPrice": 0.07854,
+    "bidQty": 304.88,
+    "bidPrice": 0.07332,
+    "closeTime": 1530663746974,
+    "volume": 38289.53,
+    "highPrice": 0.08248,
+    "quoteVolume": 2972.7196758,
+    "symbol": "AIONBNB",
+    "askPrice": 0.07391
+  }
+}

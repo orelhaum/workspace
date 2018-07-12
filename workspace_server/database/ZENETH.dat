@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00034,
+    "prevClosePrice": 0.03823,
+    "lastPrice": 0.03888,
+    "weightedAvgPrice": 0.03825506,
+    "priceChangePercent": 0.882,
+    "lowPrice": 0.0372,
+    "openPrice": 0.03854,
+    "bidQty": 13.031,
+    "bidPrice": 0.03847,
+    "closeTime": 1530663747450,
+    "volume": 4367.436,
+    "highPrice": 0.03931,
+    "quoteVolume": 167.07652212,
+    "symbol": "ZENETH",
+    "askPrice": 0.039
+  }
+}

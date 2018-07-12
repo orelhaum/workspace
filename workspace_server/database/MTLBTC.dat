@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000064,
+    "prevClosePrice": 0.0002167,
+    "lastPrice": 0.0002099,
+    "weightedAvgPrice": 0.00021587,
+    "priceChangePercent": -2.959,
+    "lowPrice": 0.000202,
+    "openPrice": 0.0002163,
+    "bidQty": 117.15,
+    "bidPrice": 0.0002096,
+    "closeTime": 1530663745194,
+    "volume": 725647.83,
+    "highPrice": 0.0002316,
+    "quoteVolume": 156.6479864,
+    "symbol": "MTLBTC",
+    "askPrice": 0.0002099
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000549,
+    "prevClosePrice": 0.0000573,
+    "lastPrice": 0.00006279,
+    "weightedAvgPrice": 0.00005979,
+    "priceChangePercent": 9.581,
+    "lowPrice": 0.00005709,
+    "openPrice": 0.0000573,
+    "bidQty": 16535,
+    "bidPrice": 0.00006283,
+    "closeTime": 1530663803903,
+    "volume": 9545551,
+    "highPrice": 0.00006399,
+    "quoteVolume": 570.69194905,
+    "symbol": "TNBETH",
+    "askPrice": 0.00006348
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000396,
+    "prevClosePrice": 0.0000868,
+    "lastPrice": 0.00008266,
+    "weightedAvgPrice": 0.00008542,
+    "priceChangePercent": -4.572,
+    "lowPrice": 0.00008008,
+    "openPrice": 0.00008662,
+    "bidQty": 434,
+    "bidPrice": 0.00008233,
+    "closeTime": 1530663745739,
+    "volume": 1692120,
+    "highPrice": 0.0000876,
+    "quoteVolume": 144.53897562,
+    "symbol": "MDABTC",
+    "askPrice": 0.00008266
+  }
+}

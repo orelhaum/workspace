@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.0000399,
+    "prevClosePrice": 0.0004152,
+    "lastPrice": 0.000455,
+    "weightedAvgPrice": 0.00053098,
+    "priceChangePercent": 9.612,
+    "lowPrice": 0.0004058,
+    "openPrice": 0.0004151,
+    "bidQty": 243,
+    "bidPrice": 0.0004651,
+    "closeTime": 1530663881065,
+    "volume": 1909383,
+    "highPrice": 0.0007794,
+    "quoteVolume": 1013.8520565,
+    "symbol": "APPCETH",
+    "askPrice": 0.0004711
+  }
+}

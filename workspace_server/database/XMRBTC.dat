@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000016,
+    "prevClosePrice": 0.021338,
+    "lastPrice": 0.02132,
+    "weightedAvgPrice": 0.02132875,
+    "priceChangePercent": -0.075,
+    "lowPrice": 0.020757,
+    "openPrice": 0.021336,
+    "bidQty": 0.637,
+    "bidPrice": 0.021281,
+    "closeTime": 1530663867405,
+    "volume": 31654.53,
+    "highPrice": 0.021765,
+    "quoteVolume": 675.15158665,
+    "symbol": "XMRBTC",
+    "askPrice": 0.021319
+  }
+}

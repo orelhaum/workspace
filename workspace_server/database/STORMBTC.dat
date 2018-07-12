@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 2e-8,
+    "prevClosePrice": 0.00000294,
+    "lastPrice": 0.00000297,
+    "weightedAvgPrice": 0.000003,
+    "priceChangePercent": 0.678,
+    "lowPrice": 0.00000291,
+    "openPrice": 0.00000295,
+    "bidQty": 929291,
+    "bidPrice": 0.00000297,
+    "closeTime": 1530663837565,
+    "volume": 145814882,
+    "highPrice": 0.00000311,
+    "quoteVolume": 437.56390058,
+    "symbol": "STORMBTC",
+    "askPrice": 0.00000299
+  }
+}

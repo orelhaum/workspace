@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00045,
+    "prevClosePrice": 0.0339,
+    "lastPrice": 0.03458,
+    "weightedAvgPrice": 0.03475298,
+    "priceChangePercent": 1.318,
+    "lowPrice": 0.03399,
+    "openPrice": 0.03413,
+    "bidQty": 50,
+    "bidPrice": 0.03415,
+    "closeTime": 1530663747418,
+    "volume": 39422.89,
+    "highPrice": 0.03579,
+    "quoteVolume": 1370.0627147,
+    "symbol": "BRDBNB",
+    "askPrice": 0.03496
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000889,
+    "prevClosePrice": 0.00014391,
+    "lastPrice": 0.00013501,
+    "weightedAvgPrice": 0.00013964,
+    "priceChangePercent": -6.178,
+    "lowPrice": 0.00013386,
+    "openPrice": 0.0001439,
+    "bidQty": 2349,
+    "bidPrice": 0.00013502,
+    "closeTime": 1530663822954,
+    "volume": 8784518,
+    "highPrice": 0.00014733,
+    "quoteVolume": 1226.70863002,
+    "symbol": "ZRXBTC",
+    "askPrice": 0.00013531
+  }
+}

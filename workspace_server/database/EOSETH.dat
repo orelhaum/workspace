@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000233,
+    "prevClosePrice": 0.018741,
+    "lastPrice": 0.018976,
+    "weightedAvgPrice": 0.01912677,
+    "priceChangePercent": 1.243,
+    "lowPrice": 0.018704,
+    "openPrice": 0.018743,
+    "bidQty": 0.79,
+    "bidPrice": 0.018958,
+    "closeTime": 1530663744024,
+    "volume": 497250.88,
+    "highPrice": 0.019576,
+    "quoteVolume": 9510.80279541,
+    "symbol": "EOSETH",
+    "askPrice": 0.018977
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000422,
+    "prevClosePrice": 0.0011997,
+    "lastPrice": 0.0011588,
+    "weightedAvgPrice": 0.00118693,
+    "priceChangePercent": -3.514,
+    "lowPrice": 0.001119,
+    "openPrice": 0.001201,
+    "bidQty": 436,
+    "bidPrice": 0.0011563,
+    "closeTime": 1530663743696,
+    "volume": 40949,
+    "highPrice": 0.0012287,
+    "quoteVolume": 48.6034329,
+    "symbol": "MDAETH",
+    "askPrice": 0.0011588
+  }
+}

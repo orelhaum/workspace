@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00001937,
+    "prevClosePrice": 0.00038349,
+    "lastPrice": 0.00036795,
+    "weightedAvgPrice": 0.0003864,
+    "priceChangePercent": -5.001,
+    "lowPrice": 0.00036269,
+    "openPrice": 0.00038732,
+    "bidQty": 469,
+    "bidPrice": 0.00036749,
+    "closeTime": 1530663746154,
+    "volume": 471132,
+    "highPrice": 0.00041153,
+    "quoteVolume": 182.04464498,
+    "symbol": "BCPTETH",
+    "askPrice": 0.00037131
+  }
+}

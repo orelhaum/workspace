@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000363,
+    "prevClosePrice": 0.011155,
+    "lastPrice": 0.010792,
+    "weightedAvgPrice": 0.01097433,
+    "priceChangePercent": -3.254,
+    "lowPrice": 0.010537,
+    "openPrice": 0.011155,
+    "bidQty": 8.65,
+    "bidPrice": 0.010793,
+    "closeTime": 1530663886179,
+    "volume": 305009.15,
+    "highPrice": 0.011383,
+    "quoteVolume": 3347.27081391,
+    "symbol": "ONTETH",
+    "askPrice": 0.010842
+  }
+}

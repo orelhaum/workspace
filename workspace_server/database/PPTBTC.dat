@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000989,
+    "prevClosePrice": 0.0013112,
+    "lastPrice": 0.0012123,
+    "weightedAvgPrice": 0.00128636,
+    "priceChangePercent": -7.543,
+    "lowPrice": 0.0011988,
+    "openPrice": 0.0013112,
+    "bidQty": 17.4,
+    "bidPrice": 0.0012057,
+    "closeTime": 1530663829514,
+    "volume": 98841.97,
+    "highPrice": 0.0013527,
+    "quoteVolume": 127.14604011,
+    "symbol": "PPTBTC",
+    "askPrice": 0.0012123
+  }
+}

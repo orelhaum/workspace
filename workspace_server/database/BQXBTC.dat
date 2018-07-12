@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000739,
+    "prevClosePrice": 0.00024436,
+    "lastPrice": 0.0002366,
+    "weightedAvgPrice": 0.00025048,
+    "priceChangePercent": -3.029,
+    "lowPrice": 0.00023148,
+    "openPrice": 0.00024399,
+    "bidQty": 120,
+    "bidPrice": 0.00023653,
+    "closeTime": 1530663744513,
+    "volume": 1865792,
+    "highPrice": 0.0002596,
+    "quoteVolume": 467.34722389,
+    "symbol": "BQXBTC",
+    "askPrice": 0.00023761
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0009,
+    "prevClosePrice": 0.01894,
+    "lastPrice": 0.01798,
+    "weightedAvgPrice": 0.01857395,
+    "priceChangePercent": -4.767,
+    "lowPrice": 0.0175,
+    "openPrice": 0.01888,
+    "bidQty": 1137.71,
+    "bidPrice": 0.018,
+    "closeTime": 1530663745443,
+    "volume": 273965.38,
+    "highPrice": 0.01931,
+    "quoteVolume": 5088.6193944,
+    "symbol": "BATBNB",
+    "askPrice": 0.01814
+  }
+}

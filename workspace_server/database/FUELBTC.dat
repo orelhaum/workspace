@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 1e-7,
+    "prevClosePrice": 0.00000565,
+    "lastPrice": 0.00000575,
+    "weightedAvgPrice": 0.00000607,
+    "priceChangePercent": 1.77,
+    "lowPrice": 0.00000557,
+    "openPrice": 0.00000565,
+    "bidQty": 439,
+    "bidPrice": 0.00000575,
+    "closeTime": 1530663882350,
+    "volume": 21844079,
+    "highPrice": 0.00000645,
+    "quoteVolume": 132.67481102,
+    "symbol": "FUELBTC",
+    "askPrice": 0.00000577
+  }
+}

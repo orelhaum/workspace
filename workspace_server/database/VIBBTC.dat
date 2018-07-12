@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 6e-8,
+    "prevClosePrice": 0.00001166,
+    "lastPrice": 0.00001177,
+    "weightedAvgPrice": 0.00001211,
+    "priceChangePercent": 0.512,
+    "lowPrice": 0.00001132,
+    "openPrice": 0.00001171,
+    "bidQty": 1438,
+    "bidPrice": 0.0000117,
+    "closeTime": 1530663797740,
+    "volume": 12551396,
+    "highPrice": 0.0000138,
+    "quoteVolume": 152.02209657,
+    "symbol": "VIBBTC",
+    "askPrice": 0.00001176
+  }
+}

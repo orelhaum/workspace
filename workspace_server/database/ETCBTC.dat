@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000046,
+    "prevClosePrice": 0.002518,
+    "lastPrice": 0.002473,
+    "weightedAvgPrice": 0.00250933,
+    "priceChangePercent": -1.826,
+    "lowPrice": 0.002459,
+    "openPrice": 0.002519,
+    "bidQty": 15,
+    "bidPrice": 0.002472,
+    "closeTime": 1530663885920,
+    "volume": 1792668.97,
+    "highPrice": 0.002571,
+    "quoteVolume": 4498.40233486,
+    "symbol": "ETCBTC",
+    "askPrice": 0.002474
+  }
+}

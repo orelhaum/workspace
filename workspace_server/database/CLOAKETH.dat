@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000035,
+    "prevClosePrice": 0.009663,
+    "lastPrice": 0.009541,
+    "weightedAvgPrice": 0.01038135,
+    "priceChangePercent": -0.365,
+    "lowPrice": 0.0094,
+    "openPrice": 0.009576,
+    "bidQty": 76.6,
+    "bidPrice": 0.009407,
+    "closeTime": 1530663747990,
+    "volume": 34070.12,
+    "highPrice": 0.011491,
+    "quoteVolume": 353.6939934,
+    "symbol": "CLOAKETH",
+    "askPrice": 0.009532
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0001617,
+    "prevClosePrice": 0.0017071,
+    "lastPrice": 0.0015607,
+    "weightedAvgPrice": 0.00195253,
+    "priceChangePercent": -9.388,
+    "lowPrice": 0.0015459,
+    "openPrice": 0.0017224,
+    "bidQty": 1443,
+    "bidPrice": 0.0015459,
+    "closeTime": 1530663795816,
+    "volume": 1280638,
+    "highPrice": 0.0025,
+    "quoteVolume": 2500.4798403,
+    "symbol": "EVXETH",
+    "askPrice": 0.0015593
+  }
+}

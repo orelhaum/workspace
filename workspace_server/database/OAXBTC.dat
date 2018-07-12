@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000038,
+    "prevClosePrice": 0.0000562,
+    "lastPrice": 0.00005238,
+    "weightedAvgPrice": 0.00005506,
+    "priceChangePercent": -6.764,
+    "lowPrice": 0.00005183,
+    "openPrice": 0.00005618,
+    "bidQty": 30,
+    "bidPrice": 0.00005203,
+    "closeTime": 1530663745826,
+    "volume": 480227,
+    "highPrice": 0.00005894,
+    "quoteVolume": 26.44161619,
+    "symbol": "OAXBTC",
+    "askPrice": 0.00005238
+  }
+}

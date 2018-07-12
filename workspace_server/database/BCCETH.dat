@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00808,
+    "prevClosePrice": 1.6382,
+    "lastPrice": 1.63463,
+    "weightedAvgPrice": 1.67243845,
+    "priceChangePercent": -0.492,
+    "lowPrice": 1.62501,
+    "openPrice": 1.64271,
+    "bidQty": 0.024,
+    "bidPrice": 1.63467,
+    "closeTime": 1530663886099,
+    "volume": 1236.062,
+    "highPrice": 1.71131,
+    "quoteVolume": 2067.23761455,
+    "symbol": "BCCETH",
+    "askPrice": 1.64084
+  }
+}

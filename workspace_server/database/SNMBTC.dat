@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000022,
+    "prevClosePrice": 0.00002629,
+    "lastPrice": 0.00002409,
+    "weightedAvgPrice": 0.00002555,
+    "priceChangePercent": -8.368,
+    "lowPrice": 0.00002374,
+    "openPrice": 0.00002629,
+    "bidQty": 3130,
+    "bidPrice": 0.00002404,
+    "closeTime": 1530663745278,
+    "volume": 2271261,
+    "highPrice": 0.00002689,
+    "quoteVolume": 58.03568965,
+    "symbol": "SNMBTC",
+    "askPrice": 0.0000242
+  }
+}

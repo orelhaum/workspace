@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000053,
+    "prevClosePrice": 0.002196,
+    "lastPrice": 0.002137,
+    "weightedAvgPrice": 0.0021795,
+    "priceChangePercent": -2.42,
+    "lowPrice": 0.002116,
+    "openPrice": 0.00219,
+    "bidQty": 30,
+    "bidPrice": 0.002122,
+    "closeTime": 1530663745129,
+    "volume": 45117.8,
+    "highPrice": 0.002244,
+    "quoteVolume": 98.33437554,
+    "symbol": "EDOETH",
+    "askPrice": 0.002137
+  }
+}

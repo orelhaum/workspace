@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -3.9e-7,
+    "prevClosePrice": 0.00000997,
+    "lastPrice": 0.00000953,
+    "weightedAvgPrice": 0.00000991,
+    "priceChangePercent": -3.931,
+    "lowPrice": 0.00000943,
+    "openPrice": 0.00000992,
+    "bidQty": 917,
+    "bidPrice": 0.00000948,
+    "closeTime": 1530663745306,
+    "volume": 5046517,
+    "highPrice": 0.0000104,
+    "quoteVolume": 50.00124461,
+    "symbol": "YOYOBTC",
+    "askPrice": 0.00000953
+  }
+}

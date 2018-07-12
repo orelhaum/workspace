@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000401,
+    "prevClosePrice": 0.00016184,
+    "lastPrice": 0.00016627,
+    "weightedAvgPrice": 0.00016683,
+    "priceChangePercent": 2.471,
+    "lowPrice": 0.000159,
+    "openPrice": 0.00016226,
+    "bidQty": 86,
+    "bidPrice": 0.00016494,
+    "closeTime": 1530663826834,
+    "volume": 2975051,
+    "highPrice": 0.000198,
+    "quoteVolume": 496.33579555,
+    "symbol": "VIBETH",
+    "askPrice": 0.00016619
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -6e-8,
+    "prevClosePrice": 0.00000442,
+    "lastPrice": 0.00000436,
+    "weightedAvgPrice": 0.0000044,
+    "priceChangePercent": -1.357,
+    "lowPrice": 0.00000429,
+    "openPrice": 0.00000442,
+    "bidQty": 36001,
+    "bidPrice": 0.00000434,
+    "closeTime": 1530663873283,
+    "volume": 25436777,
+    "highPrice": 0.00000454,
+    "quoteVolume": 111.97799332,
+    "symbol": "FUNBTC",
+    "askPrice": 0.00000436
+  }
+}

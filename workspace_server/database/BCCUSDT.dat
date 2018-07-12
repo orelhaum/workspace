@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -25.85,
+    "prevClosePrice": 777.81,
+    "lastPrice": 752.85,
+    "weightedAvgPrice": 787.50718943,
+    "priceChangePercent": -3.32,
+    "lowPrice": 750.01,
+    "openPrice": 778.7,
+    "bidQty": 2.212,
+    "bidPrice": 752.85,
+    "closeTime": 1530663886132,
+    "volume": 25267.25782,
+    "highPrice": 832.28,
+    "quoteVolume": 19898147.1905516,
+    "symbol": "BCCUSDT",
+    "askPrice": 754.65
+  }
+}

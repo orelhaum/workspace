@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000118,
+    "prevClosePrice": 0.00008339,
+    "lastPrice": 0.00008221,
+    "weightedAvgPrice": 0.0000834,
+    "priceChangePercent": -1.415,
+    "lowPrice": 0.000082,
+    "openPrice": 0.00008339,
+    "bidQty": 182,
+    "bidPrice": 0.00008221,
+    "closeTime": 1530663810932,
+    "volume": 79799591,
+    "highPrice": 0.00008477,
+    "quoteVolume": 6655.46663526,
+    "symbol": "TRXETH",
+    "askPrice": 0.0000823
+  }
+}

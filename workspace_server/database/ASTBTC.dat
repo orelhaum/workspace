@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000125,
+    "prevClosePrice": 0.00002405,
+    "lastPrice": 0.00002283,
+    "weightedAvgPrice": 0.00002353,
+    "priceChangePercent": -5.191,
+    "lowPrice": 0.00002223,
+    "openPrice": 0.00002408,
+    "bidQty": 137,
+    "bidPrice": 0.00002281,
+    "closeTime": 1530663745578,
+    "volume": 2863989,
+    "highPrice": 0.00002454,
+    "quoteVolume": 67.38053986,
+    "symbol": "ASTBTC",
+    "askPrice": 0.00002283
+  }
+}

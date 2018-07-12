@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000003,
+    "prevClosePrice": 0.0001238,
+    "lastPrice": 0.0001208,
+    "weightedAvgPrice": 0.00012334,
+    "priceChangePercent": -2.423,
+    "lowPrice": 0.0001203,
+    "openPrice": 0.0001238,
+    "bidQty": 951.54,
+    "bidPrice": 0.0001204,
+    "closeTime": 1530663744460,
+    "volume": 443656.14,
+    "highPrice": 0.0001275,
+    "quoteVolume": 54.71905665,
+    "symbol": "RLCBTC",
+    "askPrice": 0.0001207
+  }
+}

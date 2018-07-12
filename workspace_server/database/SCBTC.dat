@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -2e-8,
+    "prevClosePrice": 0.00000172,
+    "lastPrice": 0.00000169,
+    "weightedAvgPrice": 0.00000171,
+    "priceChangePercent": -1.17,
+    "lowPrice": 0.00000167,
+    "openPrice": 0.00000171,
+    "bidQty": 485579,
+    "bidPrice": 0.00000168,
+    "closeTime": 1530663747622,
+    "volume": 170752018,
+    "highPrice": 0.00000179,
+    "quoteVolume": 292.72006941,
+    "symbol": "SCBTC",
+    "askPrice": 0.00000169
+  }
+}

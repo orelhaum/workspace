@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000275,
+    "prevClosePrice": 0.005803,
+    "lastPrice": 0.005528,
+    "weightedAvgPrice": 0.00564419,
+    "priceChangePercent": -4.739,
+    "lowPrice": 0.005461,
+    "openPrice": 0.005803,
+    "bidQty": 14.45,
+    "bidPrice": 0.005503,
+    "closeTime": 1530663886354,
+    "volume": 42394.45,
+    "highPrice": 0.00584,
+    "quoteVolume": 239.28221284,
+    "symbol": "GXSETH",
+    "askPrice": 0.005568
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.01017,
+    "prevClosePrice": 0.36503,
+    "lastPrice": 0.35487,
+    "weightedAvgPrice": 0.35952695,
+    "priceChangePercent": -2.786,
+    "lowPrice": 0.3475,
+    "openPrice": 0.36504,
+    "bidQty": 2.85,
+    "bidPrice": 0.35479,
+    "closeTime": 1530663885742,
+    "volume": 176658.82,
+    "highPrice": 0.37336,
+    "quoteVolume": 63513.6076247,
+    "symbol": "ONTBNB",
+    "askPrice": 0.3556
+  }
+}

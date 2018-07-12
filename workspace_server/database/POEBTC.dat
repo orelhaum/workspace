@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -7e-8,
+    "prevClosePrice": 0.00000313,
+    "lastPrice": 0.00000304,
+    "weightedAvgPrice": 0.00000349,
+    "priceChangePercent": -2.251,
+    "lowPrice": 0.00000291,
+    "openPrice": 0.00000311,
+    "bidQty": 80600,
+    "bidPrice": 0.00000304,
+    "closeTime": 1530663809953,
+    "volume": 1405535967,
+    "highPrice": 0.00000413,
+    "quoteVolume": 4906.18366071,
+    "symbol": "POEBTC",
+    "askPrice": 0.00000305
+  }
+}

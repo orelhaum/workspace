@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00051,
+    "prevClosePrice": 0.0811,
+    "lastPrice": 0.08174,
+    "weightedAvgPrice": 0.08152733,
+    "priceChangePercent": -0.62,
+    "lowPrice": 0.07916,
+    "openPrice": 0.08225,
+    "bidQty": 20,
+    "bidPrice": 0.08013,
+    "closeTime": 1530663747747,
+    "volume": 9131.69,
+    "highPrice": 0.08293,
+    "quoteVolume": 744.4823096,
+    "symbol": "VIABNB",
+    "askPrice": 0.08307
+  }
+}

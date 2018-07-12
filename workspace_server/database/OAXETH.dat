@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000387,
+    "prevClosePrice": 0.0007716,
+    "lastPrice": 0.0007372,
+    "weightedAvgPrice": 0.00076571,
+    "priceChangePercent": -4.988,
+    "lowPrice": 0.0007207,
+    "openPrice": 0.0007759,
+    "bidQty": 77,
+    "bidPrice": 0.0007324,
+    "closeTime": 1530663745248,
+    "volume": 96062,
+    "highPrice": 0.0008073,
+    "quoteVolume": 73.5557625,
+    "symbol": "OAXETH",
+    "askPrice": 0.0007372
+  }
+}

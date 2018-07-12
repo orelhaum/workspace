@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.1352,
+    "prevClosePrice": 2.7458,
+    "lastPrice": 2.6107,
+    "weightedAvgPrice": 2.72746379,
+    "priceChangePercent": -4.924,
+    "lowPrice": 2.601,
+    "openPrice": 2.7459,
+    "bidQty": 19.14,
+    "bidPrice": 2.6108,
+    "closeTime": 1530663749063,
+    "volume": 2710106.24,
+    "highPrice": 2.8822,
+    "quoteVolume": 7391716.632748,
+    "symbol": "VENUSDT",
+    "askPrice": 2.6324
+  }
+}

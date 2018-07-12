@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000044,
+    "prevClosePrice": 0.011055,
+    "lastPrice": 0.011015,
+    "weightedAvgPrice": 0.01115373,
+    "priceChangePercent": 0.401,
+    "lowPrice": 0.010837,
+    "openPrice": 0.010971,
+    "bidQty": 3.8,
+    "bidPrice": 0.011013,
+    "closeTime": 1530663826827,
+    "volume": 29230.73,
+    "highPrice": 0.011958,
+    "quoteVolume": 326.03167944,
+    "symbol": "HSRETH",
+    "askPrice": 0.011033
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00112,
+    "prevClosePrice": 0.02102,
+    "lastPrice": 0.01985,
+    "weightedAvgPrice": 0.02080089,
+    "priceChangePercent": -5.341,
+    "lowPrice": 0.019,
+    "openPrice": 0.02097,
+    "bidQty": 961.06,
+    "bidPrice": 0.01963,
+    "closeTime": 1530663746437,
+    "volume": 392090.97,
+    "highPrice": 0.0226,
+    "quoteVolume": 8155.8397767,
+    "symbol": "POWRBNB",
+    "askPrice": 0.01983
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00002703,
+    "prevClosePrice": 0.00036559,
+    "lastPrice": 0.00033919,
+    "weightedAvgPrice": 0.0003573,
+    "priceChangePercent": -7.381,
+    "lowPrice": 0.000335,
+    "openPrice": 0.00036622,
+    "bidQty": 1485,
+    "bidPrice": 0.00033779,
+    "closeTime": 1530663751685,
+    "volume": 338019,
+    "highPrice": 0.00037497,
+    "quoteVolume": 120.77482193,
+    "symbol": "SNMETH",
+    "askPrice": 0.00033919
+  }
+}

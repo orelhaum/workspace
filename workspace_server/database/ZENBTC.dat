@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000012,
+    "prevClosePrice": 0.002765,
+    "lastPrice": 0.002749,
+    "weightedAvgPrice": 0.00274541,
+    "priceChangePercent": -0.435,
+    "lowPrice": 0.002701,
+    "openPrice": 0.002761,
+    "bidQty": 89.496,
+    "bidPrice": 0.002741,
+    "closeTime": 1530663815193,
+    "volume": 23959.636,
+    "highPrice": 0.0028,
+    "quoteVolume": 65.77910856,
+    "symbol": "ZENBTC",
+    "askPrice": 0.002749
+  }
+}

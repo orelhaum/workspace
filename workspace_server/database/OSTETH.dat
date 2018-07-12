@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000013,
+    "prevClosePrice": 0.00016879,
+    "lastPrice": 0.00015616,
+    "weightedAvgPrice": 0.00016414,
+    "priceChangePercent": -7.685,
+    "lowPrice": 0.00015552,
+    "openPrice": 0.00016916,
+    "bidQty": 400,
+    "bidPrice": 0.00015677,
+    "closeTime": 1530663885551,
+    "volume": 1399614,
+    "highPrice": 0.00017801,
+    "quoteVolume": 229.72842499,
+    "symbol": "OSTETH",
+    "askPrice": 0.00015842
+  }
+}

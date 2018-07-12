@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 2.5e-7,
+    "prevClosePrice": 0.00001174,
+    "lastPrice": 0.00001199,
+    "weightedAvgPrice": 0.000012,
+    "priceChangePercent": 2.129,
+    "lowPrice": 0.00001143,
+    "openPrice": 0.00001174,
+    "bidQty": 31980,
+    "bidPrice": 0.00001199,
+    "closeTime": 1530663867654,
+    "volume": 137031885,
+    "highPrice": 0.00001255,
+    "quoteVolume": 1643.9482508,
+    "symbol": "ZILBTC",
+    "askPrice": 0.000012
+  }
+}

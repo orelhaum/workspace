@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.5981,
+    "prevClosePrice": 16.6333,
+    "lastPrice": 16.0352,
+    "weightedAvgPrice": 16.54788098,
+    "priceChangePercent": -3.596,
+    "lowPrice": 16.022,
+    "openPrice": 16.6333,
+    "bidQty": 15,
+    "bidPrice": 16.0353,
+    "closeTime": 1530663885635,
+    "volume": 882826.09,
+    "highPrice": 17.1671,
+    "quoteVolume": 14608901.063147,
+    "symbol": "ETCUSDT",
+    "askPrice": 16.0698
+  }
+}

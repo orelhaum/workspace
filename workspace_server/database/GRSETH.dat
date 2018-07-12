@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00004372,
+    "prevClosePrice": 0.00145933,
+    "lastPrice": 0.00141561,
+    "weightedAvgPrice": 0.00144186,
+    "priceChangePercent": -2.996,
+    "lowPrice": 0.00137213,
+    "openPrice": 0.00145933,
+    "bidQty": 83,
+    "bidPrice": 0.00141,
+    "closeTime": 1530663795814,
+    "volume": 112269,
+    "highPrice": 0.00152,
+    "quoteVolume": 161.87573032,
+    "symbol": "GRSETH",
+    "askPrice": 0.00144688
+  }
+}

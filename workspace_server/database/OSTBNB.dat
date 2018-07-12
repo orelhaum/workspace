@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000396,
+    "prevClosePrice": 0.00554,
+    "lastPrice": 0.005144,
+    "weightedAvgPrice": 0.0053433,
+    "priceChangePercent": -7.148,
+    "lowPrice": 0.004968,
+    "openPrice": 0.00554,
+    "bidQty": 467,
+    "bidPrice": 0.005142,
+    "closeTime": 1530663745666,
+    "volume": 342696,
+    "highPrice": 0.005814,
+    "quoteVolume": 1831.128267,
+    "symbol": "OSTBNB",
+    "askPrice": 0.005254
+  }
+}

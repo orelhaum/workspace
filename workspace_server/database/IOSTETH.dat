@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 1.7e-7,
+    "prevClosePrice": 0.00005762,
+    "lastPrice": 0.00005798,
+    "weightedAvgPrice": 0.00005855,
+    "priceChangePercent": 0.294,
+    "lowPrice": 0.0000569,
+    "openPrice": 0.00005781,
+    "bidQty": 400,
+    "bidPrice": 0.00005791,
+    "closeTime": 1530663826834,
+    "volume": 16968337,
+    "highPrice": 0.00006002,
+    "quoteVolume": 993.54476347,
+    "symbol": "IOSTETH",
+    "askPrice": 0.00005803
+  }
+}

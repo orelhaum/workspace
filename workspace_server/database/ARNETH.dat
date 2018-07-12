@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00007694,
+    "prevClosePrice": 0.00157801,
+    "lastPrice": 0.00149955,
+    "weightedAvgPrice": 0.00158995,
+    "priceChangePercent": -4.88,
+    "lowPrice": 0.00148109,
+    "openPrice": 0.00157649,
+    "bidQty": 231,
+    "bidPrice": 0.00149541,
+    "closeTime": 1530663796337,
+    "volume": 840122,
+    "highPrice": 0.0016257,
+    "quoteVolume": 1335.75323206,
+    "symbol": "ARNETH",
+    "askPrice": 0.00149955
+  }
+}

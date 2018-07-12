@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.001233,
+    "prevClosePrice": 0.018252,
+    "lastPrice": 0.01702,
+    "weightedAvgPrice": 0.01809982,
+    "priceChangePercent": -6.755,
+    "lowPrice": 0.017,
+    "openPrice": 0.018253,
+    "bidQty": 399.52,
+    "bidPrice": 0.017,
+    "closeTime": 1530663792808,
+    "volume": 41485.08,
+    "highPrice": 0.01875,
+    "quoteVolume": 750.87265226,
+    "symbol": "PPTETH",
+    "askPrice": 0.017005
+  }
+}

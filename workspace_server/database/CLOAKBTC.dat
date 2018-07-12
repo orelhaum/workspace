@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000189,
+    "prevClosePrice": 0.0006924,
+    "lastPrice": 0.0006734,
+    "weightedAvgPrice": 0.00074746,
+    "priceChangePercent": -2.73,
+    "lowPrice": 0.000671,
+    "openPrice": 0.0006923,
+    "bidQty": 13.15,
+    "bidPrice": 0.0006733,
+    "closeTime": 1530663797188,
+    "volume": 293472.35,
+    "highPrice": 0.000834,
+    "quoteVolume": 219.35740878,
+    "symbol": "CLOAKBTC",
+    "askPrice": 0.0006734
+  }
+}

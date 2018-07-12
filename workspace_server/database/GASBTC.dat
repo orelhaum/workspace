@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000052,
+    "prevClosePrice": 0.001725,
+    "lastPrice": 0.001772,
+    "weightedAvgPrice": 0.00192869,
+    "priceChangePercent": 3.023,
+    "lowPrice": 0.001709,
+    "openPrice": 0.00172,
+    "bidQty": 4.59,
+    "bidPrice": 0.001764,
+    "closeTime": 1530663848699,
+    "volume": 151412.1,
+    "highPrice": 0.002563,
+    "quoteVolume": 292.02625928,
+    "symbol": "GASBTC",
+    "askPrice": 0.001771
+  }
+}

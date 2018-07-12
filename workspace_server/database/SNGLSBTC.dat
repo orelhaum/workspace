@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 4.6e-7,
+    "prevClosePrice": 0.00000614,
+    "lastPrice": 0.0000066,
+    "weightedAvgPrice": 0.00000627,
+    "priceChangePercent": 7.492,
+    "lowPrice": 0.00000593,
+    "openPrice": 0.00000614,
+    "bidQty": 3750,
+    "bidPrice": 0.0000066,
+    "closeTime": 1530663874961,
+    "volume": 8023717,
+    "highPrice": 0.00000668,
+    "quoteVolume": 50.32700911,
+    "symbol": "SNGLSBTC",
+    "askPrice": 0.00000664
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000473,
+    "prevClosePrice": 0.00021946,
+    "lastPrice": 0.00021452,
+    "weightedAvgPrice": 0.00023056,
+    "priceChangePercent": -2.157,
+    "lowPrice": 0.0002042,
+    "openPrice": 0.00021925,
+    "bidQty": 2369,
+    "bidPrice": 0.00021307,
+    "closeTime": 1530663746572,
+    "volume": 1262692,
+    "highPrice": 0.00026905,
+    "quoteVolume": 291.1201295,
+    "symbol": "DLTETH",
+    "askPrice": 0.0002147
+  }
+}

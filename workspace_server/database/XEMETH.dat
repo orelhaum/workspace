@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000163,
+    "prevClosePrice": 0.00040547,
+    "lastPrice": 0.00040622,
+    "weightedAvgPrice": 0.0004168,
+    "priceChangePercent": 0.403,
+    "lowPrice": 0.0003952,
+    "openPrice": 0.00040459,
+    "bidQty": 3024,
+    "bidPrice": 0.00040635,
+    "closeTime": 1530663885488,
+    "volume": 2189787,
+    "highPrice": 0.00044,
+    "quoteVolume": 912.7023497,
+    "symbol": "XEMETH",
+    "askPrice": 0.00040788
+  }
+}

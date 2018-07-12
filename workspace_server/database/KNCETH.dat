@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0001293,
+    "prevClosePrice": 0.0020559,
+    "lastPrice": 0.0019277,
+    "weightedAvgPrice": 0.00200522,
+    "priceChangePercent": -6.286,
+    "lowPrice": 0.0019146,
+    "openPrice": 0.002057,
+    "bidQty": 23,
+    "bidPrice": 0.0019146,
+    "closeTime": 1530663795811,
+    "volume": 270949,
+    "highPrice": 0.0020937,
+    "quoteVolume": 543.3118226,
+    "symbol": "KNCETH",
+    "askPrice": 0.0019294
+  }
+}

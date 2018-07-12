@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000015,
+    "prevClosePrice": 0.0002664,
+    "lastPrice": 0.0002515,
+    "weightedAvgPrice": 0.00026359,
+    "priceChangePercent": -5.629,
+    "lowPrice": 0.000251,
+    "openPrice": 0.0002665,
+    "bidQty": 14.65,
+    "bidPrice": 0.0002514,
+    "closeTime": 1530663877718,
+    "volume": 12808417.54,
+    "highPrice": 0.0002734,
+    "quoteVolume": 3376.1234119,
+    "symbol": "ICXBTC",
+    "askPrice": 0.000252
+  }
+}

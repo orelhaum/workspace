@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000391,
+    "prevClosePrice": 0.005098,
+    "lastPrice": 0.00471,
+    "weightedAvgPrice": 0.00491578,
+    "priceChangePercent": -7.665,
+    "lowPrice": 0.004624,
+    "openPrice": 0.005101,
+    "bidQty": 9687,
+    "bidPrice": 0.004715,
+    "closeTime": 1530663840779,
+    "volume": 165500,
+    "highPrice": 0.005144,
+    "quoteVolume": 813.560796,
+    "symbol": "QLCBNB",
+    "askPrice": 0.004796
+  }
+}

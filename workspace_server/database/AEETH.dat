@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000091,
+    "prevClosePrice": 0.004457,
+    "lastPrice": 0.004385,
+    "weightedAvgPrice": 0.00452992,
+    "priceChangePercent": -2.033,
+    "lowPrice": 0.004286,
+    "openPrice": 0.004476,
+    "bidQty": 223.51,
+    "bidPrice": 0.004376,
+    "closeTime": 1530663795822,
+    "volume": 293641.9,
+    "highPrice": 0.00483,
+    "quoteVolume": 1330.17444293,
+    "symbol": "AEETH",
+    "askPrice": 0.004395
+  }
+}

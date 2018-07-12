@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000683,
+    "prevClosePrice": 0.00011326,
+    "lastPrice": 0.00010643,
+    "weightedAvgPrice": 0.00011372,
+    "priceChangePercent": -6.03,
+    "lowPrice": 0.00010517,
+    "openPrice": 0.00011326,
+    "bidQty": 232,
+    "bidPrice": 0.00010642,
+    "closeTime": 1530663838135,
+    "volume": 14789975,
+    "highPrice": 0.00011701,
+    "quoteVolume": 1681.84377103,
+    "symbol": "ARNBTC",
+    "askPrice": 0.00010643
+  }
+}

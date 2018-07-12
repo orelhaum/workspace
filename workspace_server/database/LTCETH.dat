@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00394,
+    "prevClosePrice": 0.17899,
+    "lastPrice": 0.18319,
+    "weightedAvgPrice": 0.18398308,
+    "priceChangePercent": 2.198,
+    "lowPrice": 0.17882,
+    "openPrice": 0.17925,
+    "bidQty": 0.2,
+    "bidPrice": 0.18306,
+    "closeTime": 1530663886338,
+    "volume": 7753.271,
+    "highPrice": 0.18778,
+    "quoteVolume": 1426.47064966,
+    "symbol": "LTCETH",
+    "askPrice": 0.18342
+  }
+}

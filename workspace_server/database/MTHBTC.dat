@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -2.4e-7,
+    "prevClosePrice": 0.00000644,
+    "lastPrice": 0.0000062,
+    "weightedAvgPrice": 0.00000645,
+    "priceChangePercent": -3.727,
+    "lowPrice": 0.00000614,
+    "openPrice": 0.00000644,
+    "bidQty": 4162,
+    "bidPrice": 0.00000619,
+    "closeTime": 1530663744421,
+    "volume": 10658955,
+    "highPrice": 0.00000686,
+    "quoteVolume": 68.76767108,
+    "symbol": "MTHBTC",
+    "askPrice": 0.0000062
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000093,
+    "prevClosePrice": 0.002226,
+    "lastPrice": 0.002159,
+    "weightedAvgPrice": 0.0022402,
+    "priceChangePercent": -4.13,
+    "lowPrice": 0.00214,
+    "openPrice": 0.002252,
+    "bidQty": 34.81,
+    "bidPrice": 0.002148,
+    "closeTime": 1530663744960,
+    "volume": 29941.36,
+    "highPrice": 0.002335,
+    "quoteVolume": 67.07458772,
+    "symbol": "MODETH",
+    "askPrice": 0.002159
+  }
+}

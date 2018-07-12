@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -13.79,
+    "prevClosePrice": 474.42,
+    "lastPrice": 460.63,
+    "weightedAvgPrice": 471.23228989,
+    "priceChangePercent": -2.907,
+    "lowPrice": 457,
+    "openPrice": 474.42,
+    "bidQty": 1.50126,
+    "bidPrice": 460.63,
+    "closeTime": 1530663850541,
+    "volume": 186774.91117,
+    "highPrice": 486.98,
+    "quoteVolume": 88014369.0845436,
+    "symbol": "ETHUSDT",
+    "askPrice": 460.92
+  }
+}

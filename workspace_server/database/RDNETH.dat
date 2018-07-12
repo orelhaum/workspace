@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0001735,
+    "prevClosePrice": 0.0019278,
+    "lastPrice": 0.0017801,
+    "weightedAvgPrice": 0.00188183,
+    "priceChangePercent": -8.881,
+    "lowPrice": 0.00176,
+    "openPrice": 0.0019536,
+    "bidQty": 7,
+    "bidPrice": 0.0017659,
+    "closeTime": 1530663795824,
+    "volume": 165765,
+    "highPrice": 0.0020198,
+    "quoteVolume": 311.9423704,
+    "symbol": "RDNETH",
+    "askPrice": 0.0017797
+  }
+}

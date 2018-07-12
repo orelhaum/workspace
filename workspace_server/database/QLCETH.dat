@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00001068,
+    "prevClosePrice": 0.0001555,
+    "lastPrice": 0.00014482,
+    "weightedAvgPrice": 0.00015094,
+    "priceChangePercent": -6.868,
+    "lowPrice": 0.00014206,
+    "openPrice": 0.0001555,
+    "bidQty": 511,
+    "bidPrice": 0.00014385,
+    "closeTime": 1530663744928,
+    "volume": 1351092,
+    "highPrice": 0.00015835,
+    "quoteVolume": 203.93640952,
+    "symbol": "QLCETH",
+    "askPrice": 0.00014482
+  }
+}

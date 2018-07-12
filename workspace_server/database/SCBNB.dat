@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000001,
+    "prevClosePrice": 0.000779,
+    "lastPrice": 0.000787,
+    "weightedAvgPrice": 0.00079138,
+    "priceChangePercent": -0.127,
+    "lowPrice": 0.000765,
+    "openPrice": 0.000788,
+    "bidQty": 1500,
+    "bidPrice": 0.000773,
+    "closeTime": 1530663744232,
+    "volume": 2917473,
+    "highPrice": 0.000811,
+    "quoteVolume": 2308.838816,
+    "symbol": "SCBNB",
+    "askPrice": 0.00079
+  }
+}

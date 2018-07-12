@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000197,
+    "prevClosePrice": 0.00013761,
+    "lastPrice": 0.00013687,
+    "weightedAvgPrice": 0.00013822,
+    "priceChangePercent": -1.419,
+    "lowPrice": 0.00013311,
+    "openPrice": 0.00013884,
+    "bidQty": 278,
+    "bidPrice": 0.00013333,
+    "closeTime": 1530663746131,
+    "volume": 573922,
+    "highPrice": 0.0001452,
+    "quoteVolume": 79.3275904,
+    "symbol": "YOYOETH",
+    "askPrice": 0.00013643
+  }
+}

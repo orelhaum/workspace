@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000131,
+    "prevClosePrice": 0.0003336,
+    "lastPrice": 0.000322,
+    "weightedAvgPrice": 0.00032792,
+    "priceChangePercent": -3.909,
+    "lowPrice": 0.0003108,
+    "openPrice": 0.0003351,
+    "bidQty": 1306,
+    "bidPrice": 0.000321,
+    "closeTime": 1530663861677,
+    "volume": 750728,
+    "highPrice": 0.0003409,
+    "quoteVolume": 246.1805568,
+    "symbol": "ASTETH",
+    "askPrice": 0.0003254
+  }
+}

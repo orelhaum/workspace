@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00023771,
+    "prevClosePrice": 0.00039389,
+    "lastPrice": 0.00063655,
+    "weightedAvgPrice": 0.0011852,
+    "priceChangePercent": 59.6,
+    "lowPrice": 0.00039389,
+    "openPrice": 0.00039884,
+    "bidQty": 2241,
+    "bidPrice": 0.00061529,
+    "closeTime": 1530663867718,
+    "volume": 22661700,
+    "highPrice": 0.00285,
+    "quoteVolume": 26858.69930365,
+    "symbol": "SYSETH",
+    "askPrice": 0.00063655
+  }
+}

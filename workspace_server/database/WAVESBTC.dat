@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000101,
+    "prevClosePrice": 0.0004746,
+    "lastPrice": 0.0004627,
+    "weightedAvgPrice": 0.00047366,
+    "priceChangePercent": -2.136,
+    "lowPrice": 0.0004535,
+    "openPrice": 0.0004728,
+    "bidQty": 3.25,
+    "bidPrice": 0.0004612,
+    "closeTime": 1530663749660,
+    "volume": 823193.29,
+    "highPrice": 0.0004815,
+    "quoteVolume": 389.91060264,
+    "symbol": "WAVESBTC",
+    "askPrice": 0.0004625
+  }
+}

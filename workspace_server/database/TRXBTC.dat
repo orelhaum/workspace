@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -1.6e-7,
+    "prevClosePrice": 0.000006,
+    "lastPrice": 0.00000584,
+    "weightedAvgPrice": 0.00000597,
+    "priceChangePercent": -2.667,
+    "lowPrice": 0.00000582,
+    "openPrice": 0.000006,
+    "bidQty": 75600,
+    "bidPrice": 0.00000584,
+    "closeTime": 1530663862510,
+    "volume": 581101098,
+    "highPrice": 0.00000614,
+    "quoteVolume": 3470.76626973,
+    "symbol": "TRXBTC",
+    "askPrice": 0.00000585
+  }
+}

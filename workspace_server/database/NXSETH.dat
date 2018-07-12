@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000055,
+    "prevClosePrice": 0.002818,
+    "lastPrice": 0.002763,
+    "weightedAvgPrice": 0.00276748,
+    "priceChangePercent": -1.952,
+    "lowPrice": 0.002684,
+    "openPrice": 0.002818,
+    "bidQty": 187.86,
+    "bidPrice": 0.002688,
+    "closeTime": 1530663746997,
+    "volume": 25257.45,
+    "highPrice": 0.00287,
+    "quoteVolume": 69.89945616,
+    "symbol": "NXSETH",
+    "askPrice": 0.002763
+  }
+}

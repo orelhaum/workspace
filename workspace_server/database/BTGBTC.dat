@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000028,
+    "prevClosePrice": 0.004424,
+    "lastPrice": 0.004395,
+    "weightedAvgPrice": 0.0045198,
+    "priceChangePercent": -0.633,
+    "lowPrice": 0.004285,
+    "openPrice": 0.004423,
+    "bidQty": 2.02,
+    "bidPrice": 0.004377,
+    "closeTime": 1530663745012,
+    "volume": 36317.25,
+    "highPrice": 0.004725,
+    "quoteVolume": 164.1465491,
+    "symbol": "BTGBTC",
+    "askPrice": 0.004393
+  }
+}

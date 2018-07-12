@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000024,
+    "prevClosePrice": 0.002455,
+    "lastPrice": 0.002455,
+    "weightedAvgPrice": 0.00249914,
+    "priceChangePercent": -0.968,
+    "lowPrice": 0.002397,
+    "openPrice": 0.002479,
+    "bidQty": 994,
+    "bidPrice": 0.002422,
+    "closeTime": 1530663804320,
+    "volume": 630689,
+    "highPrice": 0.002633,
+    "quoteVolume": 1576.180413,
+    "symbol": "CNDBNB",
+    "askPrice": 0.002502
+  }
+}

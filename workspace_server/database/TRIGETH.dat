@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000069,
+    "prevClosePrice": 0.000899,
+    "lastPrice": 0.000827,
+    "weightedAvgPrice": 0.00085115,
+    "priceChangePercent": -7.701,
+    "lowPrice": 0.000799,
+    "openPrice": 0.000896,
+    "bidQty": 944.63,
+    "bidPrice": 0.000822,
+    "closeTime": 1530663725945,
+    "volume": 179855.32,
+    "highPrice": 0.000914,
+    "quoteVolume": 153.08319018,
+    "symbol": "TRIGETH",
+    "askPrice": 0.000828
+  }
+}

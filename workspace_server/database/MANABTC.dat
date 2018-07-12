@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000548,
+    "prevClosePrice": 0.00001411,
+    "lastPrice": 0.00001964,
+    "weightedAvgPrice": 0.00002349,
+    "priceChangePercent": 38.701,
+    "lowPrice": 0.000014,
+    "openPrice": 0.00001416,
+    "bidQty": 92718,
+    "bidPrice": 0.00001946,
+    "closeTime": 1530663883674,
+    "volume": 258098965,
+    "highPrice": 0.00004222,
+    "quoteVolume": 6062.69264573,
+    "symbol": "MANABTC",
+    "askPrice": 0.00001949
+  }
+}

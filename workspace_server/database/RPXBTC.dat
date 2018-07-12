@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -2.8e-7,
+    "prevClosePrice": 0.00000586,
+    "lastPrice": 0.00000555,
+    "weightedAvgPrice": 0.00000576,
+    "priceChangePercent": -4.803,
+    "lowPrice": 0.00000549,
+    "openPrice": 0.00000583,
+    "bidQty": 10317,
+    "bidPrice": 0.00000555,
+    "closeTime": 1530663747830,
+    "volume": 11689601,
+    "highPrice": 0.00000608,
+    "quoteVolume": 67.36386601,
+    "symbol": "RPXBTC",
+    "askPrice": 0.00000557
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000162,
+    "prevClosePrice": 0.005551,
+    "lastPrice": 0.005427,
+    "weightedAvgPrice": 0.00554786,
+    "priceChangePercent": -2.899,
+    "lowPrice": 0.005427,
+    "openPrice": 0.005589,
+    "bidQty": 63.201,
+    "bidPrice": 0.005427,
+    "closeTime": 1530663884418,
+    "volume": 10260.606,
+    "highPrice": 0.005787,
+    "quoteVolume": 56.92442008,
+    "symbol": "REPBTC",
+    "askPrice": 0.005457
+  }
+}

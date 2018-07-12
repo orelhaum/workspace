@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000245,
+    "prevClosePrice": 0.00003834,
+    "lastPrice": 0.00003589,
+    "weightedAvgPrice": 0.00003788,
+    "priceChangePercent": -6.39,
+    "lowPrice": 0.00003576,
+    "openPrice": 0.00003834,
+    "bidQty": 139,
+    "bidPrice": 0.00003586,
+    "closeTime": 1530663838365,
+    "volume": 1371239,
+    "highPrice": 0.00003945,
+    "quoteVolume": 51.93784745,
+    "symbol": "LINKBTC",
+    "askPrice": 0.00003589
+  }
+}

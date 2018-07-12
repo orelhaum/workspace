@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000351,
+    "prevClosePrice": 0.005672,
+    "lastPrice": 0.005331,
+    "weightedAvgPrice": 0.00558253,
+    "priceChangePercent": -6.177,
+    "lowPrice": 0.00527,
+    "openPrice": 0.005682,
+    "bidQty": 211.45,
+    "bidPrice": 0.005329,
+    "closeTime": 1530663795818,
+    "volume": 294363.06,
+    "highPrice": 0.005847,
+    "quoteVolume": 1643.28937892,
+    "symbol": "WANETH",
+    "askPrice": 0.005331
+  }
+}

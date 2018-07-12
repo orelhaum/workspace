@@ -1,0 +1,153 @@
+<!DOCTYPE html >
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Crypto Coins Bank - Chat </title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Style CSS -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
+        rel="stylesheet">
+    <!-- FontAwesome CSS -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- Fontello CSS -->
+    <link rel="stylesheet" type="text/css" href="css/fontello.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <script src="autenticacion.js"></script>
+  <script type="module" src="websocket.js"></script>
+  <script type="module" src="utilidades.js"></script>
+
+  <script type="module" defer="defer" src="main_chat.js"></script>
+</head>
+
+
+<!-- header-section-->
+<div class="header-wrapper fixed-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-2 col-lg-3 col-md-12 col-sm-12 col-12">
+        <div class="logo">
+          <a href="index.html">
+            <img src="./images/logo.png" alt=""> </a>
+        </div>
+      </div>
+      <div class="col-xl-7 col-lg-6 col-md-12 col-sm-12 col-12">
+        <!-- navigations-->
+        <div class="navigation">
+          <div id="navigation">
+              <ul>
+                  <li class="active">
+                      <a href="index.html">Home</a>
+                  </li>
+                  <li class="has-sub">
+                      <a href="#">Páginas</a>
+                      <ul>
+                          <li>
+                              <a href="funds.html">Fondos</a>
+                          </li>
+                          <li>
+                              <a href="monedas.html">Monedas</a>
+                          </li>
+                          <li>
+                              <a href="mensajes.html">Mensajes</a>
+                          </li>
+                          <li>
+                              <a href="comprar.html">Comprar</a>
+                          </li>
+                          <li>
+                            <a href="vender.html">Vender</a>
+                        </li>
+                      </ul>
+                  </li>
+                  <li>
+                      <a href="chat.html">Chat</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+      <!-- /.navigations-->
+      </div>
+      <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 d-none d-xl-block d-lg-block">
+        <div class="header-quick-info">
+          <a href="login.html" class="btn btn-white btn-xs mr-1">Login</a>
+          <a href="register.html" class="btn btn-default btn-xs">Sign up</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /. header-section-->
+<!--  hero-section -->
+<div id="particles-js" class="hero-section">
+</div>
+<div class="hero-container">
+  <div class="container">
+    <div class="row ">
+      <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 text-center ">
+        <!--  hero-block-->
+        <div class="hero-block">
+          <h1 class="hero-title mb30">Buy And Sell Digital Currency</h1>
+          <p class="text-white">Praesent sodales ultricies dolorut feugiatnisi tincidunt utestib Aliquam enim nisl, efficitupendisse convallis
+            nisl eu leo commodo tempus. ulumest urnatristi risus sitame.</p>
+          <a href="#" class="btn btn-default btn-lg">Get Started</a>
+        </div>
+        <!--  /.hero-block-->
+      </div>
+    </div>
+  </div>
+</div>
+<!--  /.hero-section -->
+
+<div>
+    <p>Reloj:
+      <div id="reloj"></div>
+    </p>
+  </div>
+
+
+<div class="bg-light">
+  <div class="container">
+    <div class="row ">
+      <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 text-center ">
+        <div id="wrapper">
+          <div id="menu">
+            <p class="welcome">Chat de pruebas,
+              <b></b>
+            </p>
+            <p id="estado" class="welcome">NO CONECTADO</p>
+            <p class="logout">
+              <a id="exit" href="#">Desconectar Chat</a>
+            </p>
+            <div style="clear:both"></div>
+          </div>
+
+          <div id="chatbox"></div>
+
+          <form name="message" action="">
+            <input name="usermsg" type="text" id="usermsg" size="63" />
+            <input name="submitmsg" type="button" id="submitmsg" value="Enviar" />
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="conectado" class="alert alert-success" style="display:none;">
+    <strong>Conectado!</strong> 
+</div>
+<div id="error" class="alert alert-danger" style="display:none;">
+  <strong>Error al conectar</strong> 
+</div>
+</div>
+</body>
+
+</html>

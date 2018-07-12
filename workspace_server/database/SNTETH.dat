@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00002123,
+    "prevClosePrice": 0.00014981,
+    "lastPrice": 0.00017127,
+    "weightedAvgPrice": 0.00016648,
+    "priceChangePercent": 14.15,
+    "lowPrice": 0.00014921,
+    "openPrice": 0.00015004,
+    "bidQty": 71789,
+    "bidPrice": 0.00017036,
+    "closeTime": 1530663867636,
+    "volume": 8184139,
+    "highPrice": 0.00021,
+    "quoteVolume": 1362.51339537,
+    "symbol": "SNTETH",
+    "askPrice": 0.00017218
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000048,
+    "prevClosePrice": 0.003311,
+    "lastPrice": 0.003256,
+    "weightedAvgPrice": 0.00327406,
+    "priceChangePercent": -1.453,
+    "lowPrice": 0.003098,
+    "openPrice": 0.003304,
+    "bidQty": 24.48,
+    "bidPrice": 0.00326,
+    "closeTime": 1530663746013,
+    "volume": 55274.9,
+    "highPrice": 0.00351,
+    "quoteVolume": 180.97350388,
+    "symbol": "ARKETH",
+    "askPrice": 0.003287
+  }
+}

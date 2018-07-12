@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00003899,
+    "prevClosePrice": 0.00064253,
+    "lastPrice": 0.00060357,
+    "weightedAvgPrice": 0.00062956,
+    "priceChangePercent": -6.068,
+    "lowPrice": 0.000589,
+    "openPrice": 0.00064256,
+    "bidQty": 54,
+    "bidPrice": 0.00059778,
+    "closeTime": 1530663795816,
+    "volume": 709605,
+    "highPrice": 0.00066705,
+    "quoteVolume": 446.74237535,
+    "symbol": "POWRETH",
+    "askPrice": 0.00060451
+  }
+}

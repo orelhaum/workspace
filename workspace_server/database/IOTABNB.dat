@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00026,
+    "prevClosePrice": 0.08004,
+    "lastPrice": 0.08034,
+    "weightedAvgPrice": 0.08167103,
+    "priceChangePercent": 0.325,
+    "lowPrice": 0.0795,
+    "openPrice": 0.08008,
+    "bidQty": 92.77,
+    "bidPrice": 0.08009,
+    "closeTime": 1530663886275,
+    "volume": 180688.47,
+    "highPrice": 0.0835,
+    "quoteVolume": 14757.0138494,
+    "symbol": "IOTABNB",
+    "askPrice": 0.08042
+  }
+}

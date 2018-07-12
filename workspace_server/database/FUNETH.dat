@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -5.1e-7,
+    "prevClosePrice": 0.00006205,
+    "lastPrice": 0.00006134,
+    "weightedAvgPrice": 0.0000614,
+    "priceChangePercent": -0.825,
+    "lowPrice": 0.0000609,
+    "openPrice": 0.00006185,
+    "bidQty": 129,
+    "bidPrice": 0.00006134,
+    "closeTime": 1530663744371,
+    "volume": 8663189,
+    "highPrice": 0.00006288,
+    "quoteVolume": 531.95760847,
+    "symbol": "FUNETH",
+    "askPrice": 0.00006163
+  }
+}

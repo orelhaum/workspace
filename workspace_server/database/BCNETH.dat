@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -6.7e-7,
+    "prevClosePrice": 0.00000756,
+    "lastPrice": 0.00000689,
+    "weightedAvgPrice": 0.00000768,
+    "priceChangePercent": -8.862,
+    "lowPrice": 0.00000688,
+    "openPrice": 0.00000756,
+    "bidQty": 37772,
+    "bidPrice": 0.00000688,
+    "closeTime": 1530663885405,
+    "volume": 304476864,
+    "highPrice": 0.00000838,
+    "quoteVolume": 2339.75995053,
+    "symbol": "BCNETH",
+    "askPrice": 0.00000689
+  }
+}

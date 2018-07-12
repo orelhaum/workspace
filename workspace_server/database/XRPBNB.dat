@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00065,
+    "prevClosePrice": 0.03361,
+    "lastPrice": 0.03423,
+    "weightedAvgPrice": 0.03458169,
+    "priceChangePercent": 1.936,
+    "lowPrice": 0.03355,
+    "openPrice": 0.03358,
+    "bidQty": 5780,
+    "bidPrice": 0.03421,
+    "closeTime": 1530663748356,
+    "volume": 735901.53,
+    "highPrice": 0.03591,
+    "quoteVolume": 25448.7179474,
+    "symbol": "XRPBNB",
+    "askPrice": 0.03441
+  }
+}

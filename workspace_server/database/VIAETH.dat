@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000014,
+    "prevClosePrice": 0.002479,
+    "lastPrice": 0.002477,
+    "weightedAvgPrice": 0.00246996,
+    "priceChangePercent": -0.562,
+    "lowPrice": 0.002409,
+    "openPrice": 0.002491,
+    "bidQty": 13.25,
+    "bidPrice": 0.002456,
+    "closeTime": 1530663747698,
+    "volume": 20257.14,
+    "highPrice": 0.00256,
+    "quoteVolume": 50.03432175,
+    "symbol": "VIAETH",
+    "askPrice": 0.002469
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000163,
+    "prevClosePrice": 0.0000788,
+    "lastPrice": 0.00008077,
+    "weightedAvgPrice": 0.00008446,
+    "priceChangePercent": 2.06,
+    "lowPrice": 0.0000787,
+    "openPrice": 0.00007914,
+    "bidQty": 428,
+    "bidPrice": 0.00008079,
+    "closeTime": 1530663746002,
+    "volume": 3222486,
+    "highPrice": 0.0000895,
+    "quoteVolume": 272.16154702,
+    "symbol": "FUELETH",
+    "askPrice": 0.00008207
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000286,
+    "prevClosePrice": 0.0004074,
+    "lastPrice": 0.0003792,
+    "weightedAvgPrice": 0.00039619,
+    "priceChangePercent": -7.013,
+    "lowPrice": 0.0003732,
+    "openPrice": 0.0004078,
+    "bidQty": 5.28,
+    "bidPrice": 0.0003785,
+    "closeTime": 1530663862780,
+    "volume": 1903693.25,
+    "highPrice": 0.000423,
+    "quoteVolume": 754.21899005,
+    "symbol": "WANBTC",
+    "askPrice": 0.00038
+  }
+}

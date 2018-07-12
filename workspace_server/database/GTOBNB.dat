@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00039,
+    "prevClosePrice": 0.01121,
+    "lastPrice": 0.0116,
+    "weightedAvgPrice": 0.01178329,
+    "priceChangePercent": 3.479,
+    "lowPrice": 0.01116,
+    "openPrice": 0.01121,
+    "bidQty": 86.33,
+    "bidPrice": 0.01159,
+    "closeTime": 1530663885120,
+    "volume": 554163.44,
+    "highPrice": 0.01223,
+    "quoteVolume": 6529.8686554,
+    "symbol": "GTOBNB",
+    "askPrice": 0.01175
+  }
+}

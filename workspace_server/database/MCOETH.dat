@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.001407,
+    "prevClosePrice": 0.015271,
+    "lastPrice": 0.016665,
+    "weightedAvgPrice": 0.01701791,
+    "priceChangePercent": 9.221,
+    "lowPrice": 0.0152,
+    "openPrice": 0.015258,
+    "bidQty": 4.36,
+    "bidPrice": 0.016616,
+    "closeTime": 1530663867651,
+    "volume": 55702.35,
+    "highPrice": 0.0189,
+    "quoteVolume": 947.93749479,
+    "symbol": "MCOETH",
+    "askPrice": 0.016759
+  }
+}

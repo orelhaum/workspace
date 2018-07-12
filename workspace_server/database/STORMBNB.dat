@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000046,
+    "prevClosePrice": 0.001337,
+    "lastPrice": 0.001383,
+    "weightedAvgPrice": 0.00138783,
+    "priceChangePercent": 3.441,
+    "lowPrice": 0.001332,
+    "openPrice": 0.001337,
+    "bidQty": 29568,
+    "bidPrice": 0.001368,
+    "closeTime": 1530663731094,
+    "volume": 3731903,
+    "highPrice": 0.001446,
+    "quoteVolume": 5179.22963,
+    "symbol": "STORMBNB",
+    "askPrice": 0.001387
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000059,
+    "prevClosePrice": 0.001276,
+    "lastPrice": 0.001217,
+    "weightedAvgPrice": 0.00126329,
+    "priceChangePercent": -4.624,
+    "lowPrice": 0.001209,
+    "openPrice": 0.001276,
+    "bidQty": 24.35,
+    "bidPrice": 0.001213,
+    "closeTime": 1530663802410,
+    "volume": 283913.52,
+    "highPrice": 0.001318,
+    "quoteVolume": 358.66462311,
+    "symbol": "OMGBTC",
+    "askPrice": 0.001217
+  }
+}

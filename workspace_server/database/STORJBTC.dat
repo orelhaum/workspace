@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000231,
+    "prevClosePrice": 0.00008192,
+    "lastPrice": 0.00007986,
+    "weightedAvgPrice": 0.0000812,
+    "priceChangePercent": -2.811,
+    "lowPrice": 0.0000784,
+    "openPrice": 0.00008217,
+    "bidQty": 15,
+    "bidPrice": 0.00007962,
+    "closeTime": 1530663745258,
+    "volume": 430632,
+    "highPrice": 0.00008404,
+    "quoteVolume": 34.96926768,
+    "symbol": "STORJBTC",
+    "askPrice": 0.00007986
+  }
+}

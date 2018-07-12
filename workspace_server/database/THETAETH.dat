@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000854,
+    "prevClosePrice": 0.00034544,
+    "lastPrice": 0.00035398,
+    "weightedAvgPrice": 0.0003577,
+    "priceChangePercent": 2.472,
+    "lowPrice": 0.00034265,
+    "openPrice": 0.00034544,
+    "bidQty": 723,
+    "bidPrice": 0.000352,
+    "closeTime": 1530663795816,
+    "volume": 2328045,
+    "highPrice": 0.000375,
+    "quoteVolume": 832.73792141,
+    "symbol": "THETAETH",
+    "askPrice": 0.00035398
+  }
+}

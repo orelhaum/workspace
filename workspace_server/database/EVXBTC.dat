@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00001363,
+    "prevClosePrice": 0.00012368,
+    "lastPrice": 0.00011005,
+    "weightedAvgPrice": 0.00013955,
+    "priceChangePercent": -11.02,
+    "lowPrice": 0.00010956,
+    "openPrice": 0.00012368,
+    "bidQty": 434,
+    "bidPrice": 0.00010975,
+    "closeTime": 1530663802539,
+    "volume": 8452264,
+    "highPrice": 0.0001765,
+    "quoteVolume": 1179.48747105,
+    "symbol": "EVXBTC",
+    "askPrice": 0.00011005
+  }
+}

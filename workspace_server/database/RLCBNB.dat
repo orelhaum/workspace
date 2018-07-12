@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00029,
+    "prevClosePrice": 0.05565,
+    "lastPrice": 0.05625,
+    "weightedAvgPrice": 0.05662641,
+    "priceChangePercent": 0.518,
+    "lowPrice": 0.05534,
+    "openPrice": 0.05596,
+    "bidQty": 65.29,
+    "bidPrice": 0.05547,
+    "closeTime": 1530663747324,
+    "volume": 14692.15,
+    "highPrice": 0.05851,
+    "quoteVolume": 831.9637316,
+    "symbol": "RLCBNB",
+    "askPrice": 0.05603
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000037,
+    "prevClosePrice": 0.001704,
+    "lastPrice": 0.001687,
+    "weightedAvgPrice": 0.00172623,
+    "priceChangePercent": -2.146,
+    "lowPrice": 0.001685,
+    "openPrice": 0.001724,
+    "bidQty": 376.21,
+    "bidPrice": 0.001693,
+    "closeTime": 1530663746126,
+    "volume": 78063.13,
+    "highPrice": 0.00176,
+    "quoteVolume": 134.75526172,
+    "symbol": "RLCETH",
+    "askPrice": 0.001704
+  }
+}

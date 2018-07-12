@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000227,
+    "prevClosePrice": 0.005733,
+    "lastPrice": 0.005505,
+    "weightedAvgPrice": 0.00573496,
+    "priceChangePercent": -3.96,
+    "lowPrice": 0.00548,
+    "openPrice": 0.005732,
+    "bidQty": 121.3,
+    "bidPrice": 0.005507,
+    "closeTime": 1530663795820,
+    "volume": 165705.11,
+    "highPrice": 0.005996,
+    "quoteVolume": 950.31286635,
+    "symbol": "NANOETH",
+    "askPrice": 0.005529
+  }
+}

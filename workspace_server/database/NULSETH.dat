@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0003952,
+    "prevClosePrice": 0.0053752,
+    "lastPrice": 0.00498,
+    "weightedAvgPrice": 0.00514089,
+    "priceChangePercent": -7.352,
+    "lowPrice": 0.00491849,
+    "openPrice": 0.0053752,
+    "bidQty": 300,
+    "bidPrice": 0.0049633,
+    "closeTime": 1530663865461,
+    "volume": 45401,
+    "highPrice": 0.00538865,
+    "quoteVolume": 233.40170822,
+    "symbol": "NULSETH",
+    "askPrice": 0.00499618
+  }
+}

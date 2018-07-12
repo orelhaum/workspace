@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -1.6e-7,
+    "prevClosePrice": 0.00000426,
+    "lastPrice": 0.0000041,
+    "weightedAvgPrice": 0.00000421,
+    "priceChangePercent": -3.756,
+    "lowPrice": 0.00000406,
+    "openPrice": 0.00000426,
+    "bidQty": 1529,
+    "bidPrice": 0.00000408,
+    "closeTime": 1530663804846,
+    "volume": 16161948,
+    "highPrice": 0.00000441,
+    "quoteVolume": 68.05826036,
+    "symbol": "CDTBTC",
+    "askPrice": 0.00000411
+  }
+}

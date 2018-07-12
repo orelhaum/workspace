@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0,
+    "prevClosePrice": 0.00000508,
+    "lastPrice": 0.00000508,
+    "weightedAvgPrice": 0.00000532,
+    "priceChangePercent": 0,
+    "lowPrice": 0.00000491,
+    "openPrice": 0.00000508,
+    "bidQty": 1708,
+    "bidPrice": 0.00000509,
+    "closeTime": 1530663764584,
+    "volume": 95212118,
+    "highPrice": 0.00000562,
+    "quoteVolume": 506.54176855,
+    "symbol": "LENDBTC",
+    "askPrice": 0.00000512
+  }
+}

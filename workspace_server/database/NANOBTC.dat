@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000206,
+    "prevClosePrice": 0.0004122,
+    "lastPrice": 0.0003916,
+    "weightedAvgPrice": 0.0004094,
+    "priceChangePercent": -4.998,
+    "lowPrice": 0.0003907,
+    "openPrice": 0.0004122,
+    "bidQty": 163.73,
+    "bidPrice": 0.0003915,
+    "closeTime": 1530663831133,
+    "volume": 2365688.1,
+    "highPrice": 0.0004375,
+    "quoteVolume": 968.50229021,
+    "symbol": "NANOBTC",
+    "askPrice": 0.000392
+  }
+}

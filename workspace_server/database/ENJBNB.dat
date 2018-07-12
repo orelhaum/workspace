@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000178,
+    "prevClosePrice": 0.004307,
+    "lastPrice": 0.004429,
+    "weightedAvgPrice": 0.00425939,
+    "priceChangePercent": 4.187,
+    "lowPrice": 0.004101,
+    "openPrice": 0.004251,
+    "bidQty": 300,
+    "bidPrice": 0.004299,
+    "closeTime": 1530663746517,
+    "volume": 432397,
+    "highPrice": 0.004493,
+    "quoteVolume": 1841.747745,
+    "symbol": "ENJBNB",
+    "askPrice": 0.004429
+  }
+}

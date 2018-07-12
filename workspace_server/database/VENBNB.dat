@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0018,
+    "prevClosePrice": 0.189,
+    "lastPrice": 0.1873,
+    "weightedAvgPrice": 0.18983336,
+    "priceChangePercent": -0.952,
+    "lowPrice": 0.1851,
+    "openPrice": 0.1891,
+    "bidQty": 21.44,
+    "bidPrice": 0.1857,
+    "closeTime": 1530663746006,
+    "volume": 159179,
+    "highPrice": 0.1983,
+    "quoteVolume": 30217.483945,
+    "symbol": "VENBNB",
+    "askPrice": 0.1874
+  }
+}

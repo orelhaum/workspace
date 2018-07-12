@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -8.8e-7,
+    "prevClosePrice": 0.00003097,
+    "lastPrice": 0.00003009,
+    "weightedAvgPrice": 0.00003236,
+    "priceChangePercent": -2.841,
+    "lowPrice": 0.0000295,
+    "openPrice": 0.00003097,
+    "bidQty": 67,
+    "bidPrice": 0.00003009,
+    "closeTime": 1530663789892,
+    "volume": 21363935,
+    "highPrice": 0.000035,
+    "quoteVolume": 691.32474073,
+    "symbol": "LOOMBTC",
+    "askPrice": 0.00003012
+  }
+}

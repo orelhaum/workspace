@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000191,
+    "prevClosePrice": 0.00003632,
+    "lastPrice": 0.00003446,
+    "weightedAvgPrice": 0.0000361,
+    "priceChangePercent": -5.252,
+    "lowPrice": 0.00003402,
+    "openPrice": 0.00003637,
+    "bidQty": 429,
+    "bidPrice": 0.00003443,
+    "closeTime": 1530663791567,
+    "volume": 6722846,
+    "highPrice": 0.00003876,
+    "quoteVolume": 242.72743796,
+    "symbol": "SUBBTC",
+    "askPrice": 0.00003452
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00001138,
+    "prevClosePrice": 0.00034497,
+    "lastPrice": 0.00035635,
+    "weightedAvgPrice": 0.00035766,
+    "priceChangePercent": 3.299,
+    "lowPrice": 0.00034053,
+    "openPrice": 0.00034497,
+    "bidQty": 1428,
+    "bidPrice": 0.00035346,
+    "closeTime": 1530663885151,
+    "volume": 2618946,
+    "highPrice": 0.00037298,
+    "quoteVolume": 936.69949224,
+    "symbol": "GTOETH",
+    "askPrice": 0.00035634
+  }
+}

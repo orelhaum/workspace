@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00073,
+    "prevClosePrice": 0.07748,
+    "lastPrice": 0.07674,
+    "weightedAvgPrice": 0.07746781,
+    "priceChangePercent": -0.942,
+    "lowPrice": 0.07611,
+    "openPrice": 0.07747,
+    "bidQty": 14.977,
+    "bidPrice": 0.07632,
+    "closeTime": 1530663748294,
+    "volume": 2241.761,
+    "highPrice": 0.07974,
+    "quoteVolume": 173.66430986,
+    "symbol": "REPETH",
+    "askPrice": 0.07717
+  }
+}

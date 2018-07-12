@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00001131,
+    "prevClosePrice": 0.00014776,
+    "lastPrice": 0.00013645,
+    "weightedAvgPrice": 0.00014363,
+    "priceChangePercent": -7.654,
+    "lowPrice": 0.00013519,
+    "openPrice": 0.00014776,
+    "bidQty": 64,
+    "bidPrice": 0.00013595,
+    "closeTime": 1530663795342,
+    "volume": 651078,
+    "highPrice": 0.00014943,
+    "quoteVolume": 93.51627422,
+    "symbol": "KNCBTC",
+    "askPrice": 0.00013644
+  }
+}

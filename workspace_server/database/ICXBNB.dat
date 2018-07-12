@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00488,
+    "prevClosePrice": 0.12161,
+    "lastPrice": 0.11601,
+    "weightedAvgPrice": 0.12100474,
+    "priceChangePercent": -4.037,
+    "lowPrice": 0.116,
+    "openPrice": 0.12089,
+    "bidQty": 127.3,
+    "bidPrice": 0.11601,
+    "closeTime": 1530663827819,
+    "volume": 218860.33,
+    "highPrice": 0.12602,
+    "quoteVolume": 26483.13645,
+    "symbol": "ICXBNB",
+    "askPrice": 0.11663
+  }
+}

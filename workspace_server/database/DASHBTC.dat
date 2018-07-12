@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000768,
+    "prevClosePrice": 0.037895,
+    "lastPrice": 0.037126,
+    "weightedAvgPrice": 0.03828143,
+    "priceChangePercent": -2.027,
+    "lowPrice": 0.037026,
+    "openPrice": 0.037894,
+    "bidQty": 0.051,
+    "bidPrice": 0.037125,
+    "closeTime": 1530663745965,
+    "volume": 15988.105,
+    "highPrice": 0.039491,
+    "quoteVolume": 612.04754463,
+    "symbol": "DASHBTC",
+    "askPrice": 0.037198
+  }
+}

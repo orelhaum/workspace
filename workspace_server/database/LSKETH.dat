@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000329,
+    "prevClosePrice": 0.012484,
+    "lastPrice": 0.012134,
+    "weightedAvgPrice": 0.0124716,
+    "priceChangePercent": -2.64,
+    "lowPrice": 0.012079,
+    "openPrice": 0.012463,
+    "bidQty": 19.12,
+    "bidPrice": 0.012099,
+    "closeTime": 1530663743577,
+    "volume": 20898.98,
+    "highPrice": 0.012784,
+    "quoteVolume": 260.64380709,
+    "symbol": "LSKETH",
+    "askPrice": 0.012134
+  }
+}

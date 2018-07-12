@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -5.1e-7,
+    "prevClosePrice": 0.00001575,
+    "lastPrice": 0.00001524,
+    "weightedAvgPrice": 0.00001675,
+    "priceChangePercent": -3.238,
+    "lowPrice": 0.00001448,
+    "openPrice": 0.00001575,
+    "bidQty": 2887,
+    "bidPrice": 0.00001517,
+    "closeTime": 1530663856148,
+    "volume": 8888673,
+    "highPrice": 0.00001933,
+    "quoteVolume": 148.85247125,
+    "symbol": "DLTBTC",
+    "askPrice": 0.00001523
+  }
+}

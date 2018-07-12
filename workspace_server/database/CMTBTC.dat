@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000013,
+    "prevClosePrice": 0.00003025,
+    "lastPrice": 0.00002895,
+    "weightedAvgPrice": 0.00002968,
+    "priceChangePercent": -4.298,
+    "lowPrice": 0.00002801,
+    "openPrice": 0.00003025,
+    "bidQty": 758,
+    "bidPrice": 0.00002888,
+    "closeTime": 1530663881410,
+    "volume": 12157568,
+    "highPrice": 0.00003174,
+    "quoteVolume": 360.84168316,
+    "symbol": "CMTBTC",
+    "askPrice": 0.00002895
+  }
+}

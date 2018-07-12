@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000119,
+    "prevClosePrice": 0.00007447,
+    "lastPrice": 0.00007401,
+    "weightedAvgPrice": 0.00007625,
+    "priceChangePercent": -1.582,
+    "lowPrice": 0.00007316,
+    "openPrice": 0.0000752,
+    "bidQty": 10626,
+    "bidPrice": 0.00007393,
+    "closeTime": 1530663745989,
+    "volume": 1838710,
+    "highPrice": 0.00008045,
+    "quoteVolume": 140.19437452,
+    "symbol": "CNDETH",
+    "askPrice": 0.00007502
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.001118,
+    "prevClosePrice": 0.018018,
+    "lastPrice": 0.016752,
+    "weightedAvgPrice": 0.01747636,
+    "priceChangePercent": -6.256,
+    "lowPrice": 0.0165,
+    "openPrice": 0.01787,
+    "bidQty": 57.78,
+    "bidPrice": 0.01671,
+    "closeTime": 1530663746265,
+    "volume": 11621.62,
+    "highPrice": 0.018366,
+    "quoteVolume": 203.10361833,
+    "symbol": "LUNETH",
+    "askPrice": 0.016844
+  }
+}

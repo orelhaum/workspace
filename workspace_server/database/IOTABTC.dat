@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -6.7e-7,
+    "prevClosePrice": 0.0001753,
+    "lastPrice": 0.00017463,
+    "weightedAvgPrice": 0.00017771,
+    "priceChangePercent": -0.382,
+    "lowPrice": 0.00017259,
+    "openPrice": 0.0001753,
+    "bidQty": 58,
+    "bidPrice": 0.00017412,
+    "closeTime": 1530663885504,
+    "volume": 8492464,
+    "highPrice": 0.00018423,
+    "quoteVolume": 1509.21758596,
+    "symbol": "IOTABTC",
+    "askPrice": 0.00017449
+  }
+}

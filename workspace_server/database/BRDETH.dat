@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.0000063,
+    "prevClosePrice": 0.0010446,
+    "lastPrice": 0.0010506,
+    "weightedAvgPrice": 0.00104922,
+    "priceChangePercent": 0.603,
+    "lowPrice": 0.0010298,
+    "openPrice": 0.0010443,
+    "bidQty": 241,
+    "bidPrice": 0.0010467,
+    "closeTime": 1530663742021,
+    "volume": 77183,
+    "highPrice": 0.0010845,
+    "quoteVolume": 80.9816046,
+    "symbol": "BRDETH",
+    "askPrice": 0.0010524
+  }
+}

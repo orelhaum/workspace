@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00914,
+    "prevClosePrice": 0.18381,
+    "lastPrice": 0.17653,
+    "weightedAvgPrice": 0.18364007,
+    "priceChangePercent": -4.923,
+    "lowPrice": 0.17001,
+    "openPrice": 0.18567,
+    "bidQty": 17.21,
+    "bidPrice": 0.17476,
+    "closeTime": 1530663742327,
+    "volume": 62408.78,
+    "highPrice": 0.19465,
+    "quoteVolume": 11460.7527947,
+    "symbol": "WANBNB",
+    "askPrice": 0.17665
+  }
+}

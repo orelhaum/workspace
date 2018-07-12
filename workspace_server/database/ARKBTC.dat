@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000065,
+    "prevClosePrice": 0.0002381,
+    "lastPrice": 0.0002324,
+    "weightedAvgPrice": 0.00023213,
+    "priceChangePercent": -2.721,
+    "lowPrice": 0.0002208,
+    "openPrice": 0.0002389,
+    "bidQty": 24.79,
+    "bidPrice": 0.0002322,
+    "closeTime": 1530663874634,
+    "volume": 338378.84,
+    "highPrice": 0.000245,
+    "quoteVolume": 78.54750255,
+    "symbol": "ARKBTC",
+    "askPrice": 0.0002324
+  }
+}

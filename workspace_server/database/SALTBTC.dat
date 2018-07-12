@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000053,
+    "prevClosePrice": 0.0001943,
+    "lastPrice": 0.0001889,
+    "weightedAvgPrice": 0.00019384,
+    "priceChangePercent": -2.729,
+    "lowPrice": 0.0001839,
+    "openPrice": 0.0001942,
+    "bidQty": 46.35,
+    "bidPrice": 0.0001876,
+    "closeTime": 1530663869393,
+    "volume": 471111.38,
+    "highPrice": 0.0001999,
+    "quoteVolume": 91.32113054,
+    "symbol": "SALTBTC",
+    "askPrice": 0.0001883
+  }
+}

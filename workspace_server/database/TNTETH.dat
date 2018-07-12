@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 7.2e-7,
+    "prevClosePrice": 0.00010127,
+    "lastPrice": 0.0001008,
+    "weightedAvgPrice": 0.00010795,
+    "priceChangePercent": 0.719,
+    "lowPrice": 0.000098,
+    "openPrice": 0.00010008,
+    "bidQty": 4999,
+    "bidPrice": 0.00010073,
+    "closeTime": 1530663769838,
+    "volume": 3787609,
+    "highPrice": 0.00012,
+    "quoteVolume": 408.88288447,
+    "symbol": "TNTETH",
+    "askPrice": 0.00010117
+  }
+}

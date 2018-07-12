@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00007676,
+    "prevClosePrice": 0.00019694,
+    "lastPrice": 0.00027367,
+    "weightedAvgPrice": 0.00033641,
+    "priceChangePercent": 38.982,
+    "lowPrice": 0.00019415,
+    "openPrice": 0.00019691,
+    "bidQty": 42196,
+    "bidPrice": 0.00027367,
+    "closeTime": 1530663872914,
+    "volume": 50216038,
+    "highPrice": 0.00057973,
+    "quoteVolume": 16893.38716672,
+    "symbol": "MANAETH",
+    "askPrice": 0.00027463
+  }
+}

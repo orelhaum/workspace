@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00106,
+    "prevClosePrice": 0.01376,
+    "lastPrice": 0.01267,
+    "weightedAvgPrice": 0.01340794,
+    "priceChangePercent": -7.72,
+    "lowPrice": 0.01252,
+    "openPrice": 0.01373,
+    "bidQty": 7.884,
+    "bidPrice": 0.01265,
+    "closeTime": 1530663795816,
+    "volume": 21268.472,
+    "highPrice": 0.01419,
+    "quoteVolume": 285.16632954,
+    "symbol": "SKYETH",
+    "askPrice": 0.01272
+  }
+}

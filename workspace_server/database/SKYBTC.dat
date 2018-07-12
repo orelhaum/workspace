@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000084,
+    "prevClosePrice": 0.000987,
+    "lastPrice": 0.000903,
+    "weightedAvgPrice": 0.00095951,
+    "priceChangePercent": -8.511,
+    "lowPrice": 0.00089,
+    "openPrice": 0.000987,
+    "bidQty": 216.267,
+    "bidPrice": 0.000903,
+    "closeTime": 1530663876460,
+    "volume": 262502.241,
+    "highPrice": 0.001029,
+    "quoteVolume": 251.87279346,
+    "symbol": "SKYBTC",
+    "askPrice": 0.000909
+  }
+}

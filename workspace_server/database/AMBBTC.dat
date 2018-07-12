@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000244,
+    "prevClosePrice": 0.00005047,
+    "lastPrice": 0.00004803,
+    "weightedAvgPrice": 0.00004972,
+    "priceChangePercent": -4.835,
+    "lowPrice": 0.0000477,
+    "openPrice": 0.00005047,
+    "bidQty": 1886,
+    "bidPrice": 0.00004787,
+    "closeTime": 1530663818745,
+    "volume": 1063314,
+    "highPrice": 0.0000515,
+    "quoteVolume": 52.87110553,
+    "symbol": "AMBBTC",
+    "askPrice": 0.00004803
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.3,
+    "prevClosePrice": 53.62,
+    "lastPrice": 53.79,
+    "weightedAvgPrice": 55.06128529,
+    "priceChangePercent": 0.561,
+    "lowPrice": 53.27,
+    "openPrice": 53.49,
+    "bidQty": 0.33,
+    "bidPrice": 53.55,
+    "closeTime": 1530663886049,
+    "volume": 840.18952,
+    "highPrice": 56.5,
+    "quoteVolume": 46261.9148545,
+    "symbol": "BCCBNB",
+    "askPrice": 53.99
+  }
+}

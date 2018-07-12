@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00009728,
+    "prevClosePrice": 0.00200164,
+    "lastPrice": 0.00190436,
+    "weightedAvgPrice": 0.00195363,
+    "priceChangePercent": -4.86,
+    "lowPrice": 0.00188732,
+    "openPrice": 0.00200164,
+    "bidQty": 1349,
+    "bidPrice": 0.00189415,
+    "closeTime": 1530663867653,
+    "volume": 969180,
+    "highPrice": 0.00203248,
+    "quoteVolume": 1893.41914915,
+    "symbol": "ZRXETH",
+    "askPrice": 0.00190436
+  }
+}

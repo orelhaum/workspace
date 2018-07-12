@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000018,
+    "prevClosePrice": 0.000246,
+    "lastPrice": 0.000228,
+    "weightedAvgPrice": 0.00025201,
+    "priceChangePercent": -7.317,
+    "lowPrice": 0.000223,
+    "openPrice": 0.000246,
+    "bidQty": 37111,
+    "bidPrice": 0.000225,
+    "closeTime": 1530663785399,
+    "volume": 99414605,
+    "highPrice": 0.000275,
+    "quoteVolume": 25053.385607,
+    "symbol": "BCNBNB",
+    "askPrice": 0.000228
+  }
+}

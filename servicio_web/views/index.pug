@@ -1,0 +1,47 @@
+html
+  head
+    title= title
+  body
+    h1= moneda
+    |
+    |
+    a(href='google.com') Google
+    |
+    |
+    a(class='button' href='google.com') Google
+    |
+    |
+    a(class='button', href='google.com') Google
+    |
+    |
+    - let x;
+    -let msg="mayusculas";
+    - for ( x = 0; x < 3; x++) {
+      li item#{x}#{msg.toUpperCase()}
+    - }
+    |
+    |
+    p
+    |
+    |
+    - let user = { description: 'foo bar baz' }
+    - let authorised = false
+    if user.description
+      //- h2.green agrega la clase green a h2
+      h2.green Description
+      //- p.description agrega la clase description a p
+      p.description= user.description
+    else if authorised
+      h2.blue Description
+      p.description Usuario no tiene descripción porque no añadió ninguna
+    else
+      h2.red Description
+      //- El punto final p.description indica que la línea siguiente corresponde a la actual
+      p.description. 
+        Usuario no tiene descripción
+    |
+    |
+    ul
+      each val in [1, 2, 3, 4, 5]
+        
+        li= val

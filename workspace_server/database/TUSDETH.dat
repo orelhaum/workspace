@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00006075,
+    "prevClosePrice": 0.00209827,
+    "lastPrice": 0.00216424,
+    "weightedAvgPrice": 0.00212095,
+    "priceChangePercent": 2.888,
+    "lowPrice": 0.00204001,
+    "openPrice": 0.00210349,
+    "bidQty": 8,
+    "bidPrice": 0.00216606,
+    "closeTime": 1530663795814,
+    "volume": 434504,
+    "highPrice": 0.00222,
+    "quoteVolume": 921.56128656,
+    "symbol": "TUSDETH",
+    "askPrice": 0.00217677
+  }
+}

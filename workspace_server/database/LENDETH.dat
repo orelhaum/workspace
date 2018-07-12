@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00000177,
+    "prevClosePrice": 0.00007035,
+    "lastPrice": 0.00007202,
+    "weightedAvgPrice": 0.0000739,
+    "priceChangePercent": 2.52,
+    "lowPrice": 0.00006796,
+    "openPrice": 0.00007025,
+    "bidQty": 10784,
+    "bidPrice": 0.00007195,
+    "closeTime": 1530663795813,
+    "volume": 6927268,
+    "highPrice": 0.0000796,
+    "quoteVolume": 511.95278922,
+    "symbol": "LENDETH",
+    "askPrice": 0.0000723
+  }
+}

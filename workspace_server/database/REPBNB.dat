@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.045,
+    "prevClosePrice": 2.508,
+    "lastPrice": 2.507,
+    "weightedAvgPrice": 2.54560171,
+    "priceChangePercent": -1.763,
+    "lowPrice": 2.499,
+    "openPrice": 2.552,
+    "bidQty": 0.009,
+    "bidPrice": 2.507,
+    "closeTime": 1530663748423,
+    "volume": 576.022,
+    "highPrice": 2.608,
+    "quoteVolume": 1466.322588,
+    "symbol": "REPBNB",
+    "askPrice": 2.542
+  }
+}

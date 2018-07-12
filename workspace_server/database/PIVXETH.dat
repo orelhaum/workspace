@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000107,
+    "prevClosePrice": 0.004529,
+    "lastPrice": 0.004631,
+    "weightedAvgPrice": 0.00455795,
+    "priceChangePercent": 2.365,
+    "lowPrice": 0.004461,
+    "openPrice": 0.004524,
+    "bidQty": 3.27,
+    "bidPrice": 0.004584,
+    "closeTime": 1530663747283,
+    "volume": 21704.64,
+    "highPrice": 0.004792,
+    "quoteVolume": 98.92864906,
+    "symbol": "PIVXETH",
+    "askPrice": 0.004626
+  }
+}

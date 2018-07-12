@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000006,
+    "prevClosePrice": 0.000788,
+    "lastPrice": 0.000782,
+    "weightedAvgPrice": 0.00080199,
+    "priceChangePercent": -0.761,
+    "lowPrice": 0.000774,
+    "openPrice": 0.000788,
+    "bidQty": 85.54,
+    "bidPrice": 0.00078,
+    "closeTime": 1530663869130,
+    "volume": 220012.59,
+    "highPrice": 0.000856,
+    "quoteVolume": 176.44802434,
+    "symbol": "HSRBTC",
+    "askPrice": 0.000791
+  }
+}

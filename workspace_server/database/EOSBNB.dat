@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.0089,
+    "prevClosePrice": 0.6108,
+    "lastPrice": 0.6234,
+    "weightedAvgPrice": 0.63124895,
+    "priceChangePercent": 1.448,
+    "lowPrice": 0.6117,
+    "openPrice": 0.6145,
+    "bidQty": 21.1,
+    "bidPrice": 0.6229,
+    "closeTime": 1530663845237,
+    "volume": 173252.02,
+    "highPrice": 0.645,
+    "quoteVolume": 109365.155762,
+    "symbol": "EOSBNB",
+    "askPrice": 0.6244
+  }
+}

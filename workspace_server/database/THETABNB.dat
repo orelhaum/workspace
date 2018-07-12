@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00033,
+    "prevClosePrice": 0.01118,
+    "lastPrice": 0.01166,
+    "weightedAvgPrice": 0.0117285,
+    "priceChangePercent": 2.913,
+    "lowPrice": 0.01121,
+    "openPrice": 0.01133,
+    "bidQty": 2492,
+    "bidPrice": 0.0115,
+    "closeTime": 1530663749085,
+    "volume": 640361.72,
+    "highPrice": 0.01245,
+    "quoteVolume": 7510.484646,
+    "symbol": "THETABNB",
+    "askPrice": 0.01171
+  }
+}

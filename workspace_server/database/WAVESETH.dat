@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000078,
+    "prevClosePrice": 0.006582,
+    "lastPrice": 0.006494,
+    "weightedAvgPrice": 0.00653206,
+    "priceChangePercent": -1.187,
+    "lowPrice": 0.0064,
+    "openPrice": 0.006572,
+    "bidQty": 62.02,
+    "bidPrice": 0.006488,
+    "closeTime": 1530663746107,
+    "volume": 24339.79,
+    "highPrice": 0.006722,
+    "quoteVolume": 158.98895838,
+    "symbol": "WAVESETH",
+    "askPrice": 0.006528
+  }
+}

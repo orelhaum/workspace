@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000578,
+    "prevClosePrice": 0.0006602,
+    "lastPrice": 0.0006038,
+    "weightedAvgPrice": 0.00064217,
+    "priceChangePercent": -8.736,
+    "lowPrice": 0.0006033,
+    "openPrice": 0.0006616,
+    "bidQty": 23.96,
+    "bidPrice": 0.0006038,
+    "closeTime": 1530663766927,
+    "volume": 123318.12,
+    "highPrice": 0.0006799,
+    "quoteVolume": 79.19169522,
+    "symbol": "NEBLBTC",
+    "askPrice": 0.0006069
+  }
+}

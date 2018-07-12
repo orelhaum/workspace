@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000334,
+    "prevClosePrice": 0.0008009,
+    "lastPrice": 0.0007667,
+    "weightedAvgPrice": 0.00078677,
+    "priceChangePercent": -4.174,
+    "lowPrice": 0.0007534,
+    "openPrice": 0.0008001,
+    "bidQty": 6.36,
+    "bidPrice": 0.0007667,
+    "closeTime": 1530663886146,
+    "volume": 4899272.92,
+    "highPrice": 0.000821,
+    "quoteVolume": 3854.60176786,
+    "symbol": "ONTBTC",
+    "askPrice": 0.0007683
+  }
+}

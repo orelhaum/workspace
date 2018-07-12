@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000073,
+    "prevClosePrice": 0.001446,
+    "lastPrice": 0.001383,
+    "weightedAvgPrice": 0.00142842,
+    "priceChangePercent": -5.014,
+    "lowPrice": 0.001319,
+    "openPrice": 0.001456,
+    "bidQty": 36.03,
+    "bidPrice": 0.001383,
+    "closeTime": 1530663796353,
+    "volume": 236311.27,
+    "highPrice": 0.001505,
+    "quoteVolume": 337.55101304,
+    "symbol": "INSETH",
+    "askPrice": 0.001404
+  }
+}

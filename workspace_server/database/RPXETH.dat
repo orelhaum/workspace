@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000281,
+    "prevClosePrice": 0.00008078,
+    "lastPrice": 0.00007797,
+    "weightedAvgPrice": 0.00008062,
+    "priceChangePercent": -3.479,
+    "lowPrice": 0.00007699,
+    "openPrice": 0.00008078,
+    "bidQty": 12353,
+    "bidPrice": 0.00007771,
+    "closeTime": 1530663747882,
+    "volume": 1128816,
+    "highPrice": 0.00008402,
+    "quoteVolume": 91.01040494,
+    "symbol": "RPXETH",
+    "askPrice": 0.00007853
+  }
+}

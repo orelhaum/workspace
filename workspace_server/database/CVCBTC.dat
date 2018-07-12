@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000011,
+    "prevClosePrice": 0.0000309,
+    "lastPrice": 0.00002984,
+    "weightedAvgPrice": 0.00002992,
+    "priceChangePercent": -3.555,
+    "lowPrice": 0.00002886,
+    "openPrice": 0.00003094,
+    "bidQty": 31327,
+    "bidPrice": 0.00002983,
+    "closeTime": 1530663785838,
+    "volume": 6376251,
+    "highPrice": 0.00003121,
+    "quoteVolume": 190.79269982,
+    "symbol": "CVCBTC",
+    "askPrice": 0.00002984
+  }
+}

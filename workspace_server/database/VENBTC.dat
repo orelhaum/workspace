@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00001291,
+    "prevClosePrice": 0.00041613,
+    "lastPrice": 0.00040323,
+    "weightedAvgPrice": 0.00041362,
+    "priceChangePercent": -3.102,
+    "lowPrice": 0.00040201,
+    "openPrice": 0.00041614,
+    "bidQty": 3,
+    "bidPrice": 0.00040264,
+    "closeTime": 1530663824006,
+    "volume": 4079678,
+    "highPrice": 0.000434,
+    "quoteVolume": 1687.42485674,
+    "symbol": "VENBTC",
+    "askPrice": 0.00040323
+  }
+}

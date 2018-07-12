@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -4.2e-7,
+    "prevClosePrice": 0.00000478,
+    "lastPrice": 0.00000436,
+    "weightedAvgPrice": 0.00000471,
+    "priceChangePercent": -8.787,
+    "lowPrice": 0.00000433,
+    "openPrice": 0.00000478,
+    "bidQty": 88382,
+    "bidPrice": 0.00000436,
+    "closeTime": 1530663748747,
+    "volume": 86890964,
+    "highPrice": 0.00000517,
+    "quoteVolume": 409.32908993,
+    "symbol": "IOTXBTC",
+    "askPrice": 0.00000437
+  }
+}

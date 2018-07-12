@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000156,
+    "prevClosePrice": 0.00001182,
+    "lastPrice": 0.00001026,
+    "weightedAvgPrice": 0.00001132,
+    "priceChangePercent": -13.198,
+    "lowPrice": 0.00001022,
+    "openPrice": 0.00001182,
+    "bidQty": 4210,
+    "bidPrice": 0.00001025,
+    "closeTime": 1530663865289,
+    "volume": 181159749,
+    "highPrice": 0.0000125,
+    "quoteVolume": 2051.27099972,
+    "symbol": "QKCBTC",
+    "askPrice": 0.0000103
+  }
+}

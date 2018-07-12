@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000765,
+    "prevClosePrice": 0.0033851,
+    "lastPrice": 0.003335,
+    "weightedAvgPrice": 0.00350175,
+    "priceChangePercent": -2.242,
+    "lowPrice": 0.0032503,
+    "openPrice": 0.0034115,
+    "bidQty": 864,
+    "bidPrice": 0.003335,
+    "closeTime": 1530663796365,
+    "volume": 203650,
+    "highPrice": 0.00382,
+    "quoteVolume": 713.1318338,
+    "symbol": "BQXETH",
+    "askPrice": 0.0033452
+  }
+}

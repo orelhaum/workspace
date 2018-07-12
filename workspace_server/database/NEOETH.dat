@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.002138,
+    "prevClosePrice": 0.075832,
+    "lastPrice": 0.077832,
+    "weightedAvgPrice": 0.07866031,
+    "priceChangePercent": 2.825,
+    "lowPrice": 0.075107,
+    "openPrice": 0.075694,
+    "bidQty": 0.58,
+    "bidPrice": 0.077833,
+    "closeTime": 1530663886030,
+    "volume": 69741.95,
+    "highPrice": 0.0828,
+    "quoteVolume": 5485.92370429,
+    "symbol": "NEOETH",
+    "askPrice": 0.07797
+  }
+}

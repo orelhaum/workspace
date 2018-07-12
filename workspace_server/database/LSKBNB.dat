@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0088,
+    "prevClosePrice": 0.4058,
+    "lastPrice": 0.397,
+    "weightedAvgPrice": 0.40878279,
+    "priceChangePercent": -2.169,
+    "lowPrice": 0.3915,
+    "openPrice": 0.4058,
+    "bidQty": 93.32,
+    "bidPrice": 0.3963,
+    "closeTime": 1530663741086,
+    "volume": 3477.25,
+    "highPrice": 0.4225,
+    "quoteVolume": 1421.439967,
+    "symbol": "LSKBNB",
+    "askPrice": 0.3997
+  }
+}

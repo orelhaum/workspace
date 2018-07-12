@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000241,
+    "prevClosePrice": 0.00005543,
+    "lastPrice": 0.00005292,
+    "weightedAvgPrice": 0.0000548,
+    "priceChangePercent": -4.356,
+    "lowPrice": 0.00005162,
+    "openPrice": 0.00005533,
+    "bidQty": 110,
+    "bidPrice": 0.00005263,
+    "closeTime": 1530663748436,
+    "volume": 2938447,
+    "highPrice": 0.0000577,
+    "quoteVolume": 161.02213623,
+    "symbol": "GNTBTC",
+    "askPrice": 0.00005287
+  }
+}

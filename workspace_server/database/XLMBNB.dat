@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00023,
+    "prevClosePrice": 0.01472,
+    "lastPrice": 0.01451,
+    "weightedAvgPrice": 0.01479191,
+    "priceChangePercent": -1.56,
+    "lowPrice": 0.01439,
+    "openPrice": 0.01474,
+    "bidQty": 275.1,
+    "bidPrice": 0.0145,
+    "closeTime": 1530663746052,
+    "volume": 957240.86,
+    "highPrice": 0.01514,
+    "quoteVolume": 14159.4197368,
+    "symbol": "XLMBNB",
+    "askPrice": 0.01459
+  }
+}

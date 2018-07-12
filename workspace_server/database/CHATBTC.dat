@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -2e-7,
+    "prevClosePrice": 0.00000785,
+    "lastPrice": 0.00000767,
+    "weightedAvgPrice": 0.00000834,
+    "priceChangePercent": -2.541,
+    "lowPrice": 0.00000751,
+    "openPrice": 0.00000787,
+    "bidQty": 14179,
+    "bidPrice": 0.00000767,
+    "closeTime": 1530663827415,
+    "volume": 50944870,
+    "highPrice": 0.00000984,
+    "quoteVolume": 424.73156653,
+    "symbol": "CHATBTC",
+    "askPrice": 0.00000769
+  }
+}

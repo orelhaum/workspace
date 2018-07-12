@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.01365,
+    "prevClosePrice": 0.35711,
+    "lastPrice": 0.34346,
+    "weightedAvgPrice": 0.34801865,
+    "priceChangePercent": -3.822,
+    "lowPrice": 0.33071,
+    "openPrice": 0.35711,
+    "bidQty": 5.4,
+    "bidPrice": 0.34238,
+    "closeTime": 1530663863665,
+    "volume": 3885.22,
+    "highPrice": 0.36652,
+    "quoteVolume": 1352.1290002,
+    "symbol": "NASBNB",
+    "askPrice": 0.35026
+  }
+}

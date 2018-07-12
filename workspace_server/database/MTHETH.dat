@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000261,
+    "prevClosePrice": 0.00008925,
+    "lastPrice": 0.00008721,
+    "weightedAvgPrice": 0.00009006,
+    "priceChangePercent": -2.906,
+    "lowPrice": 0.00008672,
+    "openPrice": 0.00008982,
+    "bidQty": 4162,
+    "bidPrice": 0.0000869,
+    "closeTime": 1530663723873,
+    "volume": 1768341,
+    "highPrice": 0.00009715,
+    "quoteVolume": 159.25094146,
+    "symbol": "MTHETH",
+    "askPrice": 0.00008744
+  }
+}

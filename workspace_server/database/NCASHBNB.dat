@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000076,
+    "prevClosePrice": 0.001052,
+    "lastPrice": 0.000977,
+    "weightedAvgPrice": 0.00103203,
+    "priceChangePercent": -7.217,
+    "lowPrice": 0.00097,
+    "openPrice": 0.001053,
+    "bidQty": 292491,
+    "bidPrice": 0.000977,
+    "closeTime": 1530663870318,
+    "volume": 8643519,
+    "highPrice": 0.001109,
+    "quoteVolume": 8920.35927,
+    "symbol": "NCASHBNB",
+    "askPrice": 0.00099
+  }
+}

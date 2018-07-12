@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.4894,
+    "prevClosePrice": 14.5199,
+    "lastPrice": 14.0206,
+    "weightedAvgPrice": 14.41537724,
+    "priceChangePercent": -3.373,
+    "lowPrice": 13.94,
+    "openPrice": 14.51,
+    "bidQty": 34.12,
+    "bidPrice": 14.0211,
+    "closeTime": 1530663870245,
+    "volume": 1807873.79,
+    "highPrice": 14.81,
+    "quoteVolume": 26061182.685944,
+    "symbol": "BNBUSDT",
+    "askPrice": 14.035
+  }
+}

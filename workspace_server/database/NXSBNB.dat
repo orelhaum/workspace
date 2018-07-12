@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0082,
+    "prevClosePrice": 0.0939,
+    "lastPrice": 0.0878,
+    "weightedAvgPrice": 0.09117818,
+    "priceChangePercent": -8.542,
+    "lowPrice": 0.0878,
+    "openPrice": 0.096,
+    "bidQty": 20,
+    "bidPrice": 0.088,
+    "closeTime": 1530663745624,
+    "volume": 4697.7,
+    "highPrice": 0.0976,
+    "quoteVolume": 428.327718,
+    "symbol": "NXSBNB",
+    "askPrice": 0.0904
+  }
+}

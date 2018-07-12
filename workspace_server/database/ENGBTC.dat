@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000592,
+    "prevClosePrice": 0.00024305,
+    "lastPrice": 0.00023737,
+    "weightedAvgPrice": 0.00024617,
+    "priceChangePercent": -2.433,
+    "lowPrice": 0.000236,
+    "openPrice": 0.00024329,
+    "bidQty": 14,
+    "bidPrice": 0.0002366,
+    "closeTime": 1530663745889,
+    "volume": 1430045,
+    "highPrice": 0.0002525,
+    "quoteVolume": 352.03829552,
+    "symbol": "ENGBTC",
+    "askPrice": 0.00023711
+  }
+}

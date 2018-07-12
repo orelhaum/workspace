@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000875,
+    "prevClosePrice": 0.00018047,
+    "lastPrice": 0.000171,
+    "weightedAvgPrice": 0.00017351,
+    "priceChangePercent": -4.868,
+    "lowPrice": 0.00016839,
+    "openPrice": 0.00017975,
+    "bidQty": 100,
+    "bidPrice": 0.0001704,
+    "closeTime": 1530663745266,
+    "volume": 2589365,
+    "highPrice": 0.0001854,
+    "quoteVolume": 449.26834984,
+    "symbol": "REQETH",
+    "askPrice": 0.0001718
+  }
+}

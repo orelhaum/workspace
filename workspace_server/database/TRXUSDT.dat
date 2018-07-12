@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00162,
+    "prevClosePrice": 0.03954,
+    "lastPrice": 0.03792,
+    "weightedAvgPrice": 0.03940296,
+    "priceChangePercent": -4.097,
+    "lowPrice": 0.03777,
+    "openPrice": 0.03954,
+    "bidQty": 2400,
+    "bidPrice": 0.03787,
+    "closeTime": 1530663804216,
+    "volume": 545340346.4,
+    "highPrice": 0.04079,
+    "quoteVolume": 21488022.904869,
+    "symbol": "TRXUSDT",
+    "askPrice": 0.03795
+  }
+}

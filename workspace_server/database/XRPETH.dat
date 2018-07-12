@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00001622,
+    "prevClosePrice": 0.0010281,
+    "lastPrice": 0.00104571,
+    "weightedAvgPrice": 0.00105491,
+    "priceChangePercent": 1.576,
+    "lowPrice": 0.00102641,
+    "openPrice": 0.00102949,
+    "bidQty": 10031,
+    "bidPrice": 0.00104571,
+    "closeTime": 1530663749976,
+    "volume": 3537677,
+    "highPrice": 0.0010735,
+    "quoteVolume": 3731.93342874,
+    "symbol": "XRPETH",
+    "askPrice": 0.00104739
+  }
+}

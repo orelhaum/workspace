@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00006543,
+    "prevClosePrice": 0.00155,
+    "lastPrice": 0.00161543,
+    "weightedAvgPrice": 0.00166086,
+    "priceChangePercent": 4.221,
+    "lowPrice": 0.00149521,
+    "openPrice": 0.00155,
+    "bidQty": 312,
+    "bidPrice": 0.00161567,
+    "closeTime": 1530663867639,
+    "volume": 2030022,
+    "highPrice": 0.001813,
+    "quoteVolume": 3371.58033849,
+    "symbol": "ELFETH",
+    "askPrice": 0.00163145
+  }
+}

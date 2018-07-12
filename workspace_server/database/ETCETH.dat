@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00011,
+    "prevClosePrice": 0.035,
+    "lastPrice": 0.034895,
+    "weightedAvgPrice": 0.03508452,
+    "priceChangePercent": -0.314,
+    "lowPrice": 0.034631,
+    "openPrice": 0.035005,
+    "bidQty": 0.43,
+    "bidPrice": 0.034843,
+    "closeTime": 1530663885957,
+    "volume": 48330.78,
+    "highPrice": 0.0355,
+    "quoteVolume": 1695.66215062,
+    "symbol": "ETCETH",
+    "askPrice": 0.034878
+  }
+}

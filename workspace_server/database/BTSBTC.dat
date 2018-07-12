@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 1.6e-7,
+    "prevClosePrice": 0.0000241,
+    "lastPrice": 0.00002434,
+    "weightedAvgPrice": 0.00002469,
+    "priceChangePercent": 0.662,
+    "lowPrice": 0.00002372,
+    "openPrice": 0.00002418,
+    "bidQty": 156,
+    "bidPrice": 0.00002427,
+    "closeTime": 1530663822800,
+    "volume": 8426563,
+    "highPrice": 0.00002558,
+    "quoteVolume": 208.06143425,
+    "symbol": "BTSBTC",
+    "askPrice": 0.00002435
+  }
+}

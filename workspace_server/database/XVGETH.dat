@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000188,
+    "prevClosePrice": 0.00005737,
+    "lastPrice": 0.00005527,
+    "weightedAvgPrice": 0.0000567,
+    "priceChangePercent": -3.29,
+    "lowPrice": 0.000055,
+    "openPrice": 0.00005715,
+    "bidQty": 17154,
+    "bidPrice": 0.00005525,
+    "closeTime": 1530663854669,
+    "volume": 24369547,
+    "highPrice": 0.00005854,
+    "quoteVolume": 1381.63988189,
+    "symbol": "XVGETH",
+    "askPrice": 0.0000554
+  }
+}

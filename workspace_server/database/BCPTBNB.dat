@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00052,
+    "prevClosePrice": 0.01241,
+    "lastPrice": 0.01215,
+    "weightedAvgPrice": 0.01274863,
+    "priceChangePercent": -4.104,
+    "lowPrice": 0.01184,
+    "openPrice": 0.01267,
+    "bidQty": 193.13,
+    "bidPrice": 0.01206,
+    "closeTime": 1530663722801,
+    "volume": 116952.38,
+    "highPrice": 0.01355,
+    "quoteVolume": 1490.982482,
+    "symbol": "BCPTBNB",
+    "askPrice": 0.0127
+  }
+}

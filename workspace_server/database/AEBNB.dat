@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00218,
+    "prevClosePrice": 0.14651,
+    "lastPrice": 0.14288,
+    "weightedAvgPrice": 0.14911441,
+    "priceChangePercent": -1.503,
+    "lowPrice": 0.14074,
+    "openPrice": 0.14506,
+    "bidQty": 194.65,
+    "bidPrice": 0.14334,
+    "closeTime": 1530663748524,
+    "volume": 46909.27,
+    "highPrice": 0.15736,
+    "quoteVolume": 6994.8481083,
+    "symbol": "AEBNB",
+    "askPrice": 0.14477
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000025,
+    "prevClosePrice": 0.001382,
+    "lastPrice": 0.001359,
+    "weightedAvgPrice": 0.00138131,
+    "priceChangePercent": -1.806,
+    "lowPrice": 0.00134,
+    "openPrice": 0.001384,
+    "bidQty": 6.05,
+    "bidPrice": 0.001353,
+    "closeTime": 1530663767995,
+    "volume": 151216.51,
+    "highPrice": 0.001427,
+    "quoteVolume": 208.87751644,
+    "symbol": "QTUMBTC",
+    "askPrice": 0.001359
+  }
+}

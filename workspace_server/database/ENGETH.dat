@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000459,
+    "prevClosePrice": 0.0034083,
+    "lastPrice": 0.0033311,
+    "weightedAvgPrice": 0.00343755,
+    "priceChangePercent": -1.359,
+    "lowPrice": 0.0033221,
+    "openPrice": 0.003377,
+    "bidQty": 4,
+    "bidPrice": 0.0033304,
+    "closeTime": 1530663745346,
+    "volume": 107427,
+    "highPrice": 0.0035488,
+    "quoteVolume": 369.2859941,
+    "symbol": "ENGETH",
+    "askPrice": 0.0033433
+  }
+}

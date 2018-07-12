@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 5.1e-7,
+    "prevClosePrice": 0.00007387,
+    "lastPrice": 0.00007438,
+    "weightedAvgPrice": 0.00007552,
+    "priceChangePercent": 0.69,
+    "lowPrice": 0.00007361,
+    "openPrice": 0.00007387,
+    "bidQty": 4625,
+    "bidPrice": 0.00007423,
+    "closeTime": 1530663831066,
+    "volume": 52605662,
+    "highPrice": 0.00007814,
+    "quoteVolume": 3972.97794463,
+    "symbol": "XRPBTC",
+    "askPrice": 0.00007437
+  }
+}

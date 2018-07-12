@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000192,
+    "prevClosePrice": 0.019222,
+    "lastPrice": 0.01904,
+    "weightedAvgPrice": 0.01925192,
+    "priceChangePercent": -0.998,
+    "lowPrice": 0.018833,
+    "openPrice": 0.019232,
+    "bidQty": 19.16,
+    "bidPrice": 0.019043,
+    "closeTime": 1530663745287,
+    "volume": 31971.75,
+    "highPrice": 0.019664,
+    "quoteVolume": 615.51764956,
+    "symbol": "QTUMETH",
+    "askPrice": 0.019104
+  }
+}

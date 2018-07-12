@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000032,
+    "prevClosePrice": 0.0008933,
+    "lastPrice": 0.0008621,
+    "weightedAvgPrice": 0.00089765,
+    "priceChangePercent": -3.579,
+    "lowPrice": 0.0008592,
+    "openPrice": 0.0008941,
+    "bidQty": 57.22,
+    "bidPrice": 0.0008608,
+    "closeTime": 1530663742869,
+    "volume": 230796.45,
+    "highPrice": 0.0009184,
+    "quoteVolume": 207.1747159,
+    "symbol": "LSKBTC",
+    "askPrice": 0.0008621
+  }
+}

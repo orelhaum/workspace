@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000185,
+    "prevClosePrice": 0.0000359,
+    "lastPrice": 0.0000338,
+    "weightedAvgPrice": 0.00003525,
+    "priceChangePercent": -5.189,
+    "lowPrice": 0.00003355,
+    "openPrice": 0.00003565,
+    "bidQty": 40,
+    "bidPrice": 0.00003388,
+    "closeTime": 1530663747136,
+    "volume": 3443313,
+    "highPrice": 0.00003717,
+    "quoteVolume": 121.3836906,
+    "symbol": "WINGSBTC",
+    "askPrice": 0.00003414
+  }
+}

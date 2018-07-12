@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000723,
+    "prevClosePrice": 0.009153,
+    "lastPrice": 0.008521,
+    "weightedAvgPrice": 0.00899601,
+    "priceChangePercent": -7.821,
+    "lowPrice": 0.008521,
+    "openPrice": 0.009244,
+    "bidQty": 235.23,
+    "bidPrice": 0.008502,
+    "closeTime": 1530663771248,
+    "volume": 21488.34,
+    "highPrice": 0.009587,
+    "quoteVolume": 193.30942386,
+    "symbol": "NEBLETH",
+    "askPrice": 0.008606
+  }
+}

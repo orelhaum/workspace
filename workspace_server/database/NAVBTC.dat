@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000065,
+    "prevClosePrice": 0.0000811,
+    "lastPrice": 0.0000749,
+    "weightedAvgPrice": 0.00008028,
+    "priceChangePercent": -7.985,
+    "lowPrice": 0.000074,
+    "openPrice": 0.0000814,
+    "bidQty": 1842.92,
+    "bidPrice": 0.0000749,
+    "closeTime": 1530663802918,
+    "volume": 4058267.36,
+    "highPrice": 0.0000854,
+    "quoteVolume": 325.79253643,
+    "symbol": "NAVBTC",
+    "askPrice": 0.0000751
+  }
+}

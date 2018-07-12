@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00168,
+    "prevClosePrice": 0.117807,
+    "lastPrice": 0.116237,
+    "weightedAvgPrice": 0.11925037,
+    "priceChangePercent": -1.425,
+    "lowPrice": 0.115795,
+    "openPrice": 0.117917,
+    "bidQty": 0.012,
+    "bidPrice": 0.116237,
+    "closeTime": 1530663886087,
+    "volume": 24654.875,
+    "highPrice": 0.12456,
+    "quoteVolume": 2940.10296696,
+    "symbol": "BCCBTC",
+    "askPrice": 0.116458
+  }
+}

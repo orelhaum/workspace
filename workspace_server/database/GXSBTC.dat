@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000024,
+    "prevClosePrice": 0.0004166,
+    "lastPrice": 0.0003934,
+    "weightedAvgPrice": 0.00040279,
+    "priceChangePercent": -5.75,
+    "lowPrice": 0.0003876,
+    "openPrice": 0.0004174,
+    "bidQty": 18.61,
+    "bidPrice": 0.0003915,
+    "closeTime": 1530663746883,
+    "volume": 253298.24,
+    "highPrice": 0.000421,
+    "quoteVolume": 102.02530322,
+    "symbol": "GXSBTC",
+    "askPrice": 0.0003934
+  }
+}

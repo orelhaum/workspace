@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.000085,
+    "prevClosePrice": 0.001095,
+    "lastPrice": 0.001181,
+    "weightedAvgPrice": 0.00121551,
+    "priceChangePercent": 7.755,
+    "lowPrice": 0.001091,
+    "openPrice": 0.001096,
+    "bidQty": 142.45,
+    "bidPrice": 0.001181,
+    "closeTime": 1530663847490,
+    "volume": 435899.83,
+    "highPrice": 0.00135,
+    "quoteVolume": 529.84050475,
+    "symbol": "MCOBTC",
+    "askPrice": 0.001186
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000991,
+    "prevClosePrice": 0.0004316,
+    "lastPrice": 0.00041909,
+    "weightedAvgPrice": 0.00041637,
+    "priceChangePercent": -2.31,
+    "lowPrice": 0.00040361,
+    "openPrice": 0.000429,
+    "bidQty": 1200,
+    "bidPrice": 0.00041872,
+    "closeTime": 1530663746795,
+    "volume": 191995,
+    "highPrice": 0.00043054,
+    "quoteVolume": 79.94137076,
+    "symbol": "CVCETH",
+    "askPrice": 0.00042013
+  }
+}

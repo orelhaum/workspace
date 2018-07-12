@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00075,
+    "prevClosePrice": 0.02515,
+    "lastPrice": 0.02454,
+    "weightedAvgPrice": 0.02494845,
+    "priceChangePercent": -2.966,
+    "lowPrice": 0.02369,
+    "openPrice": 0.02529,
+    "bidQty": 200,
+    "bidPrice": 0.02424,
+    "closeTime": 1530663740286,
+    "volume": 353787.87,
+    "highPrice": 0.02708,
+    "quoteVolume": 8826.4604141,
+    "symbol": "GNTBNB",
+    "askPrice": 0.02453
+  }
+}

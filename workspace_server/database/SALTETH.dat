@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000047,
+    "prevClosePrice": 0.002693,
+    "lastPrice": 0.002647,
+    "weightedAvgPrice": 0.00271702,
+    "priceChangePercent": -1.745,
+    "lowPrice": 0.002602,
+    "openPrice": 0.002694,
+    "bidQty": 5.74,
+    "bidPrice": 0.002633,
+    "closeTime": 1530663745682,
+    "volume": 56190.22,
+    "highPrice": 0.002832,
+    "quoteVolume": 152.67009464,
+    "symbol": "SALTETH",
+    "askPrice": 0.002654
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": 0.00241,
+    "prevClosePrice": 0.14816,
+    "lastPrice": 0.15212,
+    "weightedAvgPrice": 0.15065532,
+    "priceChangePercent": 1.61,
+    "lowPrice": 0.14712,
+    "openPrice": 0.14971,
+    "bidQty": 197.84,
+    "bidPrice": 0.14943,
+    "closeTime": 1530663746073,
+    "volume": 7057,
+    "highPrice": 0.15605,
+    "quoteVolume": 1063.1745707,
+    "symbol": "PIVXBNB",
+    "askPrice": 0.15233
+  }
+}

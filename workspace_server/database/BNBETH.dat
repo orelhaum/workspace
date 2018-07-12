@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.000103,
+    "prevClosePrice": 0.030594,
+    "lastPrice": 0.030483,
+    "weightedAvgPrice": 0.03037204,
+    "priceChangePercent": -0.337,
+    "lowPrice": 0.0299,
+    "openPrice": 0.030586,
+    "bidQty": 40.79,
+    "bidPrice": 0.030439,
+    "closeTime": 1530663870556,
+    "volume": 201515.58,
+    "highPrice": 0.030713,
+    "quoteVolume": 6120.43889169,
+    "symbol": "BNBETH",
+    "askPrice": 0.030483
+  }
+}

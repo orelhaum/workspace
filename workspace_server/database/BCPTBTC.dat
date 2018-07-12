@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00000157,
+    "prevClosePrice": 0.00002775,
+    "lastPrice": 0.00002618,
+    "weightedAvgPrice": 0.00002754,
+    "priceChangePercent": -5.658,
+    "lowPrice": 0.0000256,
+    "openPrice": 0.00002775,
+    "bidQty": 103,
+    "bidPrice": 0.00002621,
+    "closeTime": 1530663868552,
+    "volume": 7397260,
+    "highPrice": 0.0000298,
+    "quoteVolume": 203.6901276,
+    "symbol": "BCPTBTC",
+    "askPrice": 0.00002634
+  }
+}

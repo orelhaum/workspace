@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.0000351,
+    "prevClosePrice": 0.0007811,
+    "lastPrice": 0.0007475,
+    "weightedAvgPrice": 0.00076851,
+    "priceChangePercent": -4.485,
+    "lowPrice": 0.00073,
+    "openPrice": 0.0007826,
+    "bidQty": 13.31,
+    "bidPrice": 0.0007454,
+    "closeTime": 1530663862428,
+    "volume": 751915.7,
+    "highPrice": 0.0008064,
+    "quoteVolume": 577.85571432,
+    "symbol": "NASBTC",
+    "askPrice": 0.0007481
+  }
+}

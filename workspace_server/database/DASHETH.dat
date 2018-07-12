@@ -1,0 +1,19 @@
+{
+  "data": {
+    "priceChange": -0.00285,
+    "prevClosePrice": 0.52645,
+    "lastPrice": 0.5236,
+    "weightedAvgPrice": 0.53436774,
+    "priceChangePercent": -0.541,
+    "lowPrice": 0.52137,
+    "openPrice": 0.52645,
+    "bidQty": 1.195,
+    "bidPrice": 0.5222,
+    "closeTime": 1530663743132,
+    "volume": 712.477,
+    "highPrice": 0.545,
+    "quoteVolume": 380.72472744,
+    "symbol": "DASHETH",
+    "askPrice": 0.52537
+  }
+}
