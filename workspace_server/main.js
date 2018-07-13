@@ -2,6 +2,8 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
+const passport = require('passport');
+const LocalStrategy = require('passport-local').Strategy;
 const app = express();
 
 //Importaciones de mis módulos
@@ -29,46 +31,57 @@ app.set('views',path.join(__dirname,'views'));
 app.set('view engine','pug');
 
 //Middlewares de terceros
-app.use('/static',express.static(path.join(__dirname,'public')));
+app.use('/',express.static(path.join(__dirname,'public')));
 app.use(bodyParser.raw()); // no parsea realmente, sino que convierte los datos recibidos del body a una variable de tipo Buffer que puede ser manejada por los siguientes middlewares
 app.use(bodyParser.json()); // para parsear application/json
 app.use(bodyParser.urlencoded({ extended: true })); // para parsear application/x-www-form-urlencoded
+app.use(passport.initialize());
+app.use(passport.session());
 
 //Middlewares míos
 app.use(ini.iniciar());
 //app.use(seguridad.comprobar);
-app.use(Validacion.validar);
+//////app.use(Validacion.validar);
+
+
+let fields =  {
+  usernameField: 'username',
+  passwordField: 'password'
+}
+
+let loginFunction = (username, password, done) => {
+  if ((username === 'usuario') && (password === 'password')) {
+    return done(null, {username, loginDate: new Date()});
+  }
+  return done(null, false, { message: 'Incorrect username.' });
+}
+
+passport.use(new LocalStrategy(fields, loginFunction));
+
+passport.serializeUser(function(user, done) {
+  console.log(user);
+  done(null, user);
+});
+
+passport.deserializeUser(function(user, done) {
+  done(null, user);
+});
+
+
 
 //Rutas
-/*
-//gulpfile.js
-app.get('/download', (req, res)=> {
-  res.download('./gulpfile.js')
-});
-*/
-
 //Métodos de la página web
 app.get('/prueba', (req, res,next)=> {
   db.getCoins((err,coins)=>{
     if(err) return res.send(`Se ha producido un error: ${err}`)
     //tengo las monedas
-
-
     //pregunto precio
-
-
     //mando a la pagina
     res.render('index',{title:"Prueba de Pug",longitudMonedas:coins.length,monedas:coins});
   });
 });
 
-
-
 //Métodos del servicio web
-app.get('/', (req, res)=> {
-  res.send('general');
-});
-
 //market
 app.get('/coins', (req, res) =>{
   db.getCoins((err,coins)=>{
@@ -145,26 +158,49 @@ app.post('/msg/remove_all/', (req, res) =>{
 
 
 ///user/register
-app.post('/user/register', (req, res) =>{
-  UserModel.createUser(req, (err)=>{
+app.post('/user/register', (req, res,next) =>{
+  UserModel.createUser(req ,(err)=>{
     if(err) return next(err);
     res.json(Respuestas.ok());
   });
 });
 
-///user/valdiate
-app.get('/user/validate/:usuario/:tokenRegistro',Validacion.validar, (req, res)=> {
+///user/validate
+app.get('/user/validate/:usuario/:tokenRegistro', (req, res,next)=> {
   UserModel.validateUser(req,(err)=> {
+    if(err) return next(err);
+    // {
+    //  res.json(Respuestas.error(err));
+    //}
+   // else
+    //{
+      res.json(Respuestas.ok("Registro validado correctamente"));
+    //}
+  })
+});
+
+///user/login
+app.get('/user/login', (req, res) => {
+  if (req.session) console.log(req.session.user);	// { username: 'usuario', loginDate: ... }
+  res.end('login');
+});
+
+app.post('/user/login', passport.authenticate(('local'), { failureRedirect: '/user/login' }), (req, res) => {
+  res.redirect('/');
+});
+/*
+app.post('/user/login', (req, res)=> {
+  UserModel.loginUser(req,(err)=> {
     if(err) {
       res.json(Respuestas.error(err));
     }
     else
     {
-      res.json(Respuestas.ok("Registro validado correctamente"));
+      res.json(Respuestas.ok("Login realizado correctamente"));
     }
   })
 });
-
+*/
 // Esta ruta siempre debe ubicarse en el último lugar
 app.use(function (req, res, next) {
   res.status(404).json({
@@ -176,8 +212,9 @@ app.use(function (req, res, next) {
 })
 
 app.use(function (err,req, res, next) {
+  console.log('se ha producido un error:' + err);
   //si falla alguno internamente devovlemos el error 500
-  res.status(500).end();
+  res.status(500).end(err);
 })
 
 app.listen(8085);

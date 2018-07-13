@@ -57,6 +57,23 @@ class UserModel{
     })
   }
 
+  static loginUser(req,callback){
+
+    const db= req.variables.database;
+    const cripto=req.variables.criptografia;
+
+    const passwordSha=cripto.sha3(req.body.password)
+    const usuario=req.body.usuario;
+
+    db.getUser(usuario,(err,usuarioDb)=>{
+      if(err) return callback(err);
+      if(usuarioDb==undefined) return callback("Usuario incorrecto");
+      if(passwordSha === usuarioDb.passwordSha){
+        return callback();
+      }
+      return callback("Contraseña incorrecta");
+    })
+  }
 }
 
 module.exports = { UserModel }
