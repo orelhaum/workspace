@@ -153,8 +153,16 @@ app.post('/user/register', (req, res) =>{
 });
 
 ///user/valdiate
-app.get('/user/validate', (req, res) =>{
-  res.send(`Borrando todos los mensajes`);
+app.get('/user/validate/:usuario/:tokenRegistro',Validacion.validar, (req, res)=> {
+  UserModel.validateUser(req,(err)=> {
+    if(err) {
+      res.json(Respuestas.error(err));
+    }
+    else
+    {
+      res.json(Respuestas.ok("Registro validado correctamente"));
+    }
+  })
 });
 
 // Esta ruta siempre debe ubicarse en el último lugar

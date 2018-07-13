@@ -1,10 +1,12 @@
 const validator = require('validator');
 
 const { Respuestas } = require('../modules/respuestas');
-//const { Database } = require('../modules/database');
-//const { Configuracion } = require('../modules/configuracion');
+const { Database } = require('../modules/database');
+const { Configuracion } = require('../modules/configuracion');
 
-//const conf = new Configuracion('conf.json');
+const conf = new Configuracion('conf.json');
+
+const db = new Database(conf).getDb();
 
 class Validacion {
 
@@ -79,6 +81,30 @@ class Validacion {
       return "El formato del email no es correcto";
     }
   }
+/*
+  static tokenRegistro(req, value) {
+    const tokenRegistro = req.params.tokenRegistro;
+    //console.log(`validando token: ${tokenRegistro}`);
+    const users=[];
+    let validado=false;
+
+    db.getUsers((err,users)=>{
+      //console.log(users);
+      this.users=users;
+    });
+
+    for (let user of this.users){
+      console.log(user);
+      if(user.tokenRegistro === req.params.tokenRegistro){
+        console.log('token ok');
+        validado=true;
+      }
+    }
+    console.log(validado);
+    if(!validado) return "No existe el token introducido";
+  }
+  */
+
 }
 
 module.exports = {

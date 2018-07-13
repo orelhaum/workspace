@@ -28,13 +28,13 @@ class UserModel{
       fondos:{},
       recibidos:[],
       enviados:[],
-      tokenRegsitro:validationToken
+      tokenRegistro:validationToken
     }
 
     console.log(db);
 
     db.createUser(user,(err)=>{
-      const validationUrl=`http://localhost:8085/user/validate/${validationToken}`;
+      const validationUrl=`http://localhost:8085/user/validate/${user.usuario}/${validationToken}`;
       console.log(validationUrl);
       email.send(user.email,"Validación de Cuenta",validationUrl,(err,info)=>{
          callback(err);
@@ -43,17 +43,17 @@ class UserModel{
   }
 
   static validateUser(req,callback){
-    const token=req.params.token;
+    const token=req.params.tokenRegistro;
     const usuario=req.params.usuario;
 
     const db= req.variables.database;
 
     db.getUser(usuario,(err,usuarioDb)=>{
       if(err) return callback(err);
-      if(token === usuarioDb.tokenRegsitro){
-
+      if(token === usuarioDb.tokenRegistro){
+        return callback();
       }
-
+      return callback("El token de validación no es correcto")
     })
   }
 

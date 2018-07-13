@@ -366,15 +366,15 @@ class DatabaseRedis extends DatabaseBase {
   }
 
   createUser(user,callback){
-    console.log('Método createUser no implementado');
-    this.client_1.hmset(user.user,user,(err)=>{
+    console.log('Método createUser implementado');
+    this.client_1.hmset(user.usuario,user,(err)=>{
       if(callback) callback();
     });
 
   }
 
   getUsers(callback){
-    console.log('Método getUsers no implementado');
+    console.log('Método getUsers implementado');
     this.client_1.keys('*',(err,keys)=>{
     if ((err) && (callback)) return callback(err);
     let users=[];
@@ -390,14 +390,14 @@ class DatabaseRedis extends DatabaseBase {
   }
 
   getUser(username,callback){
-    console.log('Método getUser no implementado');
+    console.log('Método getUser implementado');
     this.client_1.hgetall(username,(err,user)=>{
       if ((err) && (callback)) return callback(err);
       callback(err,user);
     })
   }
   deleteUser(username,callback){
-    console.log('Método deleteUser no implementado');
+    console.log('Método deleteUser implementado');
     this.client_1.del(username);
     callback();
   }
