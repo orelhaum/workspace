@@ -234,7 +234,7 @@ class DatabaseRedis extends DatabaseBase {
 
     const options = {
       host: conf.get(CONSTANTES_CONF.database_redis_host),
-      puerto: conf.get(CONSTANTES_CONF.database_redis_port)
+      port: conf.get(CONSTANTES_CONF.database_redis_port)
     }
     const password= conf.get(CONSTANTES_CONF.database_redis_password);
     
